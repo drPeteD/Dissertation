@@ -1,0 +1,104 @@
+\documentclass[11pt,letterpaper,extrafontsizes,final]{memoir}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{hyperref}
+\usepackage{threeparttable}
+\usepackage{longtable}
+\usepackage{indentfirst}
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+%\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{fullpage}
+\usepackage{pdflscape}
+\usepackage[square,sort]{natbib}
+\usepackage[USenglish]{babel} 
+%
+% code list environment
+\newenvironment{mylisting}
+{\begin{list}{}{\setlength{\leftmargin}{4em}}\item\scriptsize\bfseries}
+{\end{list}}
+%
+\newenvironment{mytinylisting}
+{\begin{list}{}{\setlength{\leftmargin}{6em}}\item\tiny\bfseries}
+{\end{list}}
+%
+\newenvironment{packed_enum}{
+\begin{enumerate}
+  \setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+}{\end{enumerate}}
+%
+\tightlists
+%
+\hypersetup
+{
+    pdfpagelayout=TwoPageRight,
+    bookmarks=true,           % show bookmarks bar?
+    unicode=false,               % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,             % show Acrobat’s toolbar?
+    pdfmenubar=true,          % show Acrobat’s menu?
+    pdffitwindow=false,        % window fit to page when opened
+    pdfstartview={FitH},       % fits the width of the page to the window
+    pdftitle={A Study of Real Time Kinematic Global Navigation Satellite Systems In Railroad Transportation},    % title
+    pdfauthor={Peter J Dailey},     % author
+    pdfsubject={Track Surveying},   % subject of the document
+    pdfcreator={Peter J Dailey},   % creator of the document
+    pdfproducer={Peter J Dailey}, % producer of the document
+    pdfkeywords={RTK,GPS,GNSS,survey,railroad,alinement,alignment,track,occupancy,yard,hump,real-time,kinematic}, % list of keywords
+    pdfnewwindow=true,% links in new window
+    colorlinks=true,        % false: boxed links; true: colored links
+    linkcolor= blue,        % color of internal links, red
+    citecolor=black,        % color of links to bibliography, green
+    filecolor=black,         % color of file links, magenta
+    urlcolor=blue          % color of external links, cyan
+}
+%
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\title{A Study of Real Time Kinematic Global Navigation Satellite Systems In Railroad Transportation}
+\author{Peter J Dailey}
+%\date{}                                           % Activate to display a given date or no date
+\setsecnumdepth{chapter} % number to section
+
+\begin{document}
+%
+\bibliographystyle{plainnat}
+% authordate ,apalike,plain(sorted),unsrt(unsorted),alpha plain,abbrv,acm,unsrtnat, plainnat
+% natbib styles: unsrtnat.bst, plainnat.bst, abbrvnat.bst
+\pagestyle{plain}
+
+\frontmatter
+	\include{titlepage}
+		\cleardoublepage
+	\include{signature}
+		\cleardoublepage
+	\include{abstract}
+		\cleardoublepage
+	\include{acknowledgements}
+		\cleardoublepage
+	\include{dedication}
+		\cleardoublepage
+	%\preface{preface}
+	\tableofcontents
+	\listoftables*
+	\listoffigures*
+
+\mainmatter
+	\include{one}
+	\include{two}
+	\include{three}
+	\include{four}
+	\include{five}
+	
+\backmatter
+% Include appendices.
+	\include{AppendixA}
+	\include{AppendixB}
+% Bibliography at the end
+	\bibliography{Dissertation}
+\end{document}  

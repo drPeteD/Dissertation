@@ -1,0 +1,82 @@
+ as indicated in equation \ref{eq:horzSta}.
+%Horizontal stationing equation
+	\begin{equation}
+	{sta_k} = {\sum_{k=2}^n}  {\sqrt{(x_k - x_{k-1})^2 +( y_k - y_{k-1})^2}}
+	\label{eq:horzSta}
+	\end{equation}
+Where \emph{k} = the observation sequence number and \emph{n} = the number of observations in the track segment.
+
+
+Referencing figure \ref{fig:strLining}, the steps in finding the mid-chord offset (MCO) procedure follow.
+%
+%a = diff(lineX)^2 + diff(lineY)^2 + diff(lineZ)^2; % 
+%b = 2 * (diff(lineX)*(lineX(1) - cx) + diff(lineY)*(lineY(1) - cy) + diff(lineZ)*(lineZ(1) - cz)); %D * dy
+%c = (cx - lineX(1))^2 + (cy - lineY(1))^2 + (cz - lineZ(1))^2 - r^2; %
+%% Use the quadratic equation to find the intersection X1
+%u = (-b + sqrt(b^2 - (4*a*c)))/(2*a);
+%% Parametric form of the line segment, x intercept & y intercept
+%xInt(1) = lineX(1) + u*diff(lineX);
+%yInt(1) = lineY(1) + u*diff(lineY);
+%zInt(1) = lineZ(1) + u*diff(lineZ);
+%
+
+\begin{align}
+	a &= (x_2-x_1)^2 + (y_2-y_1)^2\\
+	b &= 2(|x_2-x_1|~( x_1-x_o) + |y_2-y_1|~(x_1 - x_o)) \\
+	c &= (x_o-x_1)^2 + (y_o-y_1)^2-r_{chord}^2 \\
+	u &= \frac {-b + \sqrt{b^2 - (4ac)}}{2a} \\
+	x_{int} &= x_1 + u~|x_2-x_1| \\
+	y_{int} &= y_1 + u~|x_2-x_1|
+\end{align}
+	
+% Calculate coefficients for two intercept form: aX + bY + c = 0
+% a = (y2-y1);
+% b = -(x2-x1);
+% c = -((x1*y2)-(x1*y1)-(y1*x2)+(y1*x1));
+% Xint = -c/a;
+% Yint = -c/b;
+% m = -a/b;
+%
+% function [a_B b_B c_B m_B] = perp2line (x1,y1,a_A,b_A,c_A)
+% slope of line B (the perpendicular) is the negative reciprocal of A
+% m_A             = -a_A/b_A;
+% m_B             = -1/m_A;
+% new line B:     b_A * X - a_A * Y - (b_A * x1 - a_A * y1)
+% a_B              = b_A;
+% b_B              = -a_A;
+% c_B              = -(b_A * x1 - a_A * y1);
+% chord center coordinates ($\frac{x_o - x_{int}}{2}, \frac{y_o - y_{int}}{2}, z_o - z_{int}$)
+%
+% intersection of 2 lines
+% numXX        = (b1 .* c2) - (c1 .* b2);
+% denXX         = (a1 .* b2) - (a2 .* b1);
+% numYY        = (a1 .* c2) - (c1 .* a2);
+% denYY         = (a2 .* b1) - (a1 .* b2);
+% xx                 = numXX ./ denXX;
+% yy                 = numYY ./ denYY;
+%
+% Degree of curvature
+% 1) R = c^2 / 8*m (m expressed as 16th of a inch)
+% 2) R = 5730/D
+% substitute 2 into 1, D = 45,840*m/c^2
+% m = feet, c = feet
+% D = (midOrdDist * 45840) / ((chordLength)^2);
+%
+of the form  $y = \alpha + \beta x$. The model defines the position of the line segment between the observations $ \{ x_{1},y_{1},\cdots , x_{n},y_{n} \} $.
+
+% 3D mile post reference equation
+	\begin{equation}
+	MP_{k} =  MP_{num} + \frac{\displaystyle {\sum_{k=1}^n {\sqrt{(x_k - x_{k-1})^2 +( y_k - y_{k-1})^2 +( z_k - z_{k-1})^2}}}}{\displaystyle{\sum_0 ^n\sqrt{\Delta x_n^2 + \Delta y_n^2 + \Delta z_n^2}}}
+	\end{equation}
+	\label{accumSlopeD}
+	\begin{flushright}
+	Where \emph{n} = the total number of observations between mile monuments.
+	\end{flushright}
+%
+The goal of a tangent track regression model is to determine the equation for a straight line through the track observations of the form  $y = \alpha + \beta x$. The model defines the position of the line segment between the observations $ \{ x_{1},y_{1},\cdots , x_{n},y_{n} \} $. The matrix form of the model 
+	\begin{center}
+	\begin{equation}
+	\left[\begin{array}{cc}x_1 & 1 \\x_2 & 1 \\ \ldots & 1 \\x_n & 1\end{array}\right] \left[\begin{array}{c}\beta \\ \alpha \end{array}\right] = \left[\begin{array}{c}y_1 \\y_2 \\ \ldots \\y_n\end{array}\right]
+	\end{equation}
+	\label{tanRegres}
+	\end{center}

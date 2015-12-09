@@ -1,0 +1,65 @@
+\relax 
+\providecommand*{\memsetcounter}[2]{}
+\ifx\hyper@anchor\@undefined
+\global \let \oldcontentsline\contentsline
+\gdef \contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global \let \oldnewlabel\newlabel
+\gdef \newlabel#1#2{\newlabelxx{#1}#2}
+\gdef \newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\let \contentsline\oldcontentsline
+\let \newlabel\oldnewlabel}
+\else
+\global \let \hyper@last\relax 
+\fi
+
+\@input{titlepage.aux}
+\select@language{USenglish}
+\@writefile{toc}{\select@language{USenglish}}
+\@writefile{lof}{\select@language{USenglish}}
+\@writefile{lot}{\select@language{USenglish}}
+\@input{signature.aux}
+\citation{2006AllenAssetMap}
+\citation{2006glaus}
+\citepageref{2006AllenAssetMap}{vi}
+\citepageref{2006glaus}{vi}
+\@input{Chapter1.aux}
+\@input{Chapter2.aux}
+\@input{Chapter3.aux}
+\bibstyle{unsrtnat}
+\bibdata{Dissertation}
+\bibcite{2006AllenAssetMap}{{1}{2006}{{Allen et~al.}}{{Allen, Mason, and Stevens}}}
+\bibcite{2006glaus}{{2}{2006}{{Glaus}}{{}}}
+\bibcite{RITAtransStats08}{{3}{2008}{{USDOT}}{{}}}
+\bibcite{1995FRADiffe}{{4}{1995}{{FRA}}{{}}}
+\bibcite{2005szwilski_kerchof}{{5}{2005}{{Szwilski et~al.}}{{Szwilski, Kerchof, Tomlin, Dailey, Sheng, and Begley}}}
+\bibcite{2007barnes}{{6}{2007}{{Barnes}}{{}}}
+\bibcite{49CFR213D}{{7}{2009{a}}{{USC}}{{}}}
+\bibcite{2007FRATrack}{{8}{2007}{{FRA}}{{}}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{37}{section*.27}}
+\bibcite{2009bright.rtrack}{{9}{2009}{{Bright}}{{}}}
+\bibcite{2008USDoT_NDGPS}{{10}{2008}{{Pruitt and Fly}}{{}}}
+\bibcite{ResorPTC}{{11}{2005}{{Resor et~al.}}{{Resor, Smith, and Patel}}}
+\bibcite{2001DoDGPSperf}{{12}{2001}{{USDOD}}{{}}}
+\bibcite{2004leick}{{13}{2004}{{Leick}}{{}}}
+\bibcite{1996NSTC-6}{{14}{1996}{{NSC Office of Science and Technology Policy}}{{}}}
+\bibcite{WAAS09}{{15}{2009}{{WAAS Test Team}}{{}}}
+\bibcite{2005fugro}{{16}{2009}{{Fugro N.V.}}{{}}}
+\bibcite{2000FRA_gps_ant}{{17}{2000}{{FRA}}{{}}}
+\bibcite{2007lockheed}{{18}{2007}{{Meyer and Metzger}}{{}}}
+\bibcite{2008pmv}{{19}{2008}{{UPRR}}{{}}}
+\bibcite{ODOTvrs}{{20}{2009}{{ODOT's}}{{}}}
+\bibcite{MDOTvrs}{{21}{2009}{{MDOT}}{{}}}
+\bibcite{NCvrs}{{22}{2009}{{NCGS}}{{}}}
+\bibcite{KYCORS}{{23}{2009}{{KGS}}{{}}}
+\bibcite{2004beshers}{{24}{2004}{{Beshers et~al.}}{{Beshers, Blaze, and Resor}}}
+\bibcite{2006moorman}{{25}{2006}{{Moorman}}{{}}}
+\bibcite{2002HumpTrains}{{26}{2002}{{TRAINS}}{{}}}
+\bibcite{KraftPaten00}{{27}{2002}{{Kraft}}{{}}}
+\bibcite{2009vanPelt}{{28}{2009}{{Van~Pelt}}{{}}}
+\bibcite{49CFR214300}{{29}{2009{b}}{{USC}}{{}}}
+\bibcite{49CFR214500}{{30}{2009{c}}{{USC}}{{}}}
+\bibcite{Kaplan}{{31}{1996}{{Leva et~al.}}{{Leva, de~Haag, and Syke}}}
+\bibcite{NGSBluebookX1}{{32}{2009}{{NGS}}{{}}}
+\bibcite{1964hickerson}{{33}{1964}{{Hickerson}}{{}}}
+\memsetcounter{lastsheet}{46}
+\memsetcounter{lastpage}{40}

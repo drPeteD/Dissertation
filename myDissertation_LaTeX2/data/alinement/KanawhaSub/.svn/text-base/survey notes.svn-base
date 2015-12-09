@@ -1,0 +1,21 @@
+Kanawha Sub
+
+Survey A 20Jan2010, start 495 track 2, 
+Lots of data gaps due to R7 firmware.
+
+Survey B 5Feb2010, 
+Short due to Cattlesburg traffic.
+494-495: sf=1.6995; crv1, TC 3 03'R; crv2, TC 2 45'L, crv3, TC 2 30'R
+495-496: sf=1.0254; crv1, TC 2 30'R; crv2, TC 2 30'L, 495.61-495.69 LOS due to I64 overpass
+496-497: sf=1.0125; crv1, TC 3 45'L; crv2, TC 1 00'L
+497-498: sf=1.0105; crv1, TC 0 45'L
+498-499: sf=1.0117; crv1, TC 2 00'R
+499-500: sf=1.0123
+
+Survey C 14Feb2010, 494 track 1, cross over to track 2 at MP 502.6.
+Anomaly @ 38.404294517N,82.481099293°W due to US52 overpass. Deleted 11434 to 11452.
+Anomaly @ 38.397648835N,82.577183459W due to NS interchange overpass at MP511.8. Deleted 15361 to 15365
+
+Survey D 3Mar2010, track 1
+
+Ohio Sub

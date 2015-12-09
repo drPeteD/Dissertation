@@ -1,0 +1,98 @@
+\documentclass[letterpaper,12pt,extrafontsizes,final]{memoir}
+\usepackage[pdftex]{graphicx}
+\usepackage{amsmath,wrapfig,float,indentfirst,subfig,enumerate,array,threeparttable,longtable} 
+%\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{fullpage}
+\usepackage{appendix}
+\usepackage[USenglish]{babel}       %US hyphenation rules
+%\usepackage{setspace,listings,geometry,ltablex,booktabs,tocloft}
+\usepackage{type1cm,courier,relsize,siunitx,fixltx2e,alltt,xcolor,mdwlist}% Replace the standard Computer Modern Typewriter font LaTeX uses, monospace text with PostScript font Adobe Courier, use relative sizes(e.g. \smaller, \larger),set SI units correctly
+\usepackage{latexsym}
+\usepackage[square,comma]{natbib}
+\usepackage{citeref}
+\usepackage{hyperref}
+\hypersetup
+{
+    pdfpagelayout=TwoPageRight,
+    bookmarks=true,           % show bookmarks bar?
+    unicode=false,               % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,             % show Acrobat’s toolbar?
+    pdfmenubar=true,          % show Acrobat’s menu?
+    pdffitwindow=false,        % window fit to page when opened
+    pdfstartview={FitH},       % fits the width of the page to the window
+    pdftitle={A Study of Real Time Kinematic Global Navigation Satellite Systems In Railroad Transportation},    % title
+    pdfauthor={Peter J Dailey},     % author
+    pdfsubject={Track Surveying},   % subject of the document
+    pdfcreator={Peter J Dailey},   % creator of the document
+    pdfproducer={Peter J Dailey}, % producer of the document
+    pdfkeywords={RTK,GPS,GNSS,survey,railroad,alinement,alignment,track,occupancy,yard,hump,real-time,kinematic}, % list of keywords
+    pdfnewwindow=true,% links in new window
+    colorlinks=true,        % false: boxed links; true: colored links
+    linkcolor= blue,        % color of internal links, red
+    citecolor=black,        % color of links to bibliography, green
+    filecolor=black,         % color of file links, magenta
+    urlcolor=blue          % color of external links, cyan
+}
+%
+\widowpenalty=500
+\clubpenalty=500
+\OnehalfSpacing
+\tightlists
+\setsecnumdepth{chapter} % number to section
+%
+% Alter some LaTeX defaults for better treatment of figures:
+    % See p.105 of "TeX Unbound" for suggested values.
+    % See pp. 199-200 of Lamport's "LaTeX" book for details.
+    %   General parameters, for ALL pages:
+    \renewcommand{\topfraction}{0.9}	% max fraction of floats at top
+    \renewcommand{\bottomfraction}{0.8}	% max fraction of floats at bottom
+    %   Parameters for TEXT pages (not float pages):
+    \setcounter{topnumber}{2}
+    \setcounter{bottomnumber}{2}
+    \setcounter{totalnumber}{4}     % 2 may work better
+    \setcounter{dbltopnumber}{2}    % for 2-column pages
+    \renewcommand{\dbltopfraction}{0.9}	% fit big float above 2-col. text
+    \renewcommand{\textfraction}{0.07}	% allow minimal text w. figs
+    %   Parameters for FLOAT pages (not text pages):
+    \renewcommand{\floatpagefraction}{0.7}	% require fuller float pages
+	% N.B.: floatpagefraction MUST be less than topfraction !!
+    \renewcommand{\dblfloatpagefraction}{0.7}	% require fuller float pages
+% remember to use [htp] or [htpb] for placement
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\begin{document}
+%
+\frontmatter
+	\include{titlepage}
+		\cleardoublepage
+	\include{signature}
+		\cleardoublepage
+	\include{abstract}
+		\cleardoublepage
+	\include{acknowledgements}
+		\cleardoublepage
+	\include{dedication}
+		\cleardoublepage
+	%\preface{preface}
+	\tableofcontents
+	\listoftables*
+	\listoffigures*
+
+\mainmatter
+	\include{Chapter1/one}
+	\include{Chapter2/two}
+	\include{Chapter3/three}
+	\include{Chapter4/four}
+	\include{Chapter5/five}
+
+\backmatter
+% Include appendices.
+	\include{AppendixA}
+	\include{AppendixB}
+% Bibliography at the end
+	\bibliographystyle{plain}% authordate ,apalike,plain(sorted),unsrt(unsorted),alpha plain,abbrv,acm,unsrtnat, plainnatbib
+		% natbib styles: unsrtnat.bst, plainnat.bst, abbrvnat.bst
+	\bibliography{Dissertation}
+\end{document}

@@ -1,0 +1,296 @@
+\begin{thebibliography}{42}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allen et~al.(2006)Allen, Mason, and Stevens]{2006AllenAssetMap}
+Leonard Allen, J.~Brent Mason, and Jeff Stevens.
+\newblock {Rail Borne Track Asset Mapping}.
+\newblock In \emph{Proceedings of the AREMA 2006 Annual Conferences}. American
+  Railway Engineering and Maintenance-of-Way Association, June 2006.
+
+\bibitem[Barnes(2007)]{2007barnes}
+Gil Barnes.
+\newblock {Head of CSX Hump Yard Engineering}.
+\newblock Personal interview, May 16 2007.
+
+\bibitem[Beshers et~al.(2004)Beshers, Blaze, and Resor]{2004beshers}
+Eric~W. Beshers, James~R. Blaze, and Randolph~R. Resor.
+\newblock {Scheduled Railroading and The Viability of Carload Service}.
+\newblock Technical report, Office of Policy, Federal Railroad Administration,
+  March 16 2004.
+\newblock URL
+  \url{http://www.fra.dot.gov/downloads/policy/policy_carload_study_2004.pdf}.
+
+\bibitem[Bright(2009)]{2009bright}
+Ron Bright.
+\newblock {Head of CSX Track Inspection}.
+\newblock Personal interview, May 19 2009.
+
+\bibitem[Dailey(2008{\natexlab{a}})]{HumpOpsVid}
+Peter Dailey.
+\newblock Hump operations.
+\newblock Internet, May 2008{\natexlab{a}}.
+\newblock URL \url{http://www.youtube.com/watch?v=ndryMwF41Kk}.
+
+\bibitem[Dailey(2008{\natexlab{b}})]{CarStallVid}
+Peter~J Dailey.
+\newblock {Hump Yard Car Stall Blocking Group Switch}.
+\newblock Internet, 2008{\natexlab{b}}.
+\newblock URL \url{{http://www.youtube.com/watch?v=ygl_X9RER70}}.
+
+\bibitem[Epstey(2010)]{TEQCsoftware}
+Lou Epstey.
+\newblock {UNAVCO Translate, Edit, and Quality Check} software.
+\newblock {http://facility.unavco.org/software/teqc/teqc.html}, March 2010.
+\newblock URL \url{{http://facility.unavco.org/software/teqc/teqc.html}}.
+
+\bibitem[{FRA}(1995)]{1995FRADiffe}
+{FRA}.
+\newblock {Differential {GPS}: An Aid to Positive Train Control}.
+\newblock Technical report, {Federal Railroad Administration}, 1995.
+\newblock URL \url{www.navcen.uscg.gov/dgps/dgeninfo/traincontrol/dgps4a.pdf}.
+
+\bibitem[{FRA}(2000)]{2000FRA_gps_ant}
+{FRA}.
+\newblock {Analysis of Antennas to Improve Differential Global Positioning
+  System ({DGPS}) Reception on Locomotives}.
+\newblock Research result, {Federal Railroad Administration}, August 2000.
+\newblock URL \url{http://www.fra.dot.gov/downloads/Research/rr00_03.pdf}.
+
+\bibitem[{FRA}(2007)]{2007FRATrack}
+{FRA}.
+\newblock \emph{{Track Safety Standards Compliance Manual}}.
+\newblock {Federal Railroad Administration, Office of Safety Assurance and
+  Compliance Track and Structures Division}, Washington, D.C., April 2007.
+\newblock URL
+  \url{{http://www.fra.dot.gov/downloads/safety/track_compliance_manual/TCM
+  20TOC.PDF}}.
+
+\bibitem[{Fugro EarthData, Inc.}(2007)]{FugroED07}
+{Fugro EarthData, Inc.}
+\newblock {LiDAR Mapping Fact Sheet}, 2007.
+\newblock URL
+  \url{{http://www.fugroearthdata.com/pdfs/FCT_Lidar-Educational_11-07.pdf}}.
+
+\bibitem[{Fugro N.V.}(2009)]{2005fugro}
+{Fugro N.V.}
+\newblock {OmniSTAR Worldwide DGPS Service}.
+\newblock Internet, September 2009.
+\newblock URL \url{http://www.fugro.com/survey/satellite/omnistar.asp}.
+
+\bibitem[Glaus(2006)]{2006glaus}
+Ralph Glaus.
+\newblock \emph{{Kinematic Track Surveying by Means of a Multi-Sensor
+  Platform}}.
+\newblock PhD thesis, Swiss Federal Institute Of Technology, 2006.
+
+\bibitem[Hickerson(1964)]{1964hickerson}
+Thomas~F. Hickerson.
+\newblock \emph{Route Location and Design}.
+\newblock McGraw-Hill Book Company, New York, New York, fifth edition, 1964.
+
+\bibitem[{KGS}(2009)]{KYCORS}
+{KGS}.
+\newblock {Kentucky Geodetic Survey's Geodetic Control in Kentucky}.
+\newblock Internet, October 2009.
+\newblock URL \url{http://ngs.ky.gov/index.html}.
+
+\bibitem[Kraft(2002)]{KraftPaten00}
+Edwin~R. Kraft.
+\newblock {Priority car sorting in railroad classification yards using a
+  continuous multi-stage method.}
+\newblock {USPTO 6,418,854}, July 16, 2002.
+
+\bibitem[Leick(2004)]{2004leick}
+Alfred Leick.
+\newblock \emph{{GPS} Satellite Surveying}.
+\newblock John Wiley and Sons, Hoboken, NY, 3rd edition, 2004.
+
+\bibitem[{MDOT}(2009)]{MDOTvrs}
+{MDOT}.
+\newblock {Michigan Department Of Transporation CORS}.
+\newblock Internet, September 2009.
+\newblock URL \url{http://www.mdotcors.org/}.
+
+\bibitem[Meyer and Metzger(2007)]{2007lockheed}
+Thomas~J. Meyer and Thomas~R. Metzger.
+\newblock {Locomotive Location System and Method}.
+\newblock {USPTO patent 7,209,810}, {April 24,} 2007.
+
+\bibitem[Moorman(2006)]{2006moorman}
+Charles~W. Moorman.
+\newblock {Freight Rail Perspectives on Capacity Issues: Summary of Remarks}.
+\newblock In \emph{Workshop to Support FRA Railroad Research and Development}.
+  Transportation Research Board, April 5-6 2006.
+
+\bibitem[{NCGS}(2009)]{NCvrs}
+{NCGS}.
+\newblock {North Carolina Geodetic Survey}.
+\newblock Internet, October 2009.
+\newblock URL \url{http://www.ncgs.state.nc.us/}.
+
+\bibitem[{NSC Office of Science and Technology Policy}(1996)]{1996NSTC-6}
+{NSC Office of Science and Technology Policy}.
+\newblock {NSTC-6 U.S. Global Positioning System Policy}.
+\newblock Presidential Directive, March 1996.
+\newblock URL
+  \url{{http://www.hq.nasa.gov/office/codez/new/policy/pddnstc_6.htm}}.
+
+\bibitem[{ODOT}(2009)]{ODOTvrs}
+{ODOT}.
+\newblock {Ohio Department of Transportation Aerial Engineering Virtual
+  Rreference System Real Time Kinematic Network}.
+\newblock Internet, September 2009.
+\newblock URL
+  \url{http://www.dot.state.oh.us/Divisions/ProdMgt/Aerial/Pages/VRSRTK.aspx}.
+
+\bibitem[Pruitt and Fly(2008)]{2008USDoT_NDGPS}
+Gary Pruitt and Carl~Eric Fly.
+\newblock {NDGPS Assessment Final Report}.
+\newblock Technical Report DTFH61-04-D-00002, {United States Department of
+  Transportation}, March 2008.
+\newblock URL
+  \url{{http://www.navcen.uscg.gov/ndgps/ndgps%20assessment%20report_final.pdf%
+}}.
+
+\bibitem[Resor et~al.(2005)Resor, Smith, and Patel]{ResorPTC}
+Randolph~R. Resor, Michail~E. Smith, and Pradee Patel.
+\newblock {Positive Train Control (PTC): Calculating Benefits and Cost of a New
+  Railroad Control Technology}.
+\newblock \emph{{Journal of the Transportation Research Forum}}, 44\penalty0
+  (2):\penalty0 77--98, 2005.
+
+\bibitem[{Richard Begley, Peter Dailey, Carlos Ramirez Alejandro Sanchez}(2010
+  (in press))]{ART2010}
+{Richard Begley, Peter Dailey, Carlos Ramirez Alejandro Sanchez}.
+\newblock {Autonomous Railcar Tracking}.
+\newblock FRA Research Result, 2010 (in press).
+
+\bibitem[Szwilski et~al.(2003)Szwilski, Begley, Ball, and Dailey]{Szwilski03}
+Anthony Szwilski, Richard Begley, John Ball, and Peter Dailey.
+\newblock {Multi-sensor Mobile System to Monitor Track Super structure and
+  Substructure: Initial Studies with Non-Invasive Technologies}.
+\newblock In \emph{{National AREMA Conference}}, Chicago, Illinois, 2003.
+  American Railway Engineering and Maintenance-of-Way Association.
+
+\bibitem[Szwilski et~al.(2005)Szwilski, Kerchof, Tomlin, Dailey, Sheng, and
+  Begley]{2005szwilski}
+Anthony~B. Szwilski, W.~Brad Kerchof, John Tomlin, Peter~J. Dailey, Zhibin
+  Sheng, and Richard Begley.
+\newblock {Rapid Surveying Of A Classification Yard Employing High-Accuracy
+  DGPS (RTK)}.
+\newblock In \emph{Proceedings of the AREMA 2005 Annual Conferences}. The
+  American Railway Engineering and Maintenance of Way Association, September
+  25-28 2005.
+\newblock URL
+  \url{http://www.arema.org/eseries/scriptcontent/custom/e_arema/library/2005_%
+Conference_Proceedings/00048.pdf}.
+
+\bibitem[{The Mathworks, Inc.}(2009)]{matlab09}
+{The Mathworks, Inc.}
+\newblock \emph{{Curve Fitting Toolbox 2}}.
+\newblock {The MathWorks, Inc.}, 3 Apple Hill Drive Natick, MA 01760-2098,
+  {Online only: Revised for Version 2.1 (Release 2009b)} edition, September
+  2009.
+\newblock URL
+  \url{http://www.mathworks.com/access/helpdesk/help/pdf_doc/curvefit/curvefit%
+.pdf}.
+
+\bibitem[{TRAINS}(2002)]{2002HumpTrains}
+{TRAINS}.
+\newblock {North America's Hump Yards}.
+\newblock \emph{{TRAINS Magazine}}, June and July 2002.
+\newblock URL \url{http://www.trains.com/trn/default.aspx?c=a&id=537}.
+
+\bibitem[Trimble(2009)]{TrimbleR7gnss}
+Trimble.
+\newblock \emph{R7 GNSS User Guide}.
+\newblock {Trimble Navigation Limited}, version 4.0 revision a edition, 2009.
+\newblock URL
+  \url{http://trl.trimble.com/dscgi/ds.py/Get/File-449958/R7-5700Receivers_4A_%
+UG_7441.pdf}.
+
+\bibitem[{Trimble Navigation Limited}(2006)]{Trimble5700}
+{Trimble Navigation Limited}.
+\newblock {5700 CORS System}.
+\newblock Internet, 2006.
+\newblock URL \url{http://www.trimble.com/5700cors.shtml}.
+
+\bibitem[{Union Pacific Railroad}(2008)]{2008pmv}
+{Union Pacific Railroad}.
+\newblock {Union Pacific Railroad Precision Measurement Vehicle Operations},
+  2008.
+\newblock URL \url{{http://www.uprr.com/aboutup/telecom/groups.shtml#2}}.
+
+\bibitem[{United States Code}(2008)]{SafetyAct2008}
+{United States Code}.
+\newblock {Rail Safety Improvement Act of 2008, Public Law 110--432}.
+\newblock GPO, 2008.
+\newblock URL
+  \url{{http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_pub%
+lic_laws&docid=f:publ432.110}}.
+
+\bibitem[{United States Naval Observatory}(2010)]{USNavalObs}
+{United States Naval Observatory}.
+\newblock {Block II Satellite Information}.
+\newblock Internet, March 2010.
+\newblock URL \url{ftp://tycho.usno.navy.mil/pub/gps/gpsb2.txt}.
+
+\bibitem[{USC}(2009{\natexlab{a}})]{49CFR213D}
+{USC}.
+\newblock {United States Code, Title 49, Part 213, Subpart C - Track Geometry},
+  2009{\natexlab{a}}.
+\newblock URL
+  \url{{http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=a92f8f8c60b5a%
+4769b34869f7324af63;rgn=div5;view=text;node=49%3A4.1.1.1.8;idno=49;cc=ecfr#49:%
+4.1.1.1.8.3}}.
+
+\bibitem[{USC}(2009{\natexlab{b}})]{49CFR214300}
+{USC}.
+\newblock {United States Code, Title 49 Part 214, Subpart C, Roadway Worker
+  Protection}.
+\newblock USGPO, 2009{\natexlab{b}}.
+\newblock URL
+  \url{http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e1e054ac618be9%
+74227886aec39b5522&rgn=div6&view=text&node=49:4.1.1.1.9.3&idno=49}.
+
+\bibitem[{USC}(2009{\natexlab{c}})]{49CFR214500}
+{USC}.
+\newblock {United States Code, Title 49, Part 214, Subpart D, On-Track Roadway
+  Maintenance Machines and Hi-Rail Vehicles}.
+\newblock USGPO, 2009{\natexlab{c}}.
+\newblock URL
+  \url{http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e1e054ac618be9%
+74227886aec39b5522&rgn=div6&view=text&node=49:4.1.1.1.9.4&idno=49}.
+
+\bibitem[{USDOD}(2001)]{2001DoDGPSperf}
+{USDOD}.
+\newblock {Global Positioning System Standard Postitioning Service Performance
+  Standard}.
+\newblock Technical report, {US Department Of Defense}, 2001.
+\newblock URL
+  \url{http://www.navcen.uscg.gov/GPS/geninfo/2001SPSPerformanceStandardFINAL.%
+pdf}.
+
+\bibitem[{USDOT}(2008)]{RITAtransStats08}
+{USDOT}.
+\newblock {National Transportation Statistics, Annual Publication}, 2008.
+\newblock URL
+  \url{{http://www.bts.gov/publications/national_transportation_statistics}}.
+
+\bibitem[Van~Pelt(2009)]{2009vanPelt}
+Rodney Van~Pelt.
+\newblock {CSX Roadmaster}.
+\newblock Personal interview, November 5, 2009.
+
+\bibitem[{WAAS Test Team}(2009)]{WAAS09}
+{WAAS Test Team}.
+\newblock {Wide Area Augmentation System Performance Analysis Report}.
+\newblock Quarterly Report~29, FAA/William J. Hughes Technical Center, Atlantic
+  City International Airport, NJ 08405, July 2009.
+\newblock URL \url{http://www.nstb.tc.faa.gov/reports/waaspan29.pdf}.
+
+\end{thebibliography}

@@ -1,0 +1,922 @@
+% !TEX root = dissertation2.tex
+\chapter{Appendix A}
+\label{appA}
+\large
+\noindent Experiment 1, Automatic Classification Yard Profile by RTK GPS Mounted to a Locomotive During Humping Operations.
+
+Subject: CSX Hamlet Terminal, Hamlet, North Carolina
+\large
+\section{Contents}
+\begin{itemize}
+% Appendix A index
+\item Ad hoc reference station OPUS reports, pages \pageref{opus1} through \pageref{opus1}.
+\item National Geodetic Survey permanent identification datasheet, EB1559, page \pageref{EB1559}.
+\item Figure \ref{fig:profileCM}, elevation color map of bowl tracks, \pageref{fig:profileCM}.
+\item Table \ref{tab:profiles} track profile drawing hyperlinks, page \pageref{tab:profiles}.
+\item Figures \ref{fig:group3} through \ref{fig:group9}, profile drawing thumbnails by track group, pages \pageref{fig:group3} to \pageref{fig:group9}.
+\item Figure \ref{fig:vertPrec} Relative vertical precision color map of bowl tracks, \pageref{fig:vertPrec}.
+\item Figure \ref{fig:vert_hist} Histogram of relative vertical precision, \pageref{fig:vert_hist}.
+\item TEQC Quality Check of Satellite Positioning Data.
+\end{itemize}
+%
+\clearpage
+%OPUS 1
+\center{NGS OPUS Solution 1}
+\label{opus1}
+\begin{mylisting}
+\begin{verbatim}
+FILE: 89691472.08o 000062901
+
+                             NGS OPUS SOLUTION REPORT
+                             ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: http://www.ngs.noaa.gov/OPUS/about.html#accuracy
+
+     USER: pdailey@njrati.org                      DATE: February 21, 2010
+RINEX FILE: 8969147o.08o                            TIME: 14:11:44 UTC
+
+ SOFTWARE: page5  0909.08 master50.pl 081023      START: 2008/05/26  14:21:00
+EPHEMERIS: igs14811.eph [precise]                  STOP: 2008/05/26  21:44:00
+ NAV FILE: brdc1470.08n                        OBS USED: 18491 / 19236   :  96\%
+ ANT NAME: TRM41249.00     NONE             # FIXED AMB:    61 /    72   :  85\%
+ARP HEIGHT: 1.5                              OVERALL RMS: 0.017(m)
+
+REF FRAME: NAD_83(CORS96)(EPOCH:2002.0000)            ITRF00 (EPOCH:2008.4010)
+
+        X:       939900.948(m)   0.025(m)            939900.245(m)   0.025(m)
+        Y:     -5150611.988(m)   0.008(m)          -5150610.502(m)   0.008(m)
+        Z:      3630563.038(m)   0.021(m)           3630562.883(m)   0.021(m)
+
+      LAT:   34 55  8.30878      0.017(m)        34 55  8.33416      0.017(m)
+    E LON:  280 20 30.24278      0.026(m)       280 20 30.22604      0.026(m)
+    W LON:   79 39 29.75722      0.026(m)        79 39 29.77396      0.026(m)
+   EL HGT:          110.196(m)   0.012(m)               108.805(m)   0.012(m)
+ORTHO HGT:          141.772(m)   0.028(m) [NAVD88 (Computed using GEOID03)]
+
+                       UTM COORDINATES    STATE PLANE COORDINATES
+                        UTM (Zone 17)         SPC (3200 NC  )
+Northing (Y) [meters]     3864879.250           129874.137
+Easting (X)  [meters]      622559.919           549457.252
+Convergence  [degrees]     0.76812771          -0.37993149
+Point Scale                0.99978513           0.99988936
+Combined Factor            0.99976784           0.99987206
+
+US NATIONAL GRID DESIGNATOR: 17SPU2255964879(NAD 83)
+
+                             BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG7402 NCPO POLKTON CORS ARP               N345933.173 W0801037.858   48094.7
+DK4045 NCTR TROY CORS ARP                  N352201.845 W0795212.771   53345.6
+DG5938 NCCA CARTHAGE CORS ARP              N352030.048 W0792305.085   53111.4
+
+                NEAREST NGS PUBLISHED CONTROL POINT
+EB2854      FRUITLAND RM 2 AZIMUTH         N345516.664 W0793924.904     286.2
+
+This position and the above vector components were computed without any 
+knowledge by the National Geodetic Survey regarding the equipment or 
+field operating procedures used.
+\end{verbatim}
+\end{mylisting}
+%
+\clearpage
+% OPUS 2
+\center{NGS OPUS Solution 2}
+\label{opus2}
+\begin{mylisting}
+\begin{verbatim}
+FILE: 89691491.08o 000062905
+
+                             NGS OPUS SOLUTION REPORT
+                             ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: http://www.ngs.noaa.gov/OPUS/about.html#accuracy
+
+     USER: pdailey@njrati.org                      DATE: February 21, 2010
+RINEX FILE: 8969149w.08o                            TIME: 14:15:33 UTC
+
+ SOFTWARE: page5  0909.08 master40.pl 081023      START: 2008/05/28  22:20:00
+EPHEMERIS: igs14813.eph [precise]                  STOP: 2008/05/29  20:40:00
+ NAV FILE: brdc1490.08n                        OBS USED: 58256 / 60076   :  97\%
+ ANT NAME: TRM41249.00     NONE             # FIXED AMB:   157 /   181   :  87\%
+ARP HEIGHT: 1.5                              OVERALL RMS: 0.017(m)
+
+REF FRAME: NAD_83(CORS96)(EPOCH:2002.0000)            ITRF00 (EPOCH:2008.4082)
+
+        X:       939900.953(m)   0.013(m)            939900.250(m)   0.013(m)
+        Y:     -5150611.985(m)   0.034(m)          -5150610.499(m)   0.034(m)
+        Z:      3630563.028(m)   0.016(m)           3630562.873(m)   0.016(m)
+
+      LAT:   34 55  8.30856      0.008(m)        34 55  8.33393      0.008(m)
+    E LON:  280 20 30.24299      0.008(m)       280 20 30.22626      0.008(m)
+    W LON:   79 39 29.75701      0.008(m)        79 39 29.77374      0.008(m)
+   EL HGT:          110.189(m)   0.037(m)               108.798(m)   0.037(m)
+ORTHO HGT:          141.765(m)   0.045(m) [NAVD88 (Computed using GEOID03)]
+
+                       UTM COORDINATES    STATE PLANE COORDINATES
+                        UTM (Zone 17)         SPC (3200 NC  )
+Northing (Y) [meters]     3864879.243           129874.130
+Easting (X)  [meters]      622559.924           549457.257
+Convergence  [degrees]     0.76812774          -0.37993146
+Point Scale                0.99978513           0.99988936
+Combined Factor            0.99976784           0.99987206
+
+US NATIONAL GRID DESIGNATOR: 17SPU2255964879(NAD 83)
+
+                             BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG7402 NCPO POLKTON CORS ARP               N345933.173 W0801037.858   48094.7
+DK4045 NCTR TROY CORS ARP                  N352201.845 W0795212.771   53345.6
+DI1682 NCLU LUMBERTON CORS ARP             N343736.336 W0790439.695   62252.3
+
+                NEAREST NGS PUBLISHED CONTROL POINT
+EB2854      FRUITLAND RM 2 AZIMUTH         N345516.664 W0793924.904     286.2
+
+This position and the above vector components were computed without any 
+knowledge by the National Geodetic Survey regarding the equipment or 
+field operating procedures used.
+\end{verbatim}
+\end{mylisting}
+%
+% EB1559 datasheet
+%
+\clearpage
+\center{Data Sheet EB1559 Retrieval  The NGS Data Sheet}
+\label{EB1559}
+\begin{mytinylisting}
+\begin{verbatim}
+DATABASE =  ,PROGRAM = datasheet, VERSION = 7.60
+1        National Geodetic Survey,   Retrieval Date = MAY 27, 2008
+ EB1559 ***********************************************************************
+ EB1559  DESIGNATION -  ROCKINGHAM RESET
+ EB1559  PID         -  EB1559
+ EB1559  STATE/COUNTY-  NC/RICHMOND
+ EB1559  USGS QUAD   -  HAMLET (1982)
+ EB1559
+ EB1559                         *CURRENT SURVEY CONTROL
+ EB1559  ___________________________________________________________________
+ EB1559* NAD 83(2007)-  34 54 31.49602(N)    079 41 01.64429(W)     ADJUSTED  
+ EB1559* NAVD 88     -       118.731  (meters)     389.54   (feet)  ADJUSTED  
+ EB1559  ___________________________________________________________________
+ EB1559  EPOCH DATE  -        2002.00
+ EB1559  X           -     937,719.254 (meters)                     COMP
+ EB1559  Y           -  -5,151,650.434 (meters)                     COMP
+ EB1559  Z           -   3,629,619.608 (meters)                     COMP
+ EB1559  LAPLACE CORR-          -4.82  (seconds)                    DEFLEC99
+ EB1559  ELLIP HEIGHT-          87.199 (meters)          (02/10/07) ADJUSTED
+ EB1559  GEOID HEIGHT-         -31.48  (meters)                     GEOID03
+ EB1559  DYNAMIC HT  -         118.622 (meters)     389.18  (feet)  COMP
+ EB1559
+ EB1559  ------- Accuracy Estimates (at 95\% Confidence Level in cm) --------
+ EB1559  Type    PID    Designation                      North   East  Ellip
+ EB1559  -------------------------------------------------------------------
+ EB1559  NETWORK EB1559 ROCKINGHAM RESET                  1.29   1.06   2.74
+ EB1559  -------------------------------------------------------------------
+ EB1559  MODELED GRAV-     979,707.4   (mgal)                       NAVD 88
+ EB1559
+ EB1559  VERT ORDER  -  FIRST     CLASS II
+ EB1559
+ EB1559.The horizontal coordinates were established by GPS observations
+ EB1559.and adjusted by the National Geodetic Survey in February 2007.
+ EB1559
+ EB1559.The datum tag of NAD 83(2007) is equivalent to NAD 83(NSRS2007).
+ EB1559.The horizontal coordinates are valid at the epoch date displayed above.
+ EB1559.The epoch date for horizontal control is a decimal equivalence
+ EB1559.of Year/Month/Day.
+ EB1559
+ EB1559.The orthometric height was determined by differential leveling
+ EB1559.and adjusted in June 1991.
+ EB1559
+ EB1559.The X, Y, and Z were computed from the position and the ellipsoidal ht.
+ EB1559
+ EB1559.The Laplace correction was computed from DEFLEC99 derived deflections.
+ EB1559
+ EB1559.The ellipsoidal height was determined by GPS observations
+ EB1559.and is referenced to NAD 83.
+ EB1559
+ EB1559.The geoid height was determined by GEOID03.
+ EB1559
+ EB1559.The dynamic height is computed by dividing the NAVD 88
+ EB1559.geopotential number by the normal gravity value computed on the
+ EB1559.Geodetic Reference System of 1980 (GRS 80) ellipsoid at 45
+ EB1559.degrees latitude (g = 980.6199 gals.).
+ EB1559
+ EB1559.The modeled gravity was interpolated from observed gravity values.
+ EB1559
+ EB1559;                    North         East     Units Scale Factor Converg.
+ EB1559;SPC NC       -   128,755.617   547,117.399   MT  0.99989040   -0 23 40.8
+ EB1559;SPC NC       -   422,425.72  1,795,001.00   sFT  0.99989040   -0 23 40.8
+ EB1559;UTM  17      - 3,863,714.200   620,243.197   MT  0.99977820   +0 45 11.9
+ EB1559
+ EB1559!             -  Elev Factor  x  Scale Factor =   Combined Factor
+ EB1559!SPC NC       -   0.99998631  x   0.99989040  =   0.99987671
+ EB1559!UTM  17      -   0.99998631  x   0.99977820  =   0.99976452
+ EB1559
+ EB1559:                Primary Azimuth Mark                     Grid Az
+ EB1559:SPC NC       -  ROCKINGHAM RM 1 AZIMUTH                  063 44 34.0
+ EB1559:UTM  17      -  ROCKINGHAM RM 1 AZIMUTH                  062 35 41.3
+ EB1559
+ EB1559|---------------------------------------------------------------------|
+ EB1559| PID    Reference Object                     Distance      Geod. Az  |
+ EB1559|                                                           dddmmss.s |
+ EB1559| EB3564 ROCKINGHAM RM 1 AZIMUTH                            0632053.2 |
+ EB1559| EB3565 ROCKINGHAM RM 2                      25.344 METERS 08611     |
+ EB1559| EB1561 ROCKINGHAM RM 4                      18.703 METERS 09503     |
+ EB1559| EB3563 ROCKINGHAM RM                        20.840 METERS 16626     |
+ EB1559| EB1560 ROCKINGHAM RM 3                      30.681 METERS 19004     |
+ EB1559| EB2850 HAMLET SEABOARD RR WATER TANK       APPROX. 3.1 KM 2044531.0 |
+ EB1559| EB1562 PACE                                APPROX. 0.7 KM 2144024.4 |
+ EB1559|---------------------------------------------------------------------|
+ EB1559
+ EB1559                          SUPERSEDED SURVEY CONTROL
+ EB1559
+ EB1559  NAD 83(2001)-  34 54 31.49597(N)    079 41 01.64418(W) AD(       ) 1
+ EB1559  ELLIP H (03/13/03)   87.214  (m)                       GP(       ) 4 2
+ EB1559  NAD 83(1986)-  34 54 31.50606(N)    079 41 01.64801(W) AD(       ) 1
+ EB1559  NAD 83(1986)-  34 54 31.50078(N)    079 41 01.65069(W) AD(       ) 1
+ EB1559  NAD 27      -  34 54 30.94100(N)    079 41 02.45300(W) AD(       ) 1
+ EB1559  NAVD 88 (07/24/98)  118.73   (m)          389.5    (f) LEVELING    3  
+ EB1559  NGVD 29 (10/06/93)  118.999  (m)          390.42   (f) ADJUSTED    1 2
+ EB1559
+ EB1559.Superseded values are not recommended for survey control.
+ EB1559.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
+ EB1559
+ EB1559_U.S. NATIONAL GRID SPATIAL ADDRESS: 17SPU2024363714(NAD 83)
+ EB1559_MARKER: DS = TRIANGULATION STATION DISK
+ EB1559_SETTING: 7 = SET IN TOP OF CONCRETE MONUMENT
+ EB1559_SP_SET: CONCRETE POST
+ EB1559_STAMPING: ROCKINGHAM 1918 1980
+ EB1559_MARK LOGO: NGS   
+ EB1559_PROJECTION: PROJECTING 5 CENTIMETERS
+ EB1559_MAGNETIC: N = NO MAGNETIC MATERIAL
+ EB1559_STABILITY: C = MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TO
+ EB1559+STABILITY: SURFACE MOTION
+ EB1559_SATELLITE: THE SITE LOCATION WAS REPORTED AS SUITABLE FOR
+ EB1559+SATELLITE: SATELLITE OBSERVATIONS - July 28, 1993
+ EB1559
+ EB1559  HISTORY     - Date     Condition        Report By
+ EB1559  HISTORY     - 1980     MONUMENTED       NGS
+ EB1559  HISTORY     - 1980     GOOD             NGS
+ EB1559  HISTORY     - 1982     GOOD             LOCENG
+ EB1559  HISTORY     - 19930728 GOOD             NCGS
+ EB1559
+ EB1559                          STATION DESCRIPTION
+ EB1559
+ EB1559'DESCRIBED BY NATIONAL GEODETIC SURVEY 1980 (HDM)
+ EB1559'1.5 MI NE FROM HAMLET.
+ EB1559'1.6 MILES NORTHEAST ALONG N.C. 177 FROM INTERSECTION WITH U.S. 74
+ EB1559'IN HAMLET, ACROSS HIGHWAY FROM INTERSECTION WITH SR 1627 AND IN A
+ EB1559'VACANT LOT BESIDE A VACANT FRAME HOUSE, 74.0 FEET SOUTHEAST OF
+ EB1559'CENTERLINE OF HIGHWAY, 89.0 FEET NORTHWEST OF NORTHWEST RAIL,
+ EB1559'63.2 FEET WEST OF POWER POLE 4004 WITH REFERENCE TAG, 30.2 FEET SOUTH
+ EB1559'OF 18 INCH OAK WITH REFERENCE TAG AND 28.2 FEET NORTH 0F 12 INCH
+ EB1559'OAK WITH REFERENCE TAG.
+ EB1559'THE MARK IS 1.3 FT  NE FROM A WITNESS POST.
+ EB1559'THE MARK IS ABOVE LEVEL WITH HIGHWAY.
+ EB1559
+ EB1559                          STATION RECOVERY (1980)
+ EB1559
+ EB1559'RECOVERY NOTE BY NATIONAL GEODETIC SURVEY 1980 (CLN)
+ EB1559'THE STATION MARK AND REFERENCE MARK 3 WERE RECOVERED.  THE STATION
+ EB1559'MARK HAD BEEN DISTURBED AND WAS DUG OUT AND THE SUB-SURFACE MARK
+ EB1559'LOWERED AND BOTH MARKS RESET.  REFERENCE MARK 3 WAS FOUND IN GOOD
+ EB1559'CONDITION.  REFERENCE MARK 2 WAS FOUND WITH TOP OF MARK BROKEN OFF.
+ EB1559'REFERENCE MARK 1 WAS SEARCHED FOR BUT WAS NOT FOUND.  A REFERENCE MARK
+ EB1559'4 WAS ESTABLISHED AT THIS TIME.
+ EB1559' 
+ EB1559'A COMPLETE NEW DESCRIPTION FOLLOWS.
+ EB1559' 
+ EB1559'STATION IS ABOUT 1-1/2 MILES NORTHEAST OF HAMLET AND 0.05 MILE
+ EB1559'SOUTHWEST OF THE JUNCTION OF STATE HIGHWAY 177 AND SR1672 AND JUST
+ EB1559'WEST OF A SMALL FRAME HOUSE THAT IS ABANDONED AND FALLING APART.
+ EB1559' 
+ EB1559'STATION MARKS ARE STANDARD DISKS STAMPED--ROCKINGHAM 1918 1980--,
+ EB1559'SURFACE DISK IS SET IN THE TOP OF A CYLINDRICAL CONCRETE POST THAT IS
+ EB1559'12-INCHES IN DIAMETER AND FLUSH WITH THE GROUND.  SUB-SURFACE MARK IS
+ EB1559'SET IN AN IRREGULAR MASS OF CONCRETE 3.5 FEET BELOW GROUND SURFACE.
+ EB1559'THEY ARE 28.2 FEET NORTH OF A 12-INCH OAK TREE WITH A REFERENCE TAG,
+ EB1559'30.2 FEET SOUTH OF AN 18-INCH OAK TREE WITH A REFERENCE TAG, 63.2 FEET
+ EB1559'WEST OF POWERLINE POLE 4004 WITH A REFERENCE TAG, 74 FEET SOUTHEAST OF
+ EB1559'THE CENTERLINE OF STATE ROUTE 177 AND 89 FEET NORTHWEST OF THE
+ EB1559'NORTHWEST RAIL OF RAILROAD TRACKS AND 1.3 FEET NORTHEAST OF A METAL
+ EB1559'WITNESS POST.
+ EB1559' 
+ EB1559'REFERENCE MARK 3 IS A STANDARD DISK STAMPED--ROCKINGHAM NO 3 1933-,
+ EB1559'SET IN THE TOP OF A 14-INCH SQUARE CONCRETE POST THAT PROJECTS 2
+ EB1559'INCHES.  IT IS 1.5 FEET WEST SOUTHWEST OF A TELEPHONE LINE POLE WITH A
+ EB1559'REFERENCE TAG, 34 FEET NORTHWEST OF THE NORTHWEST RAIL OF RAILROAD
+ EB1559'TRACKS, 63.1 SOUTHWEST OF ANOTHER TELEPHONE POLE WITH A REFERENCE TAG
+ EB1559'AND 117.8 FEET SOUTHEAST OF THE CENTERLINE OF STATE ROUTE 177.
+ EB1559' 
+ EB1559'REFERENCE MARK 4 IS A STANDARD DISK STAMPED--ROCKINGHAM 1918 NO 4
+ EB1559'1980--, SET IN THE TOP OF A CYLINDRICAL CONCRETE POST THAT IS
+ EB1559'14-INCHES IN DIAMETER AND PROJECTS 3 INCHES.  IT IS 1.7 WEST OF
+ EB1559'POWERLINE POLE 4004, WITH A REFERENCE TAG, 38 FEET SOUTHEAST OF THE
+ EB1559'SOUTHEAST CORNER OF A CONCRETE BLOCK, WELL HOUSE, 59.5 FEET NORTHEAST
+ EB1559'OF A TELEPHONE LINE POLE WITH A REFERENCE TAG AND 40.9 FEET NORTHWEST
+ EB1559'OF THE NORTHWEST RAIL OF RAILROAD TRACKS.
+ EB1559' 
+ EB1559'TO REACH THE STATION FROM THE JUNCTION OF US HIGHWAY 74 AND STATE
+ EB1559'HIGHWAY 177, GO NORTHEASTERLY ON STATE HIGHWAY 177 FOR 1.6 MILES TO
+ EB1559'THE MARK ON THE RIGHT.
+ EB1559' 
+ EB1559'THE STATION IS A STANDARD NGS DISK STAMPED--ROCKINGHAM 1918 1980--,
+ EB1559'SET INTO THE TOP OF A ROUND CONCRETE MONUMENT 12 INCHES IN DIAMETER
+ EB1559'FLUSH WITH GROUND LOCATED 89 FEET NW OF NW RAIL OF RAILROAD TRACKS, 74
+ EB1559'FEET SE OF CENTERLINE OF ST 177, 63.2 FT W FROM PLP 4004 W/TAG, 30.2
+ EB1559'FT S FROM 18 INCH OAK W/TAG, AND 28.2 FT N FROM 12 INCH OAK W/TAG.
+ EB1559' 
+ EB1559'THE UNDERGROUND MARK IS A STANDARD NGS DISK STAMPED--ROCKINGHAM 1918
+ EB1559'1980--, SET INTO AN IRREGULAR MASS OF CONCRETE 3.5 FEET BELOW THE
+ EB1559'SURFACE.
+ EB1559' 
+ EB1559'REFERENCE MARK NO 3 IS A STANDARD CGS DISK STAMPED--ROCKINGHAM NO 3
+ EB1559'1933--, SET INTO THE TOP OF A SQUARE CONCRETE MONUMENT 14 INCHES ON
+ EB1559'SIDE PROJECTING 2 INCHES ABOVE THE GROUND LOCATED 63.1 FT SW FROM TELE
+ EB1559'POLE W/TAG, 34 FT NW OF NW RAIL, 117.8 FT SE FROM CENTERLINE ST RT
+ EB1559'177, AND 1.5 FT WSW FROM TEL POLE W/TAG.
+ EB1559' 
+ EB1559'REFERENCE MARK NO 4 IS A STANDARD NGS DISK STAMPED--ROCKINGHAM 1918 NO
+ EB1559'4 1980--, SET INTO THE TOP OF A ROUND CONCRETE MONUMENT 14 INCHES IN
+ EB1559'DIAMETER PROJECTING 3 INCHES ABOVE THE GROUND LOCATED 40.9 FT NW OF NW
+ EB1559'RAIL, 1.7 FT W FROM PLP NO 4004 W/TAG, 59.5 FT NE FROM TEL POLE W/TAG,
+ EB1559'AND 38.0 FT S OF SE CORNER CONCRETE BLOCKWELL HOUSE.
+ EB1559
+ EB1559                          STATION RECOVERY (1982)
+ EB1559
+ EB1559'RECOVERY NOTE BY LOCAL ENGINEER (INDIVIDUAL OR FIRM) 1982 (DR)
+ EB1559'STATION WAS RECOVERED IN GOOD SHAPE.  I DID NOT CHECK FOR REFERENCE
+ EB1559'MARKS, HOWEVER, I DID FIND THAT NCGS STATION SARGES IS VISIBLE FROM
+ EB1559'ROCKINGHAM.
+ EB1559
+ EB1559                          STATION RECOVERY (1993)
+ EB1559
+ EB1559'RECOVERY NOTE BY NORTH CAROLINA GEODETIC SURVEY 1993 (LWA)
+ EB1559'RECOVERED AS DESCRIBED.  THE ROAD IS SR 1627 (EARLE FRANKLIN ROAD)NOT
+ EB1559'SR 1672. MARK IS IN A JUNK YARD AND LINES-OF-SIGHT ARE BLOCKED TO
+ EB1559'REFERENCE MARKS.
+
+ *** retrieval complete.
+ Elapsed Time = 00:00:01
+\end{verbatim}
+\end{mytinylisting}
+%	
+\clearpage
+%
+% Yard elevation color map
+\begin{figure}
+\begin{center}
+\vspace{-20pt}
+		\includegraphics[scale=0.75]{graphics/Hamlet_elevation.png}
+		\vspace{-30pt}
+\caption{Hump Yard Elevation Color Map}
+\label{fig:profileCM}
+
+\end{center}
+\end{figure}
+
+%
+\clearpage
+% Profile hyperlinks to D drawings
+%
+\begin{table}
+\begin{center}
+\caption{Hump Yard Profiles}
+\label{tab:profiles}
+\vspace{50pt}
+\begin{tabular}{l|l|l|l|l|l|l}
+\href{run:data/yard/Group3/Hamlet Group 3 Locomotive Survey.xls}{Group 3} & \href{run:data/yard/Group4/Hamlet Group 4 Locomotive Survey.xls}{Group 4} & \href{run:data/yard/Group5/Hamlet Group 5 Locomotive Survey.xls}{Group 5} & \href{run:data/yard/Group6/Hamlet Group 6 Locomotive Survey.xls}{Group 6} & 
+\href{run:data/yard/Group7/Hamlet Group 7 Locomotive Survey.xls}{Group 7} & \href{run:data/yard/Group8/Hamlet Group 8 Locomotive Survey.xls}{Group 8} & 
+\href{run:data/yard/Group9/Hamlet Group 9 Locomotive Survey.xls}{Group 9} \\
+\hline
+	\href{run:data/yard/Group3/Track15.pdf}{Track 15} & \href{run:data/yard/Group3/Track25.pdf}{Track 25} & \href{run:data/yard/Group5/Track33.pdf}{Track 33} & \href{run:data/yard/Group6/Track41.pdf}{Track 41} & \href{run:data/yard/Group7/Track49.pdf}{Track 49} & \href{run:data/yard/Group8/Track57.pdf}{Track 57}& \href{run:data/yard/Group9/Track65.pdf}{Track 65}\\
+	\href{run:data/yard/Group3/Track17.pdf}{Track 17} & \href{run:data/yard/Group4/Track26.pdf}{Track 26} & \href{run:data/yard/Group5/Track34.pdf}{Track 34} & \href{run:data/yard/Group6/Track42.pdf}{Track 42} & \href{run:data/yard/Group7/Track50.pdf}{Track 50} & \href{run:data/yard/Group8/Track58.pdf}{Track 58}& \href{run:data/yard/Group9/Track66.pdf}{Track 66}\\
+	\href{run:data/yard/Group3/Track18.pdf}{Track 18} & \href{run:data/yard/Group4/Track27.pdf}{Track 27} & \href{run:data/yard/Group5/Track35.pdf}{Track 35} & \href{run:data/yard/Group6/Track43.pdf}{Track 43} & \href{run:data/yard/Group7/Track51.pdf}{Track 51} & \href{run:data/yard/Group8/Track59.pdf}{Track 59}& \href{run:data/yard/Group9/Track67.pdf}{Track 67}\\
+	\href{run:data/yard/Group3/Track19.pdf}{Track 19} & \href{run:data/yard/Group4/Track28.pdf}{Track 28} & \href{run:data/yard/Group5/Track36.pdf}{Track 36} & \href{run:data/yard/Group6/Track44.pdf}{Track 44} & \href{run:data/yard/Group7/Track52.pdf}{Track 52} & \href{run:data/yard/Group8/Track60.pdf}{Track 60}& \href{run:data/yard/Group9/Track68.pdf}{Track 68}\\
+	\href{run:data/yard/Group3/Track20.pdf}{Track 20} & \href{run:data/yard/Group4/Track29.pdf}{Track 29} & \href{run:data/yard/Group5/Track37.pdf}{Track 37} & \href{run:data/yard/Group6/Track45.pdf}{Track 45} & \href{run:data/yard/Group7/Track53.pdf}{Track 53} & \href{run:data/yard/Group8/Track61.pdf}{Track 61}& \href{run:data/yard/Group9/Track69.pdf}{Track 69}\\
+	\href{run:data/yard/Group3/Track21.pdf}{Track 21} & \href{run:data/yard/Group4/Track30.pdf}{Track 30} & \href{run:data/yard/Group5/Track38.pdf}{Track 38} & \href{run:data/yard/Group6/Track46.pdf}{Track 46} & \href{run:data/yard/Group7/Track54.pdf}{Track 54} & \href{run:data/yard/Group8/Track62.pdf}{Track 62}& \href{run:data/yard/Group9/Track70.pdf}{Track 70}\\
+	\href{run:data/yard/Group3/Track22.pdf}{Track 22} & \href{run:data/yard/Group4/Track31.pdf}{Track 31} & \href{run:data/yard/Group5/Track39.pdf}{Track 39} & \href{run:data/yard/Group6/Track47.pdf}{Track 47} & \href{run:data/yard/Group7/Track55.pdf}{Track 55} & \href{run:data/yard/Group8/Track63.pdf}{Track 63}& \href{run:data/yard/Group9/Track71.pdf}{Track 71}\\
+	\href{run:data/yard/Group3/Track23.pdf}{Track 23} & \href{run:data/yard/Group4/Track32.pdf}{Track 32} & \href{run:data/yard/Group5/Track40.pdf}{Track 40} & \href{run:data/yard/Group6/Track48.pdf}{Track 48} & \href{run:data/yard/Group7/Track56.pdf}{Track 56} & \href{run:data/yard/Group8/Track64.pdf}{Track 64}& \href{run:data/yard/Group9/Track72.pdf}{Track 72}\\
+	\href{run:data/yard/Group3/Track24.pdf}{Track 24} & & &  &  & & \href{run:data/yard/Group9/Track74.pdf}{Track 74}
+%
+\end{tabular}
+\end{center}
+\end{table}
+\vspace{20pt}
+
+Note to PDF file readers: track group headings are hyperlinked to Excel workbooks. Individual track numbers are hyperlinked to pdf drawing files.\\
+
+The 1955 Hamlet terminal design planned for eleven groups. However only seven of the eleven track groups were constructed, totaling 58 tracks. Consequently, track numbering follows the original eleven group numbering convention. Note that track groups one and two do not exist. Track numbering begins in group 3 with track 15, skips 16, and continue sequentially from track 17 through track 72, skips 73, concluding with track 74 in group 9.
+%
+\clearpage	
+%
+% Group 3 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 3 Track Profile Thumbnails}
+	\label{fig:group3}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group3/Track15.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group3/Track17.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group3/Track18.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group3/Track15.pdf}{Track 15} & \href{run:data/yard/Group3/Track17.pdf}{Track 17} & \href{run:data/yard/Group3/Track19.pdf}{Track 19} \\
+	{\includegraphics[scale =0.25]{data/yard/Group3/Track19.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group3/Track20.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group3/Track21.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group3/Track19.pdf}{Track 19} & \href{run:data/yard/Group3/Track20.pdf}{Track 20} & \href{run:data/yard/Group3/Track21.pdf}{Track 21} \\
+		{\includegraphics[scale =0.25]{data/yard/Group3/Track22.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group3/Track23.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group3/Track24.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group3/Track22.pdf}{Track 22} & \href{run:data/yard/Group3/Track23.pdf}{Track 23} & \href{run:data/yard/Group3/Track24.pdf}{Track 24} \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage	
+%
+% Group 4 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 4 Track Profile Thumbnails}
+	\label{fig:group4}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group4/Track25.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group4/Track26.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group4/Track27.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group4/Track25.pdf}{Track 25} & \href{run:data/yard/Group4/Track26.pdf}{Track 26} & \href{run:data/yard/Group4/Track27.pdf}{Track 27} \\
+	{\includegraphics[scale =0.25]{data/yard/Group4/Track28.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group4/Track29.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group4/Track30.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group4/Track28.pdf}{Track 28} & \href{run:data/yard/Group4/Track29.pdf}{Track 29} & \href{run:data/yard/Group4/Track30.pdf}{Track 30} \\
+		{\includegraphics[scale =0.25]{data/yard/Group4/Track31.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group4/Track32.pdf}}&  \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group4/Track31.pdf}{Track 31} & \href{run:data/yard/Group4/Track32.pdf}{Track 32} & \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage	
+%
+% Group 5 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 5 Track Profile Thumbnails}
+	\label{fig:group5}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group5/Track33.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group5/Track34.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group5/Track35.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group5/Track33.pdf}{Track 33} & \href{run:data/yard/Group5/Track34.pdf}{Track 34} & \href{run:data/yard/Group5/Track35.pdf}{Track 35} \\
+	{\includegraphics[scale =0.25]{data/yard/Group5/Track36.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group5/Track37.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group5/Track38.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group5/Track36.pdf}{Track 36} & \href{run:data/yard/Group5/Track33.pdf}{Track 37} & \href{run:data/yard/Group5/Track38.pdf}{Track 38} \\
+		{\includegraphics[scale =0.25]{data/yard/Group5/Track39.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group5/Track40.pdf}}&  \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group5/Track39.pdf}{Track 39} & \href{run:data/yard/Group5/Track40.pdf}{Track 40} & \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage	
+%
+% Group 6 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 6 Track Profile Thumbnails}
+	\label{fig:group6}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group6/Track41.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group6/Track42.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group6/Track43.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group6/Track41.pdf}{Track 41} & \href{run:data/yard/Group6/Track42.pdf}{Track 42} & \href{run:data/yard/Group6/Track43.pdf}{Track 43} \\
+	{\includegraphics[scale =0.25]{data/yard/Group6/Track44.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group6/Track45.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group6/Track46.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group6/Track44.pdf}{Track 44} & \href{run:data/yard/Group6/Track45.pdf}{Track 45} & \href{run:data/yard/Group6/Track46.pdf}{Track 46} \\
+		{\includegraphics[scale =0.25]{data/yard/Group6/Track47.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group6/Track48.pdf}}&  \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group6/Track47.pdf}{Track 47} & \href{run:data/yard/Group6/Track48.pdf}{Track 48} & \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage	
+%
+% Group 7 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 7 Track Profile Thumbnails}
+	\label{fig:group7}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group7/Track49.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group7/Track50.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group7/Track51.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group7/Track49.pdf}{Track 49} & \href{run:data/yard/Group7/Track50.pdf}{Track 50} & \href{run:data/yard/Group7/Track51.pdf}{Track 51} \\
+	{\includegraphics[scale =0.25]{data/yard/Group7/Track52.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group7/Track53.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group7/Track54.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group7/Track52.pdf}{Track 52} & \href{run:data/yard/Group7/Track53.pdf}{Track 53} & \href{run:data/yard/Group7/Track54.pdf}{Track 54} \\
+		{\includegraphics[scale =0.25]{data/yard/Group7/Track55.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group7/Track56.pdf}}&  \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group7/Track55.pdf}{Track 55} & \href{run:data/yard/Group7/Track56.pdf}{Track 56} & \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage	
+%
+% Group 8 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 8 Track Profile Thumbnails}
+	\label{fig:group8}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group8/Track57.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group8/Track58.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group8/Track59.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group8/Track57.pdf}{Track 57} & \href{run:data/yard/Group8/Track58.pdf}{Track 58} & \href{run:data/yard/Group8/Track59.pdf}{Track 59} \\
+	{\includegraphics[scale =0.25]{data/yard/Group8/Track60.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group8/Track61.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group8/Track62.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group8/Track60.pdf}{Track 60} & \href{run:data/yard/Group8/Track61.pdf}{Track 61} & \href{run:data/yard/Group8/Track62.pdf}{Track 62} \\
+		{\includegraphics[scale =0.25]{data/yard/Group8/Track63.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group8/Track64.pdf}}&  \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group8/Track63.pdf}{Track 63} & \href{run:data/yard/Group8/Track64.pdf}{Track 64} & \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage	
+%
+% Group 9 Thumbnails
+%
+\begin{landscape}
+	\begin{figure}
+	\begin{center}
+	\caption{Group 9 Track Profile Thumbnails}
+	\label{fig:group9}
+	\vspace{-40pt}
+	\end{center}
+		\begin{tabular}{ccc}
+	{\includegraphics[scale =0.25]{data/yard/Group9/Track65.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group9/Track66.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group9/Track67.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group9/Track65.pdf}{Track 65} & \href{run:data/yard/Group9/Track66.pdf}{Track 66} & \href{run:data/yard/Group9/Track67.pdf}{Track 67} \\
+	{\includegraphics[scale =0.25]{data/yard/Group9/Track68.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group9/Track69.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group9/Track70.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group9/Track68.pdf}{Track 68} & \href{run:data/yard/Group9/Track69.pdf}{Track 69} & \href{run:data/yard/Group9/Track70.pdf}{Track 70} \\
+		{\includegraphics[scale =0.25]{data/yard/Group9/Track71.pdf}} & {\includegraphics[scale=0.25]{data/yard/Group9/Track72.pdf}}& {\includegraphics[scale=0.25]{data/yard/Group9/Track74.pdf}} \\
+	\vspace{-30pt}\\ \href{run:data/yard/Group9/Track71.pdf}{Track 71} & \href{run:data/yard/Group9/Track72.pdf}{Track 72} & \href{run:data/yard/Group9/Track74.pdf}{Track 74} \\
+		\end{tabular}
+	\end{figure} 
+\end{landscape}
+%
+\clearpage
+% Vertical precision color map
+\begin{figure}[htbp]
+	\begin{center}
+		\vspace{-20pt}
+		\includegraphics[scale=0.75]{graphics/Hamlet_vert_prec}
+		\vspace{-30pt}
+		\caption{Plan View: Bowl Area Relative Vertical Precision Color Map}
+		\label{fig:vertPrec}
+	\end{center}
+\end{figure}
+%
+\clearpage
+% Relative Vertical precision histogram
+\begin{landscape}
+	\begin{figure}[htbp]
+		\begin{center}
+			\vspace{-30pt}
+			\includegraphics[width=24cm]{data/yard/HumpYardSurvey_stat-vertPrec}
+			\vspace{-50pt}
+			\caption{Relative Vertical Precision Histogram}
+			\label{fig:vert_hist}
+		\end{center}
+	\end{figure}
+\end{landscape}
+%
+\clearpage
+% TEQC report
+\begin{center}{Reference Station TEQC Report, 26 May 2008 14:21-21:44 UTC}
+\end{center}
+\begin{mylisting}
+\ref{teqc1}
+\begin{verbatim}
+version: teqc  2009Oct19
+
+ SV+------|----------------------------|----------------------------|-------+ SV
+ 10|Lo+______                                                               | 10
+ 26|LoCooCooCoooCooC_____                                                   | 26
+ 15|-oCooCooCoooCooCooCooC+_____                                            | 15
+ 24|LoCooCooCoooCooCooCooCo+____                                            | 24
+ 21|LoCooCooCoooCooCooCooCooCooCoooCooC+____                                | 21
+  9|LoCooCooCoooCooCooCooCooCooCoooCooCooCooC+____                          |  9
+ 18|LoCooCooCoooCooCooCooCooCooCoooCooCooCooCooCooCooC+____                 | 18
+ 22|--CooCooCoooCooCooCooCooCooCoooCooCooCooCooCooCooCoooCooCooCooCo+____   | 22
+  6|-oCooCooCoooCooCooCL+________                                   _____LoC|  6
+ 29|LoCooCooC+_____                                      ________LCooCooCooC| 29
+ 14|   ____-CoooCooCooCooCooCooCoooCooCooCooCooCooCooCoooCooCooCooCooCooCooC| 14
+  5|               ______-1oCooCoooCooCooCooCooCooCooCoooCooCooC-_____      |  5
+ 12|                ______-oCooCoooCooCooCooCooCooCooCoooCo+____            | 12
+ 30|                    ______-CoooCooCooCooCooCooCooCoooCooCooCooCooCooC___| 30
+ 31|                        ____-ooCooCooCooCooCooCooCoooCooCooCooCooCooCooC| 31
+ 32|                              _____-oCooCooCooCooCoooCooCooCooCooCooCooC| 32
+ 16|                                                ____-CooCooCooCooCooCooC| 16
+ 20|                                                 ____-ooCooCooCooCooCooC| 20
+ 23|                                                            _____-LoCooC| 23
+-dn|                                                                        |-dn
++dn|21     1             11   1 1      1                11       1   1   1  |+dn
++10|aaa9999aaa9999998888888877889999999a999999888888888789998888888888888888|+10
+Pos|ooo    ooo                         o                                    |Pos
+Clk|                                                                        |Clk
+   +------|----------------------------|----------------------------|-------+   
+14:21:30.000                                                        21:44:00.000
+2008 May 26                                                          2008 May 26\\
+*********************
+QC of RINEX  file(s) : 89691472.08o
+input RnxNAV file(s) : 89691472.08n
+*********************
+
+4-character ID          : 8969
+Receiver type           : 5700 (# = 0220288969) (fw = Version 2.24)
+Antenna type            : TRM41249.00
+
+Time of start of window : 2008 May 26  14:21:30.000
+Time of  end  of window : 2008 May 26  21:44:00.000
+Time line window length : 7.38 hour(s), ticked every 3.0 hour(s)
+  antenna WGS 84 (xyz)  : 939936.1949 -5150619.6704 3630578.8636 (m)
+  antenna WGS 84 (geo)  : N  34 deg 55' 08.47"  E 280 deg 20' 31.55"
+  antenna WGS 84 (geo)  :   34.919020 deg   280.342098 deg (=  -79.657902 deg)
+          WGS 84 height : 130.6405 m
+|qc - header| position  : 40 m
+Observation interval    : 15.0000 seconds
+Total satellites w/ obs : 19
+NAVSTAR GPS SVs w/o OBS :  1   2   3   4   7   8  11  13  17  19  25  27 
+                          28 
+NAVSTAR GPS SVs w/o NAV :
+Rx tracking capability  : 24 SVs
+Poss. # of obs epochs   :   1771
+Epochs w/ observations  :   1771
+Epochs repeated         :      0  (0.00\%)
+Possible obs >   0.0 deg:  17729
+Possible obs >  10.0 deg:  14739
+Complete obs >  10.0 deg:  14666
+  Missed obs >  10.0 deg:     59
+ Deleted obs >  10.0 deg:     14
+Obs w/ SV duplication   :      0  (within non-repeated epochs)
+Moving average MP1      : 0.379945 m
+Moving average MP2      : 0.516314 m
+Points in MP moving avg : 50
+No. of Rx clock offsets : 0
+Total Rx clock drift    :  0.000000 ms
+Rate of Rx clock drift  :  0.000 ms/hr
+Avg time between resets : Inf minute(s)
+Freq no. and timecode   : 2 10368 3fc000
+Report gap > than       : 10.00 minute(s)
+epochs w/ msec clk slip : 23
+other msec mp events    : 0 (: 384)   {expect ~= 1:50}
+IOD signifying a slip   : >400.0 cm/minute
+IOD slips <  10.0 deg*  :      0
+IOD slips >  10.0 deg   :      0
+IOD or MP slips <  10.0*:      0
+IOD or MP slips >  10.0 :    191
+ * or unknown elevation
+      first epoch    last epoch    hrs   dt  #expt  #have   \%   mp1   mp2 o/slps
+SUM 08  5 26 14:21 08  5 26 21:44 7.379  15  14739  14666 100  0.38  0.52     77
+
+Processing parameters are:
+Receiver tracking capability       : 24 SVs
+Maximum ionospheric rate (L1)      : 400.00 cm/min
+Report data gap greater than       : 10.00 min
+Expected rms of MP1 multipath      : 50.00 cm
+Expected rms of MP2 multipath      : 65.00 cm
+Multipath slip sigma threshold     : 4.00 cm
+\% increase in MP rms for C/A | A/S : 100.00 \%
+Points in MP moving averages       : 50
+Minimum signal to noise for L1     : 0
+Minimum signal to noise for L2     : 0
+Elevation mask (cutoff)            : 10.00 degrees
+Elevation comparison threshold     : 25.00 degrees
+Orbit path spline fit sample time  : 10 min
+SVs w/ code data for position try  : 5
+Width of ASCII summary plot        : 72
+Data indicators on summary plot    : yes
+Do ionospheric observable          : yes
+Do ionospheric derivative          : yes
+Do high-pass ionosphere observable : no
+Do multipath observables           : yes
+Do 1-ms receiver clock slips       : yes
+Tolerance for 1-ms clock slips     : 1.00e-02 ms
+Do receiver LLI slips              : yes
+Do plot file(s)                    : yes
+
+Observations start   : 2008 May 26 14:21:30.000
+Observations  end    : 2008 May 26 21:44:00.000
+Observation interval : 15.0000 second(s)
+
+ SV  #+hor <ele> #+mask <ele> #reprt #compl    L1     L2     P1     P2     CA    L2C 
+--- ------ ----- ------ ----- ------ ------ ------ ------ ------ ------ ------ ------
+G10    204  6.67     51 11.76     51     44     47     47      0     47     51      0
+G18   1332 47.02   1231 50.47   1231   1231   1231   1231      0   1231   1231      0
+G21    980 48.20    875 53.40    875    875    875    875      0    875    875      0
+G24    671 35.75    570 41.22    570    570    570    570      0    570    570      0
+G26    498 23.02    378 28.77    378    378    378    378      0    378    378      0
+G29    812 12.42    498 17.07    497    496    497    496      0    496    497      0
+G09   1119 37.70   1012 41.16   1012   1011   1012   1011      0   1011   1012      0
+G15    679 29.33    546 35.28    542    542    542    542      0    542    542      0
+G06    888 11.65    568 15.42    558    553    557    554      0    554    558      0
+G22   1682 43.62   1565 46.47   1553   1553   1553   1553      0   1553   1553      0
+G14   1693 42.02   1581 44.64   1578   1578   1578   1578      0   1578   1578      0
+G05   1217 22.51    958 27.27    954    954    954    954      0    954    954      0
+G12   1077 17.79    806 22.11    803    803    803    803      0    803    803      0
+G30   1266 26.70   1046 31.19   1042   1042   1042   1042      0   1042   1042      0
+G31   1163 47.77   1064 51.76   1060   1060   1060   1060      0   1060   1060      0
+G32   1030 41.03    908 45.88    904    904    904    904      0    904    904      0
+G16    578 31.76    476 37.52    472    472    472    472      0    472    472      0
+G20    562 24.12    454 28.66    452    452    452    452      0    452    452      0
+G23    278 11.33    152 16.66    148    148    148    148      0    148    148      0
+
+Obs below mask ( 10.00 deg)   :     18
+Obs above mask w/ no L1       :      5
+Obs above mask w/ no L2       :     10
+Obs above mask w/ no P1 | CA  :      0
+Obs above mask w/ no P2 | L2C :     10
+Obs above mask w/ low L1 S/N  :      0
+Obs above mask w/ low L2 S/N  :      0
+
+Obs reported w/ code | phase :  14698
+Obs deleted (any reason)     :     32
+Obs complete                 :  14666
+
+No. of Rx clock offsets : 0
+Total Rx clock drift    :  0.000000 ms
+Rate of Rx clock drift  :  0.000000 ms/hr
+
+elev (deg)  tot slps <ION rms, m>        5=\%       1|m      15=\%       2|m
+ 85 - 90      0    0   0.000000  
+ 80 - 85    179    0   0.000000  
+ 75 - 80    225    0   0.000000  
+ 70 - 75    373    0   0.000000  
+ 65 - 70    806    0   0.000000  
+ 60 - 65   1019    0   0.000000  
+ 55 - 60   1163    0   0.000000  
+ 50 - 55    897    0   0.000000  
+ 45 - 50    890    0   0.000000  
+ 40 - 45   1025    0   0.000000  
+ 35 - 40   1207    0   0.000000  
+ 30 - 35   1082    0   0.000000  
+ 25 - 30   1408    0   0.000000  
+ 20 - 25   1206    0   0.000000  
+ 15 - 20   1625    0   0.000000  
+ 10 - 15   1542    0   0.000000  
+  5 - 10     18    0   0.000000  
+  0 -  5      0    0   0.000000  
+    <  0      0    0   0.000000
+    
+MP1  RMS summary (per SV):
+                                      slips  L1 rx  L2 rx  slips  L1 rx  L2 rx
+ SV  obs>10  # del <elev> MP1  rms [m]  < 25   < 25   < 25   > 25   > 25   > 25
+G10     51      7   13.36  0.923253      0      2      5      0      0      0
+G18   1231      0   50.50  0.347035      2      0      0     14      1      1
+G21    875      0   53.43  0.325922      2      0      0      9      1      1
+G24    570      0   41.25  0.397141      2      0      0      5      1      1
+G26    378      0   28.88  0.412081      3      0      0      2      1      1
+G29    497      1   17.22  0.618820      6      1      1      1      1      1
+G09   1012      1   41.24  0.312861      2      1      1     11      0      0
+G15    542      0   35.11  0.370183      3      0      0      4      1      1
+G06    558      5   15.65  0.610298      7      3      5      0      0      0
+G22   1553      0   46.80  0.367457      5      1      1     15      0      0
+G14   1578      0   44.76  0.384592      3      1      1     18      0      0
+G05    954      0   27.43  0.391200      6      2      2      8      0      0
+G12    803      0   22.25  0.414531      6      1      1      4      0      0
+G30   1042      0   31.34  0.396713      4      1      1     10      0      0
+G31   1060      0   51.99  0.289880      2      1      1     12      0      0
+G32    904      0   46.13  0.304541      2      1      1     10      0      0
+G16    472      0   37.92  0.357017      2      1      1      5      0      0
+G20    452      0   28.92  0.379451      2      1      1      4      0      0
+G23    148      0   17.37  0.384658      2      1      1      0      0      0
+
+mean MP1  rms         :  0.379997 m
+total mean elevation : 39.02 degrees
+# MP1  obs > 10       :  14666
+# qc MP1  slips < 25  :     61
+# Rvr L1 slips < 25  :     18
+# Rvr L2 slips < 25  :     23
+# qc MP1  slips > 25  :    132
+# Rvr L1 slips > 25  :      6
+# Rvr L2 slips > 25  :      6
+
+elev (deg)  tot slps <MP1  rms, m>        5=\%       1|m      15=\%       2|m
+ 85 - 90      0    0   0.000000  
+ 80 - 85    179    2   0.239693  ##|||
+ 75 - 80    225    3   0.210178  ##||
+ 70 - 75    373    4   0.243548  ##|||
+ 65 - 70    806   12   0.229097  ##|||
+ 60 - 65   1019   10   0.235793  #||||
+ 55 - 60   1163   19   0.257506  ###||
+ 50 - 55    897    8   0.301766  #|||||
+ 45 - 50    890   14   0.313660  ###|||
+ 40 - 45   1025   12   0.279523  ##||||
+ 35 - 40   1207   17   0.304659  ##||||
+ 30 - 35   1082   16   0.335762  ##|||||
+ 25 - 30   1408   15   0.378914  ##||||||
+ 20 - 25   1206   14   0.421666  ##||||||
+ 15 - 20   1625   24   0.478295  ##||||||||
+ 10 - 15   1542   23   0.682098  ##||||||||||||
+  5 - 10     18    0   0.643854  |||||||||||||
+  0 -  5      0    0   0.000000  
+    <  0      0    0   0.000000
+    
+MP2  RMS summary (per SV):
+                                      slips  L1 rx  L2 rx  slips  L1 rx  L2 rx
+ SV  obs>10  # del <elev> MP2  rms [m]  < 25   < 25   < 25   > 25   > 25   > 25
+G10     51      7   13.36  1.413000      0      2      5      0      0      0
+G18   1231      0   50.50  0.396074      2      0      0     14      1      1
+G21    875      0   53.43  0.388736      2      0      0      9      1      1
+G24    570      0   41.25  0.385116      2      0      0      5      1      1
+G26    378      0   28.88  0.464846      3      0      0      2      1      1
+G29    497      1   17.22  0.962715      6      1      1      1      1      1
+G09   1012      1   41.24  0.436712      2      1      1     11      0      0
+G15    542      0   35.11  0.562902      3      0      0      4      1      1
+G06    558      5   15.65  1.008073      7      3      5      0      0      0
+G22   1553      0   46.80  0.463067      5      1      1     15      0      0
+G14   1578      0   44.76  0.501127      3      1      1     18      0      0
+G05    954      0   27.43  0.622019      4      2      2      8      0      0
+G12    803      0   22.25  0.632334      6      1      1      4      0      0
+G30   1042      0   31.34  0.606855      4      1      1     10      0      0
+G31   1060      0   51.99  0.417034      2      1      1     12      0      0
+G32    904      0   46.13  0.376080      2      1      1     10      0      0
+G16    472      0   37.92  0.464800      2      1      1      5      0      0
+G20    452      0   28.92  0.395601      2      1      1      4      0      0
+G23    148      0   17.37  0.561845      2      1      1      0      0      0
+
+mean MP2  rms         :  0.516399 m
+total mean elevation : 39.02 degrees
+# MP2  obs > 10       :  14666
+# qc MP2  slips < 25  :     59
+# Rvr L1 slips < 25  :     18
+# Rvr L2 slips < 25  :     23
+# qc MP2  slips > 25  :    132
+# Rvr L1 slips > 25  :      6
+# Rvr L2 slips > 25  :      6
+
+elev (deg)  tot slps <MP2  rms, m>        5=\%       1|m      15=\%       2|m
+ 85 - 90      0    0   0.000000  
+ 80 - 85    179    2   0.206162  ##||
+ 75 - 80    225    3   0.253823  ##|||
+ 70 - 75    373    4   0.242799  ##|||
+ 65 - 70    806   12   0.258877  ##|||
+ 60 - 65   1019   10   0.265736  #||||
+ 55 - 60   1163   19   0.272441  ###||
+ 50 - 55    897    8   0.318394  #|||||
+ 45 - 50    890   14   0.347364  ###||||
+ 40 - 45   1025   12   0.451888  ##|||||||
+ 35 - 40   1207   17   0.418142  ##||||||
+ 30 - 35   1082   16   0.522575  ##||||||||
+ 25 - 30   1408   15   0.569631  ##|||||||||
+ 20 - 25   1206   14   0.597640  ##||||||||||
+ 15 - 20   1625   24   0.673954  ##|||||||||||
+ 10 - 15   1542   21   0.993207  ##||||||||||||||||||
+  5 - 10     18    0   0.735622  |||||||||||||||
+  0 -  5      0    0   0.000000  
+    <  0      0    0   0.000000
+    
+S/N L1 summary (per elevation bin):
+elev (deg)  tot SN1 sig    mean                    0|5                 1|0
+ 85 - 90      0   0.000    0.000 
+ 80 - 85    179   0.686    6.966 ###|||||||||||||||||||||||||
+ 75 - 80    225   0.511    6.920 ##||||||||||||||||||||||||||
+ 70 - 75    374   0.456    6.893 ##||||||||||||||||||||||||||
+ 65 - 70    806   0.342    6.931 #|||||||||||||||||||||||||||
+ 60 - 65   1020   0.388    6.888 ##||||||||||||||||||||||||||
+ 55 - 60   1164   0.358    6.912 #|||||||||||||||||||||||||||
+ 50 - 55    897   0.432    6.833 ##|||||||||||||||||||||||||
+ 45 - 50    891   0.500    6.718 ##|||||||||||||||||||||||||
+ 40 - 45   1026   0.526    6.620 ##||||||||||||||||||||||||
+ 35 - 40   1207   0.509    6.307 ##|||||||||||||||||||||||
+ 30 - 35   1083   0.361    6.014 #|||||||||||||||||||||||
+ 25 - 30   1408   0.342    5.929 #|||||||||||||||||||||||
+ 20 - 25   1208   0.556    5.617 ##||||||||||||||||||||
+ 15 - 20   1625   0.684    5.297 ###||||||||||||||||||
+ 10 - 15   1562   0.924    4.624 ####||||||||||||||
+  5 - 10     18   1.339    4.167 #####||||||||||||
+  0 -  5      0   0.000    0.000 
+    <  0      0   0.000    0.000
+ 
+S/N L2 summary (per elevation bin):
+elev (deg)  tot SN2 sig    mean                    0|5                 1|0
+ 85 - 90      0   0.000    0.000 
+ 80 - 85    179   0.796    8.648 ###||||||||||||||||||||||||||||||||
+ 75 - 80    225   0.744    8.364 ###||||||||||||||||||||||||||||||
+ 70 - 75    374   0.665    8.535 ###|||||||||||||||||||||||||||||||
+ 65 - 70    806   0.485    8.176 ##|||||||||||||||||||||||||||||||
+ 60 - 65   1020   0.293    8.016 #|||||||||||||||||||||||||||||||
+ 55 - 60   1164   0.431    8.145 ##|||||||||||||||||||||||||||||||
+ 50 - 55    897   0.330    8.020 #|||||||||||||||||||||||||||||||
+ 45 - 50    891   0.309    7.969 #|||||||||||||||||||||||||||||||
+ 40 - 45   1026   0.439    7.834 ##|||||||||||||||||||||||||||||
+ 35 - 40   1207   0.516    7.326 ##|||||||||||||||||||||||||||
+ 30 - 35   1083   0.454    7.141 ##|||||||||||||||||||||||||||
+ 25 - 30   1408   0.488    6.959 ##||||||||||||||||||||||||||
+ 20 - 25   1207   0.529    6.574 ##||||||||||||||||||||||||
+ 15 - 20   1625   0.466    6.226 ##|||||||||||||||||||||||
+ 10 - 15   1558   0.436    5.937 ##||||||||||||||||||||||
+  5 - 10     18   1.420    5.389 ######||||||||||||||||
+  0 -  5      0   0.000    0.000 
+    <  0      0   0.000    0.000
+\end{verbatim}
+\end{mylisting}

@@ -1,0 +1,32 @@
+Observation correction type
+
+Reason Corrections are derived from...
+
+Solid Earth tides "Deformations of the solid Earth due to the body tides
+arising from the direct effect of the external tide generating
+potential" (mainly, the Moon). (See: IERS CONVENTIONS) An internal
+model.
+
+Ocean tidal loadings Deformations of the solid Earth due to the
+"temporal variation of the ocean mass distribution and the associated
+load on the crust". (See: IERS CONVENTIONS) A file:
+ocean_tide_loading_grid.txt.
+
+Pole tides The oscillation of the Earth's rotational axis around its
+nominal direction results in an additional centrifugal force which
+displaces the surface. (See: IERS CONVENTIONS) A file:
+earth_orientation_params.txt.
+
+Carrier phase wind-up Bias introduced into carrier-phase measurements
+depending on the relative orientation of the GNSS receiver antenna with
+respect to the satellite antenna (which changes as it orbits about the
+Earth because the satellite always needs to be exposed to the sunlight)
+as well as on the direction of the line of sight between them. (See:
+J.T. Wu et al; "Effects of antenna orientation on GPS carrier phase";
+Manuscripta Geodaetica, 19, 1993, pp. 91-98). An internal model.
+
+Satellite phase center Offset of the antenna phase center of a satellite
+to its center of mass and phase center variations. The satellite orbit
+products are often the orbits of their centers of mass. The broadcast
+orbits are orbits of the phase center itself. ANTEX files.
+

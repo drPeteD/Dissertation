@@ -1,0 +1,1019 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Pete's account at 2010-04-09 11:45:47 -0400 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@misc{SafetyAct2008,
+	Author = {{United States Code}},
+	Date-Added = {2010-03-29 15:35:12 -0400},
+	Date-Modified = {2010-04-04 09:18:31 -0400},
+	Howpublished = {GPO},
+	Title = {{Rail Safety Improvement Act of 2008, Public Law 110--432}},
+	Url = {{http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ432.110}},
+	Year = {2008},
+	Bdsk-Url-1 = {%7Bhttp://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ432.110%7D}}
+
+@unpublished{ART2010,
+	Author = {{Richard Begley, Peter Dailey, Carlos Ramirez Alejandro Sanchez}},
+	Date-Added = {2010-03-29 13:37:39 -0400},
+	Date-Modified = {2010-04-02 10:19:12 -0400},
+	Institution = {NJ Rahall Transportation Institute},
+	Note = {FRA Research Result},
+	Title = {{Autonomous Railcar Tracking}},
+	Year = {2010 (in press)}}
+
+@booklet{FugroED07,
+	Author = {{Fugro EarthData, Inc.}},
+	Date-Added = {2010-03-29 11:17:19 -0400},
+	Date-Modified = {2010-03-29 11:21:46 -0400},
+	Rating = {3},
+	Read = {1},
+	Title = {{LiDAR Mapping Fact Sheet}},
+	Url = {{http://www.fugroearthdata.com/pdfs/FCT_Lidar-Educational_11-07.pdf}},
+	Year = {2007},
+	Bdsk-Url-1 = {%7Bhttp://www.fugroearthdata.com/pdfs/FCT_Lidar-Educational_11-07.pdf%7D}}
+
+@misc{USNavalObs,
+	Author = {{United States Naval Observatory}},
+	Date-Added = {2010-03-26 00:22:47 -0400},
+	Date-Modified = {2010-04-08 14:23:54 -0400},
+	Howpublished = {Internet},
+	Month = {March},
+	Rating = {3},
+	Read = {1},
+	Title = {{Block II Satellite Information}},
+	Url = {ftp://tycho.usno.navy.mil/pub/gps/gpsb2.txt},
+	Year = {2010},
+	Bdsk-Url-1 = {ftp://tycho.usno.navy.mil/pub/gps/gpsb2.txt}}
+
+@misc{humpOps,
+	Author = {Dailey, Peter J},
+	Date-Added = {2010-03-03 20:08:56 -0500},
+	Date-Modified = {2010-04-08 14:30:03 -0400},
+	Howpublished = {Internet},
+	Month = {May},
+	Title = {{Hump Operations}},
+	Url = {{http://www.youtube.com/watch?v=ndryMwF41Kk}},
+	Year = {2008},
+	Bdsk-Url-1 = {%7Bhttp://www.youtube.com/watch?v=ndryMwF41Kk%7D}}
+
+@misc{teqcSoftware,
+	Author = {Epstey, Lou},
+	Date-Added = {2010-03-03 20:05:16 -0500},
+	Date-Modified = {2010-04-05 06:41:48 -0400},
+	Howpublished = {{http://facility.unavco.org/software/teqc/teqc.html}},
+	Month = {March},
+	Title = {{UNAVCO Translate, Edit, and Quality Check} software},
+	Url = {{http://facility.unavco.org/software/teqc/teqc.html}},
+	Year = {2010},
+	Bdsk-Url-1 = {http://facility.unavco.org/software/teqc/teqc.html}}
+
+@misc{carStallVid,
+	Author = {Dailey, Peter J},
+	Date-Added = {2010-03-03 20:01:49 -0500},
+	Date-Modified = {2010-04-08 14:29:34 -0400},
+	Howpublished = {Internet},
+	Title = {{Hump Yard Car Stall Blocking Group Switch}},
+	Url = {{http://www.youtube.com/watch?v=ygl_X9RER70}},
+	Year = {2008},
+	Bdsk-Url-1 = {%7Bhttp://www.youtube.com/watch?v=ygl_X9RER70%7D}}
+
+@conference{Szwilski03,
+	Address = {Chicago, Illinois},
+	Author = {Szwilski, Anthony and Begley, Richard and Ball, John and Dailey, Peter},
+	Booktitle = {{National AREMA Conference}},
+	Date-Added = {2010-03-02 15:20:26 -0500},
+	Date-Modified = {2010-03-04 22:28:11 -0500},
+	Organization = {American Railway Engineering and Maintenance-of-Way Association},
+	Title = {{Multi-sensor Mobile System to Monitor Track Super structure and Substructure: Initial Studies with Non-Invasive Technologies}},
+	Year = {2003}}
+
+@misc{locoEMFresearch,
+	Address = {{Washington, DC}},
+	Author = {{Richard Shamberger, FRA contact}},
+	Date-Added = {2010-03-02 11:25:52 -0500},
+	Date-Modified = {2010-03-02 11:34:14 -0500},
+	Howpublished = {Research Result RR00-03},
+	Institution = {Federal Railroad Administration, Office of Research & Development},
+	Month = {August},
+	Number = {RR00-03},
+	Read = {1},
+	Title = {{Analysis of Antennas to Improve Differential Global Positioning System (DGPS) Reception on Locomotives}},
+	Type = {Research Result},
+	Year = {2000}}
+
+@misc{HumpOpsVid,
+	Author = {Dailey, Peter},
+	Citeseerurl = {{http://www.youtube.com/watch?v=ndryMwF41Kk}},
+	Date-Added = {2010-02-22 08:46:00 -0500},
+	Date-Modified = {2010-04-08 14:29:47 -0400},
+	Howpublished = {Internet},
+	Keywords = {hump yard},
+	Month = {May},
+	Title = {Hump Operations},
+	Url = {http://www.youtube.com/watch?v=ndryMwF41Kk},
+	Urldate = {June 25, 2009},
+	Year = {2008},
+	Bdsk-Url-1 = {http://www.youtube.com/watch?v=ndryMwF41Kk},
+	Bdsk-Url-2 = {%7Bhttp://www.youtube.com/watch?v=ndryMwF41Kk%7D}}
+
+@techreport{2004trimbleL5,
+	Author = {Xiaoming Chen, Ulrich Vollath, Herbert Landau Knut Sauer},
+	Date-Added = {2010-02-22 07:50:20 -0500},
+	Date-Modified = {2010-04-04 08:34:13 -0400},
+	Institution = {Trimble Terrasat GmbH},
+	Title = {{Will GALILEO/Modernized GPS Obsolete Network RTK?}},
+	Year = {2004},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAoAAAAAAAoAAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoVix9XaWxsIEdhbGlsZW8gYW5kIEdQIzJEQjQxRkUucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC20H+x6forVBERiBDQVJPAAIABgAACSAAAAAAAAAAAAAAAAAAAAAOR05TU19HZW9tYXRpY3MAEAAIAADGs59jAAAAEQAIAADHqC79AAAAAQAcABoViwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAIJCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpHTlNTX0dlb21hdGljczpXaWxsIEdhbGlsZW8gYW5kIEdQIzJEQjQxRkUucGRmAA4AYgAwAFcAaQBsAGwAIABHAGEAbABpAGwAZQBvACAAYQBuAGQAIABHAFAAUwAgAEwANQAgAE8AYgBzAG8AbABlAHQAZQAgAE4AZQB0AHcAbwByAGsAIABSAFQASwAuAHAAZABmAA8AEAAHAEIAaQBnAE0AYQBjADIAEgCLVXNlcnMvcGV0ZUQvRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL0dOU1NfR2VvbWF0aWNzL1dpbGwgR2FsaWxlbyBhbmQgR1BTIEw1IE9ic29sZXRlIE5ldHdvcmsgUlRLLnBkZgAAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QhS4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9HTlNTX0dlb21hdGljcy9XaWxsIEdhbGlsZW8gYW5kIEdQUyBMNSBPYnNvbGV0ZSBOZXR3b3JrIFJUSy5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKADJAMmAysDNAM/A0MDUQNYA2ED6QPuA/ED/gQDAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAABBU=}}
+
+@electronic{VRSwanninger,
+	Author = {Wanninger, Lambert},
+	Date-Added = {2010-02-21 09:07:09 -0500},
+	Date-Modified = {2010-04-04 08:35:40 -0400},
+	Journal = {{Ingenieurb{\"u}ro Wanninger, Germany}},
+	Title = {{GPS on the Web: Virtual reference stations (VRS)}},
+	Url = {{http://www.wasoft.de}},
+	Bdsk-Url-1 = {http://www.wasoft.de}}
+
+@book{matlab09,
+	Address = {3 Apple Hill Drive Natick, MA 01760-2098},
+	Author = {{The Mathworks, Inc.}},
+	Booktitle = {{Curve Fitting Toolbox 2}},
+	Date-Added = {2010-01-26 11:16:09 -0500},
+	Date-Modified = {2010-04-03 06:47:29 -0400},
+	Edition = {{Online only: Revised for Version 2.1 (Release 2009b)}},
+	Month = {September},
+	Publisher = {{The MathWorks, Inc.}},
+	Rating = {3},
+	Read = {1},
+	Title = {{Curve Fitting Toolbox 2}},
+	Url = {http://www.mathworks.com/access/helpdesk/help/pdf_doc/curvefit/curvefit.pdf},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.mathworks.com/access/helpdesk/help/pdf_doc/curvefit/curvefit.pdf}}
+
+@electronic{geo3dtrackAssetMap,
+	Date-Added = {2009-12-10 11:29:30 -0500},
+	Date-Modified = {2009-12-10 11:30:28 -0500},
+	Title = {Geo3d Track Asset Mapping},
+	Url = {http://www.geo-3d.com/White%20Papers/A3D_2006-06_RailBorneTrackAssetMapping.pdf},
+	Bdsk-Url-1 = {http://www.geo-3d.com/White%20Papers/A3D_2006-06_RailBorneTrackAssetMapping.pdf}}
+
+@misc{2009vanPelt,
+	Annote = {Ron Bright},
+	Author = {Van Pelt, Rodney},
+	Date-Added = {2009-12-08 13:03:50 -0500},
+	Date-Modified = {2009-12-08 13:05:34 -0500},
+	Howpublished = {Personal interview},
+	Month = {November 5,},
+	Rating = {5},
+	Title = {{CSX Roadmaster}},
+	Year = {2009}}
+
+@misc{2008pmv,
+	Author = {{Union Pacific Railroad}},
+	Date-Added = {2009-11-30 16:42:37 -0500},
+	Date-Modified = {2010-04-04 22:33:42 -0400},
+	Lastchecked = {October},
+	Read = {Yes},
+	Title = {{Union Pacific Railroad Precision Measurement Vehicle Operations}},
+	Url = {{http://www.uprr.com/aboutup/telecom/groups.shtml#2}},
+	Year = {2008},
+	Bdsk-Url-1 = {http://www.uprr.com/aboutup/telecom/groups.shtml#2}}
+
+@misc{2007lockheed,
+	Author = {Meyer, Thomas J. and Metzger, Thomas R.},
+	Date-Added = {2009-11-30 16:06:28 -0500},
+	Date-Modified = {2009-12-11 09:43:47 -0500},
+	Howpublished = {{USPTO patent 7,209,810}},
+	Month = {{April 24,}},
+	Publisher = {Lockheed Martin Corp.},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Locomotive Location System and Method}},
+	Year = {2007},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAm4AAAAAAm4AAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoWQx9QYXRlbnRfTG9jb21vdGl2ZV9sbyMxQTE4NTkucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhhZxa8AmAAAAAAAAAAAAAIABgAACSAAAAAAAAAAAAAAAAAAAAAIUmFpbHJvYWQAEAAIAADGs59jAAAAEQAIAADFr0boAAAAAQAcABoWQwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAHxCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpSYWlscm9hZDpQYXRlbnRfTG9jb21vdGl2ZV9sbyMxQTE4NTkucGRmAA4AYgAwAFAAYQB0AGUAbgB0AF8ATABvAGMAbwBtAG8AdABpAHYAZQBfAGwAbwBjAGEAdABpAG8AbgBfAHMAeQBzAHQAZQBtAF8AYQBuAGQAXwBtAGUAdABoAG8AZAAuAHAAZABmAA8AEAAHAEIAaQBnAE0AYQBjADIAEgCFVXNlcnMvcGV0ZUQvRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL1JhaWxyb2FkL1BhdGVudF9Mb2NvbW90aXZlX2xvY2F0aW9uX3N5c3RlbV9hbmRfbWV0aG9kLnBkZgAAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8Qfy4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9SYWlscm9hZC9QYXRlbnRfTG9jb21vdGl2ZV9sb2NhdGlvbl9zeXN0ZW1fYW5kX21ldGhvZC5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKADEgMUAxkDIgMtAzEDPwNGA08D0QPWA9kD5gPrAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA/0=}}
+
+@book{Armstrong98,
+	Author = {Armstrong, John H.},
+	Booktitle = {{The Railroad What It Is, What It Does: The Introduction to Railroading}},
+	Date-Added = {2009-11-18 17:09:42 -0500},
+	Date-Modified = {2009-11-18 17:11:10 -0500},
+	Edition = {4th},
+	Publisher = {{Simmons-Boardman Books}},
+	Title = {{The Railroad What It Is, What It Does: The Introduction to Railroading}},
+	Year = {1998}}
+
+@misc{KraftPaten00,
+	Author = {Kraft, Edwin R.},
+	Date-Added = {2009-11-18 17:03:17 -0500},
+	Date-Modified = {2009-12-11 12:07:10 -0500},
+	Howpublished = {{USPTO 6,418,854}},
+	Month = {July 16,},
+	Rating = {3},
+	Title = {{Priority car sorting in railroad classification yards using a continuous multi-stage method.}},
+	Year = {2002}}
+
+@misc{RITAtransStats08,
+	Annote = { 	
+Table 4-25: Energy Intensity of Class I Railroada Freight Service},
+	Author = {{USDOT}},
+	Date-Added = {2009-11-11 14:08:26 -0500},
+	Date-Modified = {2010-04-04 22:25:42 -0400},
+	Rating = {5},
+	Title = {{National Transportation Statistics, Annual Publication}},
+	Url = {{http://www.bts.gov/publications/national_transportation_statistics}},
+	Year = {2008},
+	Bdsk-Url-1 = {http://www.bts.gov/publications/national_transportation_statistics}}
+
+@misc{2007Sanders,
+	Annote = {Ron Bright},
+	Author = {Sanders, Bernie},
+	Date-Added = {2009-11-11 13:59:23 -0500},
+	Date-Modified = {2009-11-11 14:00:25 -0500},
+	Howpublished = {Personal interview},
+	Month = {18 April},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Head of CSX Techology Group}},
+	Year = {2007}}
+
+@inproceedings{2004GPStoolkit,
+	Address = {Long Beach, California},
+	Annote = {% This is the first ION paper that describes the GPSTk to the GNSS community. 
+% It should be used as the preferred first reference when describing the project.
+},
+	Author = {Tolman, Brian and Harris, R. Benjamin and Gaussiran, Tom and Munton, David and Little, Jon and Mach, Richard and Nelsen, Scot and Renfro, Brent},
+	Booktitle = {{Proceedings of the 16th International Technical Meeting of the Satellite Division of the Institute of Navigation}},
+	Date-Added = {2009-11-04 07:56:23 -0500},
+	Date-Modified = {2009-11-04 08:00:13 -0500},
+	Month = {September},
+	Title = {{{T}he {GPS} {T}oolkit: {O}pen {S}ource {GPS} {S}oftware}},
+	Year = {2004}}
+
+@article{ResorPTC,
+	Author = {Resor, Randolph R. and Smith, Michail E. and Patel, Pradee},
+	Date-Added = {2009-10-31 16:03:25 -0400},
+	Date-Modified = {2009-10-31 16:10:03 -0400},
+	Journal = {{Journal of the Transportation Research Forum}},
+	Number = {2},
+	Pages = {77-98},
+	Rating = {4},
+	Title = {{Positive Train Control (PTC): Calculating Benefits and Cost of a New Railroad Control Technology}},
+	Volume = {44},
+	Year = {2005}}
+
+@article{05Ditmeyer,
+	Address = {McLean, Virginia},
+	Author = {Ditmeyer, Steven R.},
+	Date-Added = {2009-10-26 13:49:41 -0400},
+	Date-Modified = {2009-10-26 18:41:29 -0400},
+	Month = {June},
+	Organization = {10th International Command and Control Research and Technology Symposium},
+	Pages = {22},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Network-Centric Railroading Utilizing Intelligent Railroad Systems}},
+	Year = {2005},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAjoAAAAAAjoAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoWQx9OZXR3b3JrLUNlbnRyaWMgUmFpbHJvYWRpbmcucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhhRw6xEDAAAAAAAAAAAAAIABgAACSAAAAAAAAAAAAAAAAAAAAAIUmFpbHJvYWQAEAAIAADGs59jAAAAEQAIAADDrIpcAAAAAQAcABoWQwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAHxCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpSYWlscm9hZDpOZXR3b3JrLUNlbnRyaWMgUmFpbHJvYWRpbmcucGRmAA4AQAAfAE4AZQB0AHcAbwByAGsALQBDAGUAbgB0AHIAaQBjACAAUgBhAGkAbAByAG8AYQBkAGkAbgBnAC4AcABkAGYADwAQAAcAQgBpAGcATQBhAGMAMgASAHRVc2Vycy9wZXRlRC9Eb2N1bWVudHMvRW5naW5lZXJpbmcvVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcvUmVzZWFyY2ggTm90ZXMvUmFpbHJvYWQvTmV0d29yay1DZW50cmljIFJhaWxyb2FkaW5nLnBkZgATAAEvAAAVAAIADP//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBuLi4vLi4vRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL1JhaWxyb2FkL05ldHdvcmstQ2VudHJpYyBSYWlscm9hZGluZy5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKAC3gLgAuUC7gL5Av0DCwMSAxsDjAORA5QDoQOmAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA7g=}}
+
+@booklet{NGSBluebookX1,
+	Date-Added = {2009-10-18 20:30:39 -0400},
+	Date-Modified = {2009-10-24 22:17:35 -0400},
+	Howpublished = {dsdata.txt},
+	Institution = {{National Geodetic Survey}},
+	Month = {March},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{The Digital Survey Data (DSDATA) Format, NGS Bluebook}},
+	Url = {http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=DSDATA.TXT},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=DSDATA.TXT}}
+
+@misc{49CFR213D,
+	Author = {{USC}},
+	Date-Added = {2009-10-14 11:48:14 -0400},
+	Date-Modified = {2010-04-04 22:26:40 -0400},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{United States Code, Title 49, Part 213, Subpart C - Track Geometry}},
+	Url = {{http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=a92f8f8c60b5a4769b34869f7324af63;rgn=div5;view=text;node=49%3A4.1.1.1.8;idno=49;cc=ecfr#49:4.1.1.1.8.3}},
+	Year = {2009},
+	Bdsk-Url-1 = {%7Bhttp://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=a92f8f8c60b5a4769b34869f7324af63;rgn=div5;view=text;node=49:4.1.1.1.8;idno=49;cc=ecfr#49:4.1.1.1.8.3%7D}}
+
+@incollection{Kaplan,
+	Address = {Boston, MA, USA},
+	Author = {Leva, Joseph L. and de Haag, Maarten Uijt and Syke, Karen Van},
+	Booktitle = {{Understanding GPS Principles and Applications}},
+	Date-Added = {2009-10-14 10:18:13 -0400},
+	Date-Modified = {2009-10-14 10:22:05 -0400},
+	Editor = {Kaplan, Elliott D.},
+	Publisher = {Artech House Publishers},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Performance of Standalone GPS}},
+	Year = {1996}}
+
+@electronic{TrimbleVRS,
+	Author = {{Trimble Navigation Limited}},
+	Date-Added = {2009-10-12 11:47:34 -0400},
+	Date-Modified = {2009-10-12 11:48:40 -0400},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{VRS}},
+	Url = {http://www.trimble.com/vrs.shtml},
+	Bdsk-Url-1 = {http://www.trimble.com/vrs.shtml}}
+
+@misc{Trimble5700,
+	Author = {{Trimble Navigation Limited}},
+	Date-Added = {2009-10-12 11:42:18 -0400},
+	Date-Modified = {2010-04-08 14:23:25 -0400},
+	Howpublished = {Internet},
+	Title = {{5700 CORS System}},
+	Url = {http://www.trimble.com/5700cors.shtml},
+	Year = {2006},
+	Bdsk-Url-1 = {http://www.trimble.com/5700cors.shtml}}
+
+@techreport{WAAS09,
+	Address = {Atlantic City International Airport, NJ 08405},
+	Author = {{WAAS Test Team}},
+	Date-Added = {2009-10-08 14:44:40 -0400},
+	Date-Modified = {2009-10-08 14:50:26 -0400},
+	Institution = {FAA/William J. Hughes Technical Center},
+	Month = {July},
+	Number = {29},
+	Title = {{Wide Area Augmentation System Performance Analysis Report}},
+	Type = {Quarterly Report},
+	Url = {http://www.nstb.tc.faa.gov/reports/waaspan29.pdf},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.nstb.tc.faa.gov/reports/waaspan29.pdf}}
+
+@incollection{GPStheoryV2diff,
+	Author = {Kee, Changdon},
+	Booktitle = {Global Positioning System: Theory and Applications},
+	Chapter = {3},
+	Date-Added = {2009-10-07 16:39:19 -0400},
+	Date-Modified = {2009-10-07 16:43:10 -0400},
+	Edition = {Fifth},
+	Editor = {Zarchan, Paul},
+	Number = {164},
+	Pages = {81-115},
+	Publisher = {Progress in Astronautics and Aeronautics},
+	Title = {{Wide Area Differential GPS}},
+	Volume = {2},
+	Year = {1994}}
+
+@manual{TrimbleR7gnss,
+	Author = {Trimble},
+	Booktitle = {R7 GNSS User Guide},
+	Date-Added = {2009-10-07 08:11:30 -0400},
+	Date-Modified = {2010-04-04 23:09:56 -0400},
+	Edition = {Version 4.0 revision A},
+	Organization = {{Trimble Navigation Limited}},
+	Title = {R7 GNSS User Guide},
+	Url = {http://trl.trimble.com/dscgi/ds.py/Get/File-449958/R7-5700Receivers_4A_UG_7441.pdf},
+	Year = {2009},
+	Bdsk-Url-1 = {http://trl.trimble.com/dscgi/ds.py/Get/File-449958/R7-5700Receivers_4A_UG_7441.pdf}}
+
+@manual{5700UM,
+	Address = {5475 Kellenburger Road Dayton Ohio 45424-1099},
+	Author = {{Trimble}},
+	Date-Added = {2009-10-05 18:38:53 -0400},
+	Date-Modified = {2010-04-04 09:22:59 -0400},
+	Edition = {{Revision A}},
+	Month = {September},
+	Organization = {{Trimble Navigation Limited}},
+	Rating = {4},
+	Read = {Yes},
+	Title = {Trimble 5700 User Guide},
+	Year = {2003},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAgoAAAAAAgoAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoViw41NzAwbWFudWFsLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvYoIxs26PVBERiBDQVJPAAIABgAACSAAAAAAAAAAAAAAAAAAAAAOR05TU19HZW9tYXRpY3MAEAAIAADGs59jAAAAEQAIAADGzfJ9AAAAAQAcABoViwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAHFCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpHTlNTX0dlb21hdGljczo1NzAwbWFudWFsLnBkZgAADgAeAA4ANQA3ADAAMABtAGEAbgB1AGEAbAAuAHAAZABmAA8AEAAHAEIAaQBnAE0AYQBjADIAEgBpVXNlcnMvcGV0ZUQvRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL0dOU1NfR2VvbWF0aWNzLzU3MDBtYW51YWwucGRmAAATAAEvAAAVAAIADP//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBjLi4vLi4vRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL0dOU1NfR2VvbWF0aWNzLzU3MDBtYW51YWwucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAq4CsAK1Ar4CyQLNAtsC4gLrA1EDVgNZA2YDawAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAN9}}
+
+@misc{NCvrs,
+	Author = {{NCGS}},
+	Date-Added = {2009-10-02 15:43:44 -0400},
+	Date-Modified = {2010-04-08 14:24:20 -0400},
+	Howpublished = {Internet},
+	Lastchecked = {2},
+	Month = {October},
+	Rating = {2},
+	Read = {Yes},
+	Title = {{North Carolina Geodetic Survey}},
+	Url = {http://www.ncgs.state.nc.us/},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.ncgs.state.nc.us/}}
+
+@misc{KYCORS,
+	Author = {{KGS}},
+	Date-Added = {2009-10-02 15:37:10 -0400},
+	Date-Modified = {2010-04-08 14:26:30 -0400},
+	Howpublished = {Internet},
+	Lastchecked = {2},
+	Month = {October},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Kentucky Geodetic Survey's Geodetic Control in Kentucky}},
+	Url = {http://ngs.ky.gov/index.html},
+	Year = {2009},
+	Bdsk-Url-1 = {http://ngs.ky.gov/index.html}}
+
+@misc{49CFR214500,
+	Author = {{USC}},
+	Date-Added = {2009-09-30 16:48:52 -0400},
+	Date-Modified = {2010-04-08 14:25:11 -0400},
+	Howpublished = {USGPO},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{United States Code, Title 49, Part 214, Subpart D, On-Track Roadway Maintenance Machines and Hi-Rail Vehicles}},
+	Url = {http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e1e054ac618be974227886aec39b5522&rgn=div6&view=text&node=49:4.1.1.1.9.4&idno=49},
+	Urldate = {September 2009},
+	Year = {2009},
+	Bdsk-Url-1 = {%7Bhttp://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e1e054ac618be974227886aec39b5522&rgn=div6&view=text&node=49:4.1.1.1.9.3&idno=49%7D}}
+
+@misc{49CFR214300,
+	Author = {{USC}},
+	Date-Added = {2009-09-30 16:44:25 -0400},
+	Date-Modified = {2010-04-08 14:25:59 -0400},
+	Howpublished = {USGPO},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{United States Code, Title 49 Part 214, Subpart C, Roadway Worker Protection}},
+	Url = {http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e1e054ac618be974227886aec39b5522&rgn=div6&view=text&node=49:4.1.1.1.9.3&idno=49},
+	Urldate = {September 2009},
+	Year = {2009},
+	Bdsk-Url-1 = {http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e1e054ac618be974227886aec39b5522&rgn=div6&view=text&node=49:4.1.1.1.9.3&idno=49}}
+
+@misc{NGSOPUS,
+	Author = {{National Geodetic Survey}},
+	Date-Added = {2009-09-29 19:46:01 -0400},
+	Date-Modified = {2010-04-08 14:30:18 -0400},
+	Howpublished = {Internet},
+	Lastchecked = {29},
+	Month = {September},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{OPUS - Online Positioning User Service: How to improve your accuracy}},
+	Url = {http://www.ngs.noaa.gov/OPUS/about.html#discussion},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.ngs.noaa.gov/OPUS/about.html#discussion}}
+
+@misc{MDOTvrs,
+	Author = {{MDOT}},
+	Date-Added = {2009-09-28 07:31:44 -0400},
+	Date-Modified = {2010-04-08 14:26:56 -0400},
+	Howpublished = {Internet},
+	Lastchecked = {28 September},
+	Month = {September},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Michigan Department Of Transporation CORS}},
+	Url = {http://www.mdotcors.org/},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.mdotcors.org/}}
+
+@misc{ODOTvrs,
+	Author = {{ODOT}},
+	Date-Added = {2009-09-28 07:15:34 -0400},
+	Date-Modified = {2010-04-08 14:27:23 -0400},
+	Howpublished = {Internet},
+	Keywords = {gnss vrs cors},
+	Lastchecked = {27},
+	Month = {September},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Ohio Department of Transportation Aerial Engineering Virtual Rreference System Real Time Kinematic Network}},
+	Url = {http://www.dot.state.oh.us/Divisions/ProdMgt/Aerial/Pages/VRSRTK.aspx},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.dot.state.oh.us/Divisions/ProdMgt/Aerial/Pages/VRSRTK.aspx}}
+
+@incollection{TriTragPresid,
+	Author = {Solomon, Anne G. K.},
+	Booktitle = {Triumphs and Tragedies of the Modern Presidency: Seventy-Six Case Studies in Presidential Leadership},
+	Chapter = {IV},
+	Date-Added = {2009-09-27 11:43:10 -0400},
+	Date-Modified = {2009-10-17 07:37:38 -0400},
+	Edition = {first},
+	Editor = {Abshire, David},
+	Pages = {106-121},
+	Publisher = {Praeger},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{The Global Positioning System}},
+	Url = {http://www.thepresidency.org/pubs/Triumphs_and_Tragedies/Global_Positioning_System.pdf},
+	Year = {2001},
+	Bdsk-Url-1 = {http://www.thepresidency.org/pubs/Triumphs_and_Tragedies/Global_Positioning_System.pdf}}
+
+@manual{CORSguide,
+	Address = {Silver Spring, MD},
+	Author = {Sella, Giovanni},
+	Date-Added = {2009-09-27 11:19:59 -0400},
+	Date-Modified = {2009-09-27 11:23:23 -0400},
+	Keywords = {CORS},
+	Month = {February},
+	Organization = {National Geodetic Survey},
+	Title = {Guidelines for New and Existing Continuously Guidelines for New and Existing Continuously Operating Reference Stations {(CORS)}},
+	Url = {http://www.ngs.noaa.gov/PUBS_LIB/CORS_guidelines.pdf},
+	Year = {2006},
+	Bdsk-Url-1 = {http://www.ngs.noaa.gov/PUBS_LIB/CORS_guidelines.pdf}}
+
+@book{1964hickerson,
+	Address = {New York, New York},
+	Author = {Hickerson, Thomas F.},
+	Date-Added = {2009-09-27 08:08:04 -0400},
+	Date-Modified = {2010-04-04 07:13:19 -0400},
+	Edition = {fifth},
+	Publisher = {McGraw-Hill Book Company},
+	Rating = {5},
+	Read = {Yes},
+	Title = {Route Location and Design},
+	Year = {1964}}
+
+@misc{2005fugro,
+	Annote = {OmniSTAR is a wide-area differential GPS service, using satellite broadcast techniques. For the sub-meter service, data from many widely-spaced Reference Stations is used in a proprietary multi-site solution over most land areas worldwide. The high accuracy HP solution uses more sophisticated data from these reference sites and XP uses satellite orbit and clock correction data which is independent of reference site location.},
+	Author = {{Fugro N.V.}},
+	Date-Added = {2009-09-25 11:50:12 -0400},
+	Date-Modified = {2010-04-08 14:27:47 -0400},
+	Howpublished = {Internet},
+	Lastchecked = {25 September 2009},
+	Month = {September},
+	Publisher = {{Fugro N.V.}},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{OmniSTAR Worldwide DGPS Service}},
+	Url = {http://www.fugro.com/survey/satellite/omnistar.asp},
+	Volume = {2009},
+	Year = {2009},
+	Bdsk-Url-1 = {http://www.fugro.com/survey/satellite/omnistar.asp}}
+
+@book{2004leick,
+	Address = {Hoboken, NY},
+	Author = {Leick, Alfred},
+	Date-Added = {2009-09-25 11:45:16 -0400},
+	Date-Modified = {2009-09-25 11:47:48 -0400},
+	Edition = {3rd},
+	Publisher = {John Wiley and Sons},
+	Rating = {5},
+	Title = {{GPS} Satellite Surveying},
+	Year = {2004}}
+
+@unpublished{2007classYardSurv,
+	Author = {Dailey, Peter},
+	Date-Added = {2009-09-24 22:20:37 -0400},
+	Date-Modified = {2009-10-08 12:11:17 -0400},
+	Month = {May},
+	Note = {{Independent study report submitted to Professor D. Martinelli, Ph.D.}},
+	Pages = {110},
+	Publisher = {West Virginia University College of Engineering and Mineral Resources},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{A Cheaper, Safer, Faster Technique For Automatic Classification Yard Surveying}},
+	Year = {2007},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RBCIAAAAABCIAAgAACGRhaWxleXBqAAAAAAAAAAAAAAAAAAAAAAAAAMeUjk9IKwAFAAACrh9BbiBJbm5vdmF0aXZlIFRlY2huaXF1IzNBNDMucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADpDw0fv8wAAAAAAAAAA/////wAADQIAAAAAAAAAAAAAAAAAAAARSHVtcHlhcmRTdXJ2ZXlpbmcAABAACAAAx5TUnwAAABEACAAAw0goMwAAAAEAFAAAAq4AAAKrAAACfgAAAnYAAAEgAAIAWWRhaWxleXBqOkRvY3VtZW50czpXVlU6UGhEd29yazpQaERub3RlczpIdW1weWFyZFN1cnZleWluZzpBbiBJbm5vdmF0aXZlIFRlY2huaXF1IzNBNDMucGRmAAAOAGgAMwBBAG4AIABJAG4AbgBvAHYAYQB0AGkAdgBlACAAVABlAGMAaABuAGkAcQB1AGUAIABmAG8AcgAgAEgAdQBtAHAAIABZAGEAcgBkACAAUwB1AHIAdgBlAHkAaQBuAGcALgBwAGQAZgAPABIACABkAGEAaQBsAGUAeQBwAGoAEgBlL0RvY3VtZW50cy9XVlUvUGhEd29yay9QaERub3Rlcy9IdW1weWFyZFN1cnZleWluZy9BbiBJbm5vdmF0aXZlIFRlY2huaXF1ZSBmb3IgSHVtcCBZYXJkIFN1cnZleWluZy5wZGYAABMAES9Wb2x1bWVzL2RhaWxleXBqAAAUAdIAAAAAAdIAAgABB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAAAjyWhtkYWlsZXlwal9pRGlzay5zcGFyc2VidW5kbGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACnKI+x5SOTAAAAAAAAAAA/////wAACSAAAAAAAAAAAAAAAAAAAAAMMDAxZmYzY2M5YTIwABAACAAAxrOfYwAAABEACAAAx5TUnAAAAAEAFAAI8loACPJZAAjxnAAI8Y0AAHmHAAIATUJpZ01hYzI6VXNlcnM6cGV0ZUQ6TGlicmFyeTpGaWxlU3luYzowMDFmZjNjYzlhMjA6ZGFpbGV5cGpfaURpc2suc3BhcnNlYnVuZGxlAAAOADgAGwBkAGEAaQBsAGUAeQBwAGoAXwBpAEQAaQBzAGsALgBzAHAAYQByAHMAZQBiAHUAbgBkAGwAZQAPABAABwBCAGkAZwBNAGEAYwAyABIARVVzZXJzL3BldGVEL0xpYnJhcnkvRmlsZVN5bmMvMDAxZmYzY2M5YTIwL2RhaWxleXBqX2lEaXNrLnNwYXJzZWJ1bmRsZQAAEwABLwAAFQACAAz//wAAABYACGRhaWxleXBq//8AAIAF0hwdHh9YJGNsYXNzZXNaJGNsYXNzbmFtZaMfICFdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfEIEuLi8uLi8uLi8uLi9Wb2x1bWVzL2RhaWxleXBqL0RvY3VtZW50cy9XVlUvUGhEd29yay9QaERub3Rlcy9IdW1weWFyZFN1cnZleWluZy9BbiBJbm5vdmF0aXZlIFRlY2huaXF1ZSBmb3IgSHVtcCBZYXJkIFN1cnZleWluZy5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKAExgTIBM0E1gThBOUE8wT6BQMFhwWMBY8FnAWhAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAABbM=}}
+
+@book{1998theRailroad,
+	Author = {Armstrong, John H.},
+	Date-Added = {2009-09-24 22:18:21 -0400},
+	Date-Modified = {2009-09-24 22:18:56 -0400},
+	Edition = {4th},
+	Publisher = {Simmons-Boardman Books},
+	Rating = {5},
+	Read = {Yes},
+	Title = {The Railroad What It Is, What It Does The Introduction to Railroading},
+	Year = {1998}}
+
+@techreport{2004beshers,
+	Annote = {Distributed before Transportation Research Board conference on railroad research topics.},
+	Author = {Beshers, Eric W. and Blaze, James R. and Resor, Randolph R.},
+	Date-Added = {2009-09-24 22:17:44 -0400},
+	Date-Modified = {2009-09-27 09:13:11 -0400},
+	Institution = {Office of Policy, Federal Railroad Administration},
+	Month = {March 16},
+	Pages = {9-12},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Scheduled Railroading and The Viability of Carload Service}},
+	Url = {http://www.fra.dot.gov/downloads/policy/policy_carload_study_2004.pdf},
+	Year = {2004},
+	Bdsk-Url-1 = {http://www.fra.dot.gov/downloads/policy/policy_carload_study_2004.pdf}}
+
+@misc{2009bright,
+	Annote = {Ron Bright},
+	Author = {Bright, Ron},
+	Date-Added = {2009-09-24 22:13:53 -0400},
+	Date-Modified = {2010-04-03 06:32:29 -0400},
+	Howpublished = {Personal interview},
+	Month = {May 19},
+	Rating = {5},
+	Title = {{Head of CSX Track Inspection}},
+	Year = {2009}}
+
+@conference{2005szwilski,
+	Annote = {http://www.arema.org/eseries/scriptcontent/custom/e_arema/library/2005_Conference_Proceedings/00048.pdf},
+	Author = {Szwilski, Anthony B. and Kerchof, W. Brad and Tomlin, John and Dailey, Peter J. and Sheng, Zhibin and Begley, Richard},
+	Booktitle = {Proceedings of the AREMA 2005 Annual Conferences},
+	Date-Added = {2009-09-24 22:10:43 -0400},
+	Date-Modified = {2010-04-04 07:14:30 -0400},
+	Month = {September 25-28},
+	Organization = {The American Railway Engineering and Maintenance of Way Association},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{Rapid Surveying Of A Classification Yard Employing High-Accuracy DGPS (RTK)}},
+	Url = {http://www.arema.org/eseries/scriptcontent/custom/e_arema/library/2005_Conference_Proceedings/00048.pdf},
+	Year = {2005},
+	Bdsk-Url-1 = {http://www.arema.org/eseries/scriptcontent/custom/e_arema/library/2005_Conference_Proceedings/00048.pdf}}
+
+@techreport{2008USDoT_NDGPS,
+	Abstract = {This report presents findings an assessment of the user base and applications of the Nationwide Differential GPS (NDGPS) system.},
+	Annote = {From Executive Summary Overview of Effort and Methods
+The specific objective of this report is to present the results of an assessment of the Nationwide Differential Global Positioning System (NDGPS) system. The goals of this assessment were to document: 
+	the current status of the NDGPS system; 
+	current and projected NDGPS user base and applications, with the primary emphasis on assessing transportation system requirements; and 
+	economic costs and benefits associated with continued NDGPS deployment and operations.
+
+This assessment also addresses the potential impact of ceasing NDGPS operations on current and projected NDGPS users and applications, and the costs and benefits of ceasing operations. This assessment was performed by ARINC Incorporated, and its subcontractor SEAM, who are independent of NDGPS or other GPS service or equipment providers, and who have no business position relative to any decisions regarding NDGPS development, operation, or maintenance operation. Data was gathered in the generation of this report by a combination of: 
+	contacts directly with end users; 
+	a survey of Federal agencies; 
+	evaluation of responses to the Federal Register Notice on NDGPS (RITA-2007-28836); 
+	evaluation of responses to a survey by the American Association of State Highway Transportation Officials (AASHTO); 
+	contacts at trade shows and conferences; 
+	information from papers and presentations; and 
+	information from web sites of user organizations, associations and user communities, suppliers, applications developers, Federal/state/local agencies, and others.
+
+This report does not address details of the design or operation of NDGPS, but focuses on the user base, applications, associated economics, and the impacts of discontinuing NDGPS operation.},
+	Author = {Pruitt, Gary and Fly, Carl Eric},
+	Date-Added = {2009-09-24 22:03:58 -0400},
+	Date-Modified = {2010-04-04 07:12:16 -0400},
+	Institution = {{United States Department of Transportation}},
+	Month = {March},
+	Number = {DTFH61-04-D-00002},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{NDGPS Assessment Final Report}},
+	Url = {{http://www.navcen.uscg.gov/ndgps/ndgps%20assessment%20report_final.pdf}},
+	Year = {2008},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAmIAAAAAAmIAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoVix9uZGdwcyBhc3Nlc3NtZW50IHJlcCMxQTE1RTYucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhXmxkGqq1BERiBDQVJPAAIABgAACSAAAAAAAAAAAAAAAAAAAAAOR05TU19HZW9tYXRpY3MAEAAIAADGs59jAAAAEQAIAADGQeLrAAAAAQAcABoViwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAIJCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpHTlNTX0dlb21hdGljczpuZGdwcyBhc3Nlc3NtZW50IHJlcCMxQTE1RTYucGRmAA4ATgAmAG4AZABnAHAAcwAgAGEAcwBzAGUAcwBzAG0AZQBuAHQAIAByAGUAcABvAHIAdABfAGYAaQBuAGEAbABfADIAMAAwADgALgBwAGQAZgAPABAABwBCAGkAZwBNAGEAYwAyABIAgVVzZXJzL3BldGVEL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9HTlNTX0dlb21hdGljcy9uZGdwcyBhc3Nlc3NtZW50IHJlcG9ydF9maW5hbF8yMDA4LnBkZgAAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8Qey4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9HTlNTX0dlb21hdGljcy9uZGdwcyBhc3Nlc3NtZW50IHJlcG9ydF9maW5hbF8yMDA4LnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAMGAwgDDQMWAyEDJQMzAzoDQwPBA8YDyQPWA9sAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAD7Q==},
+	Bdsk-Url-1 = {http://www.navcen.uscg.gov/ndgps/ndgps%20assessment%20report_final.pdf}}
+
+@misc{1996NSTC-6,
+	Abstract = {The President has approved a comprehensive national policy on the future management and use of the U.S. Global Positioning System (GPS) and related U.S. Government augmentations. },
+	Annote = {{National Security Council Office of Science and Technology Policy}
+
+1. The Department of Transportation will: Serve as the lead agency within the U.S. Government for all Federal civil GPS matters. 
+2. Develop and implement U.S. Government augmentations to the basic GPS for transportation applications. 
+3. In cooperation with the Departments of Commerce, Defense and State, take the lead in promoting commercial applications of GPS technologies and the acceptance of GPS and U.S. Government augmentations as standards in domestic and international transportation systems. 
+4. In cooperation with other departments and agencies, coordinate U.S. Government-provided GPS civil augmentation systems to minimize cost and duplication of effort.},
+	Author = {{NSC Office of Science and Technology Policy}},
+	Date-Added = {2009-09-24 22:01:03 -0400},
+	Date-Modified = {2010-02-09 11:15:28 -0500},
+	Howpublished = {Presidential Directive},
+	Isbn = {PDD NSTC-6},
+	Keywords = {PDD NSTC-6},
+	Month = {March},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{NSTC-6 U.S. Global Positioning System Policy}},
+	Url = {{http://www.hq.nasa.gov/office/codez/new/policy/pddnstc_6.htm}},
+	Year = {1996},
+	Bdsk-Url-1 = {http://www.hq.nasa.gov/office/codez/new/policy/pddnstc_6.htm}}
+
+@techreport{2001DoDGPSperf,
+	Author = {{USDOD}},
+	Date-Added = {2009-09-24 21:43:44 -0400},
+	Date-Modified = {2009-12-07 16:27:55 -0500},
+	Institution = {{US Department Of Defense}},
+	Pages = {66},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Global Positioning System Standard Postitioning Service Performance Standard}},
+	Url = {http://www.navcen.uscg.gov/GPS/geninfo/2001SPSPerformanceStandardFINAL.pdf},
+	Year = {2001},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAlgAAAAAAlgAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoVix8yMDAxU1BTUGVyZm9ybWFuY2VTdCNGNTBDN0IucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9Qx7xuOBcVBERiBDQVJPAAIABgAACSAAAAAAAAAAAAAAAAAAAAAOR05TU19HZW9tYXRpY3MAEAAIAADGs59jAAAAEQAIAADG47mxAAAAAQAcABoViwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAIJCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpHTlNTX0dlb21hdGljczoyMDAxU1BTUGVyZm9ybWFuY2VTdCNGNTBDN0IucGRmAA4ASAAjADIAMAAwADEAUwBQAFMAUABlAHIAZgBvAHIAbQBhAG4AYwBlAFMAdABhAG4AZABhAHIAZABGAEkATgBBAEwALgBwAGQAZgAPABAABwBCAGkAZwBNAGEAYwAyABIAflVzZXJzL3BldGVEL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9HTlNTX0dlb21hdGljcy8yMDAxU1BTUGVyZm9ybWFuY2VTdGFuZGFyZEZJTkFMLnBkZgATAAEvAAAVAAIADP//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxB4Li4vLi4vRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL0dOU1NfR2VvbWF0aWNzLzIwMDFTUFNQZXJmb3JtYW5jZVN0YW5kYXJkRklOQUwucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAvwC/gMDAwwDFwMbAykDMAM5A7QDuQO8A8kDzgAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAPg},
+	Bdsk-Url-1 = {http://www.navcen.uscg.gov/GPS/geninfo/2001SPSPerformanceStandardFINAL.pdf}}
+
+@misc{1995defense.ugloba,
+	Author = {{US Department Of Defense}},
+	Date-Added = {2009-09-24 21:40:52 -0400},
+	Date-Modified = {2009-12-04 07:33:31 -0500},
+	Publisher = {United States Department of Transporation},
+	Rating = {2},
+	Title = {{Global Positioning System Standard Positioning Service Signal Specification}},
+	Year = {1995}}
+
+@misc{2005shaw.mfeder,
+	Author = {Shaw, Mike},
+	Date-Added = {2009-09-24 21:40:04 -0400},
+	Date-Modified = {2010-04-04 07:11:24 -0400},
+	Isbn = {DOT-VNTSC-RITA-05-12},
+	Pages = {72},
+	Publisher = {National Technical Information Service},
+	Title = {{Federal Radionavigation Plan}},
+	Year = {2005}}
+
+@book{2006wolf_ghilani11,
+	Author = {Wolf, Paul R. and Ghilani, Charles D.},
+	Date-Added = {2009-09-24 21:39:20 -0400},
+	Date-Modified = {2009-09-30 07:21:43 -0400},
+	Edition = {11},
+	Publisher = {Pearson Prentice Hall},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Elementary Surveying, An Introduction to Geomatics}},
+	Year = {2006}}
+
+@conference{2006moorman,
+	Author = {Moorman, Charles W.},
+	Booktitle = {Workshop to Support FRA Railroad Research and Development},
+	Date-Added = {2009-09-24 21:15:20 -0400},
+	Date-Modified = {2009-09-24 21:19:31 -0400},
+	Month = {April 5-6},
+	Publisher = {Transportation Research Board},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{Freight Rail Perspectives on Capacity Issues: Summary of Remarks}},
+	Year = {2006}}
+
+@misc{2009miller,
+	Author = {Miller, Les},
+	Date-Added = {2009-09-24 21:14:09 -0400},
+	Date-Modified = {2009-11-04 08:03:37 -0500},
+	Howpublished = {Personal interview},
+	Month = {18-19 February},
+	Rating = {5},
+	Title = {{CSXT Track Geometry Measurement Vehicles and Techniques}},
+	Year = {2009}}
+
+@misc{2003meyer,
+	Author = {Meyer, Thomas J.},
+	Date-Added = {2009-09-24 21:11:09 -0400},
+	Date-Modified = {2009-09-24 21:12:45 -0400},
+	Howpublished = {USPTO},
+	Isbn = {6,641,090},
+	Month = {November 4},
+	Number = {10/041,744},
+	Publisher = {Lockheed Martin Corp.},
+	Title = {{Locomotive Location System and Method}},
+	Year = {2003}}
+
+@inproceedings{2006mccullough,
+	Author = {McCullough, Gerard J.},
+	Date-Added = {2009-09-24 21:09:56 -0400},
+	Date-Modified = {2009-09-27 08:33:28 -0400},
+	Month = {April 2006},
+	Organization = {Transportation Research Board},
+	Publisher = {Transportation Research Board},
+	Rating = {4},
+	Title = {{US Railroad Efficiency: A Brief Economic Overview}},
+	Year = {2006}}
+
+@phdthesis{2006glaus,
+	Author = {Glaus, Ralph},
+	Date-Added = {2009-09-24 21:07:31 -0400},
+	Date-Modified = {2009-09-24 21:08:29 -0400},
+	Notes = {the author details a kinematic model for track surveying; a hand propelled multisensor platform for sub-centimeter precision surveying of track. Sensors include Total Station reflector, GPS, inclinometer, odometer, laser imaging, track gauging. Maximum survey speed is 1.5 m/s (3.3 mph).},
+	School = {Swiss Federal Institute Of Technology},
+	Title = {{Kinematic Track Surveying by Means of a Multi-Sensor Platform}},
+	University = {Swiss Federal Institute Of Technology},
+	Year = {2006}}
+
+@misc{2007barnes,
+	Annote = {Boyles Yard, Tarrent, AL},
+	Author = {Barnes, Gil},
+	Date-Added = {2009-09-24 21:00:36 -0400},
+	Date-Modified = {2009-11-04 08:02:05 -0500},
+	Howpublished = {Personal interview},
+	Month = {May 16},
+	Rating = {5},
+	Title = {{Head of CSX Hump Yard Engineering}},
+	Year = {2007}}
+
+@conference{2006gallamore.rfra,
+	Abstract = {The Federal Railroad Administration (FRA) has asked the Transportation Research Board (TRB) to assist in the review and planning of its research and development (R&D) program by commissioning a task force of industry experts familiar with both FRA and railroad industry research activities. Under FRA sponsorship, TRB organized and has maintained for the past eight years its Committee for review of the Federal RailroadAdministration Research, Development, and Demonstration Programs (RD&D, the Review Committee), under the leadership of four different chairs. In early 2005, FRA asked TRB to call on this committee and other resources to gain input from stakeholders and customers for an update of the FRA Five Year Strategic Plan for Railroad Research and Development. The
+current effort will serve as a follow-on to the report of the same title requested by the Senate Appropriations Committee and published by FRA in March 2002. The Review Committee took on this assignment with enthusiasm, and is in the process of helping FRA develop a public workshop on railroad research needs scheduled for April 5-6, 2006.},
+	Author = {Gallamore, Robert E.},
+	Date-Added = {2009-09-24 20:53:37 -0400},
+	Date-Modified = {2009-09-30 16:48:33 -0400},
+	Month = {April 5-6, 2006},
+	Publisher = {Federal Railway Administration},
+	Rating = {3},
+	Read = {Yes},
+	Title = {{1966 - 2005: Context for a Workshop to Support FRA Railroad Research and Development}},
+	Year = {2006}}
+
+@webpage{2007FRA_PTC,
+	Annote = {Positive Train Control (PTC) systems are integrated command, control, communications, and information systems for controlling train movements with safety, security, precision, and efficiency. PTC systems will improve railroad safety by significantly reducing the probability of collisions between trains, casualties to roadway workers and damage to their equipment, and over speed accidents. The National Transportation Safety Board (NTSB) has named PTC as one of its "most-wanted" initiatives for national transportation safety. PTC systems are comprised of digital data link communications networks, continuous and accurate positioning systems such as NDGPS, on-board computers with digitized maps on locomotives and maintenance-of-way equipment, in-cab displays, throttle-brake interfaces on locomotives, wayside interface units at switches and wayside detectors, and control center computers and displays. PTC systems may also interface with tactical and strategic traffic planners, work order reporting systems, and locomotive health reporting systems. PTC systems issue movement authorities to train and maintenance-of-way crews, track the location of the trains and maintenance-of-way vehicles, have the ability to automatically enforce movement authorities, and continually update operating data systems with information on the location of trains, locomotives, cars, and crews. The remote intervention capability of PTC will permit the control center to stop a train should the locomotive crew be incapacitated. In addition to providing a greater level of safety and security, PTC systems also enable a railroad to run scheduled operations and provide improved running time, greater running time reliability, higher asset utilization, and greater track capacity. They will assist railroads in measuring and managing costs and in improving energy efficiency. Pilot versions of PTC were successfully tested a decade ago, but the systems were never deployed on a wide scale. Other demonstration projects are currently in the planning and testing stages. Deployment of PTC on railroads is expected to begin in earnest later this decade.},
+	Author = {{Federal Railroad Administration}},
+	Date-Added = {2009-09-24 20:41:00 -0400},
+	Date-Modified = {2009-11-11 20:06:41 -0500},
+	Lastchecked = {24 September 2009},
+	Month = {3 April 2008},
+	Pages = {1},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{Positive Train Control Overview}},
+	Url = {http://www.fra.dot.gov/us/content/784},
+	Year = {2007},
+	Bdsk-Url-1 = {http://www.fra.dot.gov/us/content/784}}
+
+@techreport{2000FRA_gps_ant,
+	Abstract = {The Federal Railroad Administration (FRA) Office of Research and Development sponsored a research
+investigation to improve DGPS signal reception in the locomotive electromagnetic interference (EMI)
+environment. The main objective of this investigation was to test whether a new Starlink p rototype E-field antenna designed to significantly reduce EMI effects surrounding operating AC and DC locomotives performed as intended (see Figure 1). During the testing, the performance of the Starlink prototype balanced E-field cone antenna was compared to that of a standard off-the-shelf Starlink H-field loop antenna (MBA2). The antennas were placed in various locations on the roof of the test locom otives. Overall, the Starlink E-field cone antenna performed significantly better than the off-the-shelf Starlink H-field loop antenna, increasing the signal-to-noise ratio (SNR) by 10 dB. It was determined by prior tests that a 10 dB increase in the SNR is sufficient for the Nationwide Differential Global Positioning System (NDGPS) Service to work effectively on railroads. The NDGPS Service will broadcast differential correctors for GPS throughout the nation on the radio beacon band 285 kHz - 325 kHz.},
+	Author = {{FRA}},
+	Date-Added = {2009-09-24 20:36:59 -0400},
+	Date-Modified = {2009-11-30 15:34:28 -0500},
+	Institution = {{Federal Railroad Administration}},
+	Isbn = {RR00-03},
+	Keywords = {NDGPS antenna},
+	Month = {August},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Analysis of Antennas to Improve Differential Global Positioning System ({DGPS}) Reception on Locomotives}},
+	Type = {Research Result},
+	Url = {http://www.fra.dot.gov/downloads/Research/rr00_03.pdf},
+	Year = {2000},
+	Bdsk-Url-1 = {http://www.fra.dot.gov/downloads/Research/rr00_03.pdf}}
+
+@misc{2007El-Sibaie.MDiscu,
+	Annote = {Spoken during a reseach conference, recorded by Richard Begely, PhD.
+Current GPS technology is not accurate enough to predict what track the train is on.
+
+},
+	Author = {Begley, Richard},
+	Date-Added = {2009-09-13 12:15:23 -0400},
+	Date-Modified = {2009-10-03 08:15:02 -0400},
+	Howpublished = {{Statement by Magdy El-Sibaie during a {FRA} Office of Research and Development program review meeting}},
+	Keywords = {GPS track occupancy},
+	Month = {October 24,},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{Discussion of Research Topics}},
+	Year = {2007}}
+
+@conference{2000Anderson.R;Maas.D;Mack.BCSX-T,
+	Abstract = {Railroads have made a considerable investment in information technology. Recent
+technological advances have increased the value of this information by simplifying its
+storage, modification, access and distribution. With this new technology people throughout
+the company have controlled and timely access to information that influences the reliability
+and economy of their railroad.
+This paper describes the process being used by CSX to consolidate data from legacy
+systems into a new database using current technology. It also describes how the transition
+provided the opportunity to create a unified information repository for the many
+departments that make up CSX. In addition, CSX required that the existing system remain
+operational during the project.
+This project has been divided into a number of steps in order to minimize the impact of
+the new system. The first step was to move a data snapshot from the legacy track chart
+system to electronic track chart and information system. The next step allows the current
+CSX data systems to provide continuous data updates to this new system. This track chart system and the accompanying relational database become the informational skeleton for
+tying together additional organization information.},
+	Address = {Dallas, TX},
+	Author = {Anderson, Roy and Maas, David and Mack, Brian and Selig, Ted},
+	Date-Added = {2009-09-13 12:09:09 -0400},
+	Date-Modified = {2009-09-24 20:48:41 -0400},
+	Keywords = {track chart},
+	Month = {September 10-13,},
+	Pages = {16},
+	Publisher = {American Railway Engineering and Maintenance-of-Way Association},
+	Rating = {2},
+	Read = {Yes},
+	Title = {{{CSX} Track Chart and Engineering Information System}},
+	Year = {2000},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAlAAAAAAAlAAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoWQx9DU1ggVHJhY2sgQ2hhcnQgYW5kICMxQTE2N0IucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhZ7xFBrIVBERiBDQVJPAAIABgAACSAAAAAAAAAAAAAAAAAAAAAIUmFpbHJvYWQAEAAIAADGs59jAAAAEQAIAADEUKNhAAAAAQAcABoWQwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAHxCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpSYWlscm9hZDpDU1ggVHJhY2sgQ2hhcnQgYW5kICMxQTE2N0IucGRmAA4ATgAmAEMAUwBYACAAVAByAGEAYwBrACAAQwBoAGEAcgB0ACAAYQBuAGQAIABFAG4AZwBpAG4AZQBlAHIAaQBuAGcAIABJAFMALgBwAGQAZgAPABAABwBCAGkAZwBNAGEAYwAyABIAe1VzZXJzL3BldGVEL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9SYWlscm9hZC9DU1ggVHJhY2sgQ2hhcnQgYW5kIEVuZ2luZWVyaW5nIElTLnBkZgAAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QdS4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9SYWlscm9hZC9DU1ggVHJhY2sgQ2hhcnQgYW5kIEVuZ2luZWVyaW5nIElTLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAL0AvYC+wMEAw8DEwMhAygDMQOpA64DsQO+A8MAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAD1Q==}}
+
+@inproceedings{2006AllenAssetMap,
+	Abstract = {As the areas of Positive Train Control, Intelligent Braking Applications and the need for
+accurate railroad GIS databases continues to grow, so will the need to provide accurate
+track positioning information. The Federal Railroad Administration Office of Research
+and Development has sponsored an initiative to develop the approach for a rail borne
+track-mapping system to help meet the current and future needs of such positioning
+systems. The goal of this approach is to offer a cost saving alternative to remote
+sensing surveys from an aerial platform -- specifically to reduce the costs associated
+with data collection. Various technologies and approaches were evaluated and tested
+under FRA sponsorship. The decision was made to utilize a vehicle mounted, inertial
+aided Video/GPS data collection system augmented by publicly available GPS
+correction services. In August 2005, the selected technologies and approach were
+tested in a collaborative effort between Norfolk Southern (NS), Federal Railroad
+Administration (FRA), South Carolina Geodetic Survey (SCGS), Lockheed Martin
+(LMCO), New York Air Brake (NYAB), Geo-3D and ENSCO to assess the accuracy and
+logistics of the technology. The paper will address the results of this test.},
+	Author = {Allen, Leonard and Mason, J. Brent and Stevens, Jeff},
+	Booktitle = {Proceedings of the AREMA 2006 Annual Conferences},
+	Date-Added = {2009-09-13 11:52:59 -0400},
+	Date-Modified = {2009-12-10 11:36:32 -0500},
+	Keywords = {rail asset map},
+	Month = {June},
+	Publisher = {American Railway Engineering and Maintenance-of-Way Association},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{Rail Borne Track Asset Mapping}},
+	Year = {2006},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAhoAAAAAAhoAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoWQxdUcmFja19Bc3NldF9NYXBwaW5nLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhjKwxBXdwAAAAAAAAAAAAIABgAACSAAAAAAAAAAAAAAAAAAAAAIUmFpbHJvYWQAEAAIAADGs59jAAAAEQAIAADDEI+3AAAAAQAcABoWQwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAHRCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpSYWlscm9hZDpUcmFja19Bc3NldF9NYXBwaW5nLnBkZgAOADAAFwBUAHIAYQBjAGsAXwBBAHMAcwBlAHQAXwBNAGEAcABwAGkAbgBnAC4AcABkAGYADwAQAAcAQgBpAGcATQBhAGMAMgASAGxVc2Vycy9wZXRlRC9Eb2N1bWVudHMvRW5naW5lZXJpbmcvVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcvUmVzZWFyY2ggTm90ZXMvUmFpbHJvYWQvVHJhY2tfQXNzZXRfTWFwcGluZy5wZGYAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QZi4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9SYWlscm9hZC9UcmFja19Bc3NldF9NYXBwaW5nLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAK+AsACxQLOAtkC3QLrAvIC+wNkA2kDbAN5A34AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADkA==}}
+
+@article{2002HumpTrains,
+	Author = {{TRAINS}},
+	Date-Added = {2009-09-13 11:45:27 -0400},
+	Date-Modified = {2009-12-11 12:26:37 -0500},
+	Journal = {{TRAINS Magazine}},
+	Keywords = {hump yard},
+	Month = {June and July},
+	Rating = {3},
+	Read = {Yes},
+	Title = {{North America's Hump Yards}},
+	Url = {http://www.trains.com/trn/default.aspx?c=a&id=537},
+	Year = {2002},
+	Bdsk-Url-1 = {http://www.trains.com/trn/default.aspx?c=a&id=537}}
+
+@techreport{1995FRADiffe,
+	Abstract = {The Global Positioning System (GPS) data available to civilian users is not
+sufficiently accurate to meet the safety-related needs of transportation users.
+The United States Coast Guard is deploying a differential correction service for
+GPS to enable precision navigation in harbors and inland waterways.
+Railroads are exploring use of this differential GPS service as a location
+determination system in emerging communication-based train control systems.
+FRA strongly supports development and implementation of communicationbased
+positive train control systems. Such systems have the potential to
+significantly enhance railroad safety and to provide many additional benefits,
+including full exploitation of potential line capacity by freight and passenger
+railroads. Such systems can also lower the cost of train control for new highspeed
+rail service.
+
+The two primary train location systems that have been actively considered for
+use in communication-based train control systems are based on differential
+GPS and transponders. North American railroads are exploring use of both of
+these location determination systems. At the present time, differential GPS
+appears to have the advantage of lower initial cost (e.g., all necessary
+hardware can be placed on the locomotive) and less maintenance (e.g.,
+transponders can be damaged by vandalism or routine track work). The
+Burlington Northern Railroad and the Union Pacific Railroad have joined
+together to develop a Positive Train Separation (PTS) Pilot Project on their lines
+in the States of Washington and Oregon that will employ differential GPS as the
+primary location determination system.},
+	Annote = {3.0 Competing Technologies for Determining Train Location
+Presently, there are a limited number of options for selection of a primary LDS. Although information from existing signal systems may be helpful for confirming train location, signal systems are not in place on track constituting about half of the road miles operated. Further, block occupancy derived from a signal system will not provide precise location within a block, speed, or direction of movement. In addition, many existing systems, or portions of them, are automatic, i.e., operate in the field without central direction or communication--so information from them is not now available at any central location.
+Two primary train location systems are currently under development for railroad use: transponders and augmented GPS.
+
+},
+	Author = {{FRA}},
+	Date-Added = {2009-09-11 09:42:32 -0400},
+	Date-Modified = {2010-03-29 09:43:09 -0400},
+	Howpublished = {Report to the Committees on Appropriations},
+	Institution = {{Federal Railroad Administration}},
+	Keywords = {PTC DGPS},
+	Rating = {4},
+	Read = {Yes},
+	Title = {{Differential {GPS}: An Aid to Positive Train Control}},
+	Url = {www.navcen.uscg.gov/dgps/dgeninfo/traincontrol/dgps4a.pdf},
+	Year = {1995},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAggAAAAAAggAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoWQxJQVEMgYW5kIGRncHM0YS5wZGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhhnxcTT/1BERiBDQVJPAAIABgAACSAAAAAAAAAAAAAAAAAAAAAIUmFpbHJvYWQAEAAIAADGs59jAAAAEQAIAADFxRpPAAAAAQAcABoWQwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAG9CaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpSYWlscm9hZDpQVEMgYW5kIGRncHM0YS5wZGYAAA4AJgASAFAAVABDACAAYQBuAGQAIABkAGcAcABzADQAYQAuAHAAZABmAA8AEAAHAEIAaQBnAE0AYQBjADIAEgBnVXNlcnMvcGV0ZUQvRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL1JhaWxyb2FkL1BUQyBhbmQgZGdwczRhLnBkZgAAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QYS4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9SYWlscm9hZC9QVEMgYW5kIGRncHM0YS5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACrAKuArMCvALHAssC2QLgAukDTQNSA1UDYgNnAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA3k=},
+	Bdsk-Url-1 = {www.navcen.uscg.gov/dgps/dgeninfo/traincontrol/dgps4a.pdf}}
+
+@manual{2007FRATrack,
+	Address = {Washington, D.C.},
+	Author = {{FRA}},
+	Booktitle = {{Track Safety Standards Compliance Manual}},
+	Chapter = {{5: Track Safety Standards Classes 1 through 5}},
+	Date-Added = {2009-09-10 12:41:19 -0400},
+	Date-Modified = {2010-04-04 21:06:05 -0400},
+	Keywords = {track alinement},
+	Month = {April},
+	Organization = {{Federal Railroad Administration, Office of Safety Assurance and Compliance Track and Structures Division}},
+	Pages = {26-30},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{Track Safety Standards Compliance Manual}},
+	Url = {{http://www.fra.dot.gov/downloads/safety/track_compliance_manual/TCM 20TOC.PDF}},
+	Year = {2007},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RArYAAAAAArYAAgAAB0JpZ01hYzIAAAAAAAAAAAAAAAAAAAAAAAAAAMazZyNIKwAAABoWQx9GUkEgQ2hhcHRlciA1IC0gQ29tcCMxQTE4MjYucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhgmxiX9igAAAAAAAAAAAAIABgAACSAAAAAAAAAAAAAAAAAAAAAIUmFpbHJvYWQAEAAIAADGs59jAAAAEQAIAADGJjXKAAAAAQAcABoWQwAaFNkAGgFSABnQnwAI8ZYACPGNAAB5hwACAHxCaWdNYWMyOlVzZXJzOnBldGVEOkRvY3VtZW50czpFbmdpbmVlcmluZzpUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZzpSZXNlYXJjaCBOb3RlczpSYWlscm9hZDpGUkEgQ2hhcHRlciA1IC0gQ29tcCMxQTE4MjYucGRmAA4AkgBIAEYAUgBBACAAQwBoAGEAcAB0AGUAcgAgADUAIAAtACAAQwBvAG0AcABsAGkAYQBuAGMAZQAgAE0AYQBuAHUAYQBsACAAVAByAGEAYwBrACAAUwBhAGYAZQB0AHkAIABTAHQAYQBuAGQAYQByAGQAcwAgAC0AIABDAGwAYQBzAHMAIAAxAC0ANQAuAHAAZABmAA8AEAAHAEIAaQBnAE0AYQBjADIAEgCdVXNlcnMvcGV0ZUQvRG9jdW1lbnRzL0VuZ2luZWVyaW5nL1RyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nL1Jlc2VhcmNoIE5vdGVzL1JhaWxyb2FkL0ZSQSBDaGFwdGVyIDUgLSBDb21wbGlhbmNlIE1hbnVhbCBUcmFjayBTYWZldHkgU3RhbmRhcmRzIC0gQ2xhc3MgMS01LnBkZgAAEwABLwAAFQACAAz//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8Qly4uLy4uL0RvY3VtZW50cy9FbmdpbmVlcmluZy9UcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZy9SZXNlYXJjaCBOb3Rlcy9SYWlscm9hZC9GUkEgQ2hhcHRlciA1IC0gQ29tcGxpYW5jZSBNYW51YWwgVHJhY2sgU2FmZXR5IFN0YW5kYXJkcyAtIENsYXNzIDEtNS5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKADWgNcA2EDagN1A3kDhwOOA5cEMQQ2BDkERgRLAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAABF0=},
+	Bdsk-Url-1 = {www.fra.dot.gov/.../Safety/track_compliance_manual/TCM%20TOC.PDF},
+	Bdsk-Url-2 = {%7Bhttp://www.fra.dot.gov/downloads/safety/track_compliance_manual/TCM%20TOC.PDF%7D}}
+
+@comment{BibDesk Static Groups{
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>group name</key>
+		<string>FRA</string>
+		<key>keys</key>
+		<string>2006AllenAssetMap</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Group</string>
+		<key>keys</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>StGovCORS</string>
+		<key>keys</key>
+		<string>ODOTvrs,MDOTvrs,KYCORS,NCvrs</string>
+	</dict>
+</array>
+</plist>
+}}

@@ -1,0 +1,94 @@
+
+Hypothesis Test Terminology
+
+
+All hypothesis tests share the same basic terminology and structure.
+
+A null hypothesis is an assertion about a population that you would like
+to test. It is "null" in the sense that it often represents a status quo
+belief, such as the absence of a characteristic or the lack of an
+effect. It may be formalized by asserting that a population parameter,
+or a combination of population parameters, has a certain value. In the
+example given in the Introduction, the null hypothesis would be that the
+average price of gas across the state was $1.15. This is written H0: µ =
+1.15.
+
+An alternative hypothesis is a contrasting assertion about the
+population that can be tested against the null hypothesis. In the
+example given in the Introduction, possible alternative hypotheses are:
+
+H1: µ ≠ 1.15 — State average was different from $1.15 (two-tailed test)
+
+H1: µ > 1.15 — State average was greater than $1.15 (right-tail test)
+
+H1: µ< 1.15 — State average was less than $1.15 (left-tail test)
+
+To conduct a hypothesis test, a random sample from the population is
+collected and a relevant test statistic is computed to summarize the
+sample. This statistic varies with the type of test, but its
+distribution under the null hypothesis must be known (or assumed).
+
+The p-value of a test is the probability, under the null hypothesis, of
+obtaining a value of the test statistic as extreme or more extreme than
+the value computed from the sample.
+
+The significance level of a test is a threshold of probability α agreed
+to before the test is conducted. A typical value of α is 0.05. If the
+p-value of a test is less than α, the test rejects the null hypothesis.
+If the p-value is greater than α, there is insufficient evidence to
+reject the null hypothesis. Note that lack of evidence for rejecting the
+null hypothesis is not evidence for accepting the null hypothesis. Also
+note that substantive "significance" of an alternative cannot be
+inferred from the statistical significance of a test.
+
+The significance level α can be interpreted as the probability of
+rejecting the null hypothesis when it is actually true—a type I error.
+The distribution of the test statistic under the null hypothesis
+determines the probability α of a type I error. Even if the null
+hypothesis is not rejected, it may still be false—a type II error. The
+distribution of the test statistic under the alternative hypothesis
+determines the probability β of a type II error. Type II errors are
+often due to small sample sizes. The power of a test, 1 – β, is the
+probability of correctly rejecting a false null hypothesis.
+
+Results of hypothesis tests are often communicated with a confidence
+interval. A confidence interval is an estimated range of values with a
+specified probability of containing the true population value of a
+parameter. Upper and lower bounds for confidence intervals are computed
+from the sample estimate of the parameter and the known (or assumed)
+sampling distribution of the estimator. A typical assumption is that
+estimates will be normally distributed with repeated sampling (as
+dictated by the Central Limit Theorem). Wider confidence intervals
+correspond to poor estimates (smaller samples); narrow intervals
+correspond to better estimates (larger samples). If the null hypothesis
+asserts the value of a population parameter, the test rejects the null
+hypothesis when the hypothesized value lies outside the computed
+confidence interval for the parameter.
+
+
+Hypothesis Test Assumptions
+
+
+Different hypothesis tests make different assumptions about the
+distribution of the random variable being sampled in the data. These
+assumptions must be considered when choosing a test and when
+interpreting the results.
+
+For example, the z-test (ztest) and the t-test (ttest) both assume that
+the data are independently sampled from a normal distribution.
+Statistics Toolbox functions are available for testing this assumption,
+such as chi2gof, jbtest, lillietest, and normplot.
+
+Both the z-test and the t-test are relatively robust with respect to
+departures from this assumption, so long as the sample size n is large
+enough. Both tests compute a sample mean , which, by the Central Limit
+Theorem, has an approximately normal sampling distribution with mean
+equal to the population mean μ, regardless of the population
+distribution being sampled.
+
+The difference between the z-test and the t-test is in the assumption of
+the standard deviation σ of the underlying normal distribution. A z-test
+assumes that σ is known; a t-test does not. As a result, a t-test must
+compute an estimate s of the standard deviation from the sample.
+
+Test statistics for the z-test and the t-test are, respectively

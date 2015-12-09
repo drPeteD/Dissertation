@@ -1,0 +1,67 @@
+Discussion points
+
+Vertical precision vs vertical accuracy: I believe I should use the word relative before precision. Accuracy would assume a known reference value for track elevations. The relative precision is a value determined by the receiver, precisions are relative with respect to satellite geometry and distance measurement accuracy.
+Unable to produce a known track value - the previous survey was 7 years old, and rail company would not permit extended intrusions in a working yard.
+
+WGS84 is derived from GRS80, slightly different semi-major axis and flattening values. WGS84 uses GRS80 parameters plus satellite radar altimetry and the combined solution uses an improved least squares solution combining all sources.
+
+Color mapped elevation vs topo map. A topo map is constructed from a triangulated irregular network between points. The elevations interpolated in a TIN between tracks are meaningless, while the interpolation process changes the important feature, the centerline top-of-rail elevation.
+The presentation is similar, perhaps a different phrase? More explanation?
+
+The relative vertical precision of a point can be mapped in the same way as the elevation.
+
+
+Cycle Slip
+
+A discontinuity of an integer number of cycles in the measured
+(integrated) carrier phase resulting from a temporary loss-of-lock in
+the carrier tracking loop of a GPS receiver. This corrupts the carrier
+phase measurement, causing the unknown Ambiguity value to be different
+after the cycle slip compared with its value before the slip. It must be
+"repaired" (the unknown number of "missing" cycles determined and the
+carrier observation subsequent to the cycle slip all corrected by this
+amount) before the phase data is processed in double-differenced
+observables for GPS Surveying techniques.
+
+Double-Difference
+
+A data processing procedure by which the pseudo-range or carrier phase
+measurements made simultaneously by two GPS receivers are combined so
+that, for any measurement epoch, the observations from one receiver to
+two satellites are subtracted from each other (in a so-called
+"between-satellite single-difference") to remove that receiver's clock
+error (or bias). (Similarly for the other receiver's observations to the
+same two satellites.) Then the two single-differences are subtracted so
+as to eliminate the satellite clock errors as well as to reduce
+significantly the effect of unmodelled atmospheric biases and orbit
+errors. (The order may be reversed, i.e., take "between-receiver
+single-differences" to each satellite in turn, and then difference
+between the single-differences.) The resulting set of Double-Differenced
+observables (for all independent combinations of
+two-satellite-two-receiver combinations) can be processed to solve for
+the baseline (linking the two receivers) components and, in the case of
+ambiguous carrier phase measurements, the integer ambiguity parameters.
+All high precision positioning techniques use some form of
+Double-Difference processing: pseudo-range, unambiguous carrier phase
+within a "bias-fixed" solution (i.e., after the double-differenced
+ambiguity values have been estimated and applied to the original carrier
+measurements), or ambiguous carrier phase data within a "bias-free"
+solution.
+
+Real Time Kinematic (RTK)
+
+The Relative Positioning procedure whereby carrier phase measurements
+(or corrections) are transmitted in real-time from a Reference or Base
+Station to the user's roving receiver. Centimetre accuracy is achieved
+without the need to record and post-process double-differenced carrier
+phase observables.
+
+aposteriori - subsequent to
+
+correlated - said of two or more observations (or derived quantities) which have at least one common source of error.
+covariance - A measure of the correlation of errors between two observations or derived quantities. Also referes to an off-diagonal term (that is, not a variance) in a variance-covariance matrix.
+covariance matrix - A matrix that defines the variance and covariance of a matrix. The elements of the diagonal are the variance and all elements on either side of the diagonal are the covariance.
+covariant values - As used by the Trimble Geomatics software, this is the publication of the propagated (computed) errors in azimuth, distance, and height between pairs of control points resulting from a network adjustment. The term covariant indicates that this computation involves the use of covariant terms the variance-covariance matrix of adjusted control points.
+relative errors - Errors and precisions expressed for and between pairs of network adjusted control points.
+
+variance - the square of the standard error.

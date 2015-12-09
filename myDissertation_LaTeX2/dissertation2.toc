@@ -1,0 +1,47 @@
+\select@language {USenglish}
+\contentsline {chapter}{Contents}{v}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{Railway Measurement Problems}{2}{section*.2}
+\contentsline {section}{Research Questions}{3}{section*.3}
+\contentsline {section}{Operational Definitions}{5}{section*.4}
+\contentsline {section}{Research Questions}{6}{section*.5}
+\contentsline {chapter}{\chapternumberline {2}Literature Review}{7}{chapter.2}
+\contentsline {section}{Manifest Freight and Hump Yard Efficiency}{7}{section*.6}
+\contentsline {section}{Absolute Track Location Measurement Systems}{9}{section*.7}
+\contentsline {section}{Mainline Track Horizontal Alinement}{12}{section*.8}
+\contentsline {section}{Track Occupancy}{12}{section*.9}
+\contentsline {subsection}{Space-Based Augmentation Systems}{14}{section*.10}
+\contentsline {subsection}{Ground-Based Augmentation Systems}{14}{section*.11}
+\contentsline {section}{Measurement Technology Selection}{15}{section*.12}
+\contentsline {section}{Real Time Kinematic Technology}{17}{section*.13}
+\contentsline {section}{Literature Review Summary}{18}{section*.14}
+\contentsline {chapter}{\chapternumberline {3}Methodology}{19}{chapter.3}
+\contentsline {section}{Research Design and Data Collection}{20}{section*.15}
+\contentsline {subsection}{Experiment One: Hump Yard Profile Survey}{22}{section*.16}
+\contentsline {subsubsection}{Antenna Alignment Procedure}{24}{section*.17}
+\contentsline {subsection}{Experiment Two: Determining Horizontal Track Alinement}{28}{section*.18}
+\contentsline {subsection}{Experiment Three: Determining Track Occupancy}{33}{section*.19}
+\contentsline {section}{Instrumentation}{36}{section*.20}
+\contentsline {section}{Data Validity and Integrity}{38}{section*.21}
+\contentsline {section}{Summary}{39}{section*.22}
+\contentsline {chapter}{\chapternumberline {4}Results}{40}{chapter.4}
+\contentsline {section}{Hump Yard Profile Results}{41}{section*.23}
+\contentsline {section}{Horizontal Track Alinement Results}{44}{section*.24}
+\contentsline {section}{Track Occupancy Results}{52}{section*.25}
+\contentsline {section}{Summary}{53}{section*.26}
+\contentsline {chapter}{\chapternumberline {5}Conclusions}{55}{chapter.5}
+\contentsline {section}{Purpose}{55}{section*.27}
+\contentsline {section}{Procedures}{55}{section*.28}
+\contentsline {section}{Major Findings}{57}{section*.29}
+\contentsline {section}{Conclusions and Discussion}{59}{section*.30}
+\contentsline {section}{Recommendations}{61}{section*.31}
+\contentsline {section}{Implications}{63}{section*.32}
+\contentsline {chapter}{Appendix A}{65}{chapter*.33}
+\contentsline {section}{NGS OPUS Output}{66}{section*.34}
+\contentsline {section}{NGS Data Sheet EB1559}{68}{section*.35}
+\contentsline {section}{Hump Yard Profiles}{73}{section*.36}
+\contentsline {section}{Ad Hoc Reference Station TEQC Report}{83}{section*.37}
+\contentsline {chapter}{Appendix B}{89}{chapter*.38}
+\contentsline {section}{String Line Model Output}{90}{section*.39}
+\contentsline {section}{String Line Model Functions}{108}{section*.40}
+\contentsline {chapter}{Bibliography}{109}{section*.42}

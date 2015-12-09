@@ -1,0 +1,28 @@
+RTK Rail Research
+	Literature Review
+	Hump yard video
+	Reference Infrustructure
+		Interview Networked CORS Experts
+		Install and add CORS to VRS
+	Experiment 1
+		Interview Humpyard Expert
+		Hump yard survey
+		Observation  adjustment
+		Profile Drawings
+		GIS Mapping
+		Vertical analysis
+	Statistical analysis
+	Experiment 2
+		Interview Track Maintenance Expert
+		Interview Track Inspection Expert
+		Mainline Survey 1
+		Mainline Survey 2
+		Mainline Survey 3
+		Develop String Lining algorithm
+		Process data with SL model
+		Statistical Analysis
+	Experiment 3
+		Develop algorithms
+		Apply model to data
+		Statistical analysis
+	Conclusions

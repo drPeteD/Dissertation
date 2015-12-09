@@ -1,0 +1,129 @@
+%% \CharacterTable
+%%   {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%%   Digits        \0\1\2\3\4\5\6\7\8\9
+%%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%%   Dollar        \$     Percent       \%     Ampersand     \&
+%%   Acute accent  \'     Left paren    \(     Right paren   \)
+%%   Asterisk      \*     Plus          \+     Comma         \,
+%%   Minus         \-     Point         \.     Solidus       \/
+%%   Colon         \:     Semicolon     \;     Less than     \<
+%%   Equals        \=     Greater than  \>     Question mark \?
+%%   Commercial at \@     Left bracket  \[     Backslash     \\
+%%   Right bracket \]     Circumflex    \^     Underscore    \_
+%%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%%   Right brace   \}     Tilde         \~}
+\documentclass[12pt,letterpaper]{article}
+%\usepackage[english,german]{babel}
+\usepackage[openbib]{currvita}
+%\@cvplace{/Users/peteD/Documents/Personal/currvita}
+\newcommand*{\ac}[1]{\mbox{#1}}
+\tolerance=600
+%\include{/Users/peteD/Documents/Personal/currvita/myBibliography}
+\begin{document}
+% set the bibliography styles
+\bibstyle{alpha}
+\begin{cv}{Curriculum Vitae of Peter J. Dailey}
+\begin{cvlist}{Personal Information}
+	\item Peter Joseph Dailey\\
+	    140 Sunset Drive\\
+	    Charleston, West Virginia  25301\\United States of America
+	\item Office:~(304)~696-6082   Mobile:~(304)~421-1472\\
+	    eMail:~pdailey@njrati.org
+	 \item Born:~Peoria, Illinois, United States of America\\
+\end{cvlist}
+
+%Work Experience
+ \begin{cvlist}{Work Experience}
+	\item[present~--~05/2003] Rahall Appalachian Transportation Institute\\ Research Associate, Huntington, West Virginia\\
+	Management responsibilities for the Railroad Safety and Operations Center of Excellence (RailSORCE). Research project management responsibilities involve review of literature, equipment selection, design of experiments, directing field work, data collection, and analysis using a variety of engineering and geographic information system software. 
+	\item[2006~--~2008] Orange Cone Software LLC\\
+	Managing Member, Charleston, West Virginia\\	
+	Established a transportation engineering software business focused on automated driver skill testing. Developed and a system to manage third-party commercial driver skills testing, including test monitoring and reporting. Developed a motorcycle skills test for a target hand held device that increasing the efficiency of the examination process. 
+	\item[2007~--~2004] Marshall University\\Adjunct Professor, Huntington, West Virginia\\
+	Instructed graduate level classes in Technology Management: \emph{Innovation and Technology Management}, \emph{Technology Planning}; developed course outline and instructed \emph{Computer Aided Manufacturing} combing elements of machining and assembly, chemical engineering, reverse engineering, and CAD; undergraduate engineering \emph{Introduction to Geomatics}. Developed web content on electronic educational support systems \emph{Blackboard}, \emph{Vista}, and \emph{WebCT} for all courses.
+	\item [2003~--~2000] Torpedo Solutions LLC\\ Charleston, West Virginia, Managing Member\\
+	Established an information technology service focused on design, implementation, and administration of thin-client computer networks.
+	\item [2000] McJunkin Process Automation and Control\\Technical Specialist, Charleston, West Virginia.\\
+	Technical support for Valtek final control elements.
+	\item[2000~--~1997] Equipment \& Controls, Inc., Pittsburgh, Pennsylvania\\ Account Manager, Charleston, West Virginia\\
+	Engineered product offerings included Control Systems, Engineering Services, and final control elements.
+	\item[1997~--~1995] A. Blair Powell Company, Inc., Pittsburgh, Pennsylvania\\Sales Engineer, Charleston, West Virginia\\
+	Engineered product offerings included final control elements, and pressure relief devices. Equipment specifications to ensure compliance with Federal and State safety and environmental laws, particularly in the management of hazardous materials.
+	\item[1987~--~1985] G\&W Industrial Sales\\Sales Engineer, South Charleston, West Virginia\\
+	Engineered product offerings included waste treatment systems, fluids and solids mixers, pressure relief devices, and heat transfer equipment.
+	\item[1985~--~1981] Atlas Powder Company\\Technical Representative, Tamaqua, Pennsylvania; Evansville, Indiana; Gillette, Wyoming\\
+	Developed computational applications and high speed photography analytic techniques for engineering research into the use of explosives and provided technical, safety, and sales support to product distributors.
+\end{cvlist}
+
+% Education
+\begin{cvlist}{Education}
+	\item[present] West Virginia University, Civil Engineering Ph.D. candidate with a concentration in Transportation Engineering. Transportation focus in railroads with law school coursework in patent claims writing.
+	\item[2003] Marshall University, Master of Science in Technology Management, Environmental Science emphasis.\\ 2003 University Transportation Center student of the year award.
+	\item[1981] West Virginia University, Bachelor of Science in Engineering of Mines with an emphasis in	Surface Mining.
+\end{cvlist}
+
+% Professional Education
+\begin{cvlist}{Professional Education}
+	\item[2007] Motor Carrier Safety, Transportation Research Board, Washington, D.C.
+	Research Topics for the Rail Industry, Transportation Research Board, Washington, D.C. 2005
+	\item[2004] Intellectual Property Law Seminar, Dinsmore \& Shohl Law Firm
+	\item[2004] American Society of Civil Engineers (ASCE) Los Angeles California
+	\item[2003] American Railway Engineering and Maintenance of Way Association (AREMA), Chicago Illinois
+	\item[2003] Symposium on the Application of Geophysics to Engineering and Environmental Problems, San Antonio Texas
+	\item[1/2006,03,02,01] Transportation Research Board national meeting
+	\item[2002] United States Army Corps of Engineers Geophysical Logging Seminar
+	\item[2002] West Virginia Department of Emergency Services Weapons of Mass Destruction Workshop, Charleston West Virginia
+	\item[2002] West Virginia Coal Association Water Workshop
+\end{cvlist}
+% Licenses and Certifications
+\begin{cvlist}{Licenses and Certifications}
+	\item[1997] FCC Extra Class amateur radio license, call sign $KN0BY$.
+	\item[1983]1983 Wyoming blasters permit (expired).
+	\item[1984] West Virginia shot firers certificate (expired).
+	\item[1989] Professional Association of Diving Instructors Dive Master certification.
+	\item[1982,83] FAA private pilot license, single engine land and glider ratings.
+\end{cvlist}
+\begin{cvlist}{Expert Witness}
+	\item[2007] Plaintiff’s expert for examination by physical inspection and mechanical disassembly of an electro-mechanical device.
+\end{cvlist}
+% Book Reviews
+\begin{cvlist}{Book Reviews}
+	\item[2004] \emph{Strategic Management of Technological Innovation}, Schilling, M., 2005, McGraw-Hill. Contracted by McGraw-Hill for review of first edition.
+\end{cvlist}
+% Masters Degree Committee Memeber
+\begin{cvlist}{Masters Degree Committee Member}
+	\item[2005] Juan Bueno, MS Information Technology, Marshall University
+	\item[2006] Luke Bess, MS Technology Management, Marshall University
+\end{cvlist}
+% Invited Presentations
+\begin{cvlist}{Invited Presentations}
+	\item[01/2009] \emph{Automatic Classification Yard Surveying with RTK GPS During Revenue Operations}, Society of American Military Engineers, Huntington West Virginia 
+	\item[06/2009] \emph{From Paper Cuts to Payoffs: West Virginia’s Approach to CDL Skills Testing}, American Association of Automobile Administrators (AAMVA) Region II Conference, Ponte Verde Florida
+	\item[10/2005] \emph{Benefits Of High Accuracy GPS Applications To The Minerals Industry}, Conference on Computer Use in the Minerals Industry, Banff Canada
+	\item[10/2005] \emph{Rapid Surveying of a Classification Yard}, the American Railway Engineering and Maintenance of Way Association (AREMA), Chicago Illinois
+	\item[07/2004] \emph{Using Geophysical Techniques to Study Rail in An Area of Ground Movement}, presented to Geo-Institute Conference on Geotechnical Engineering for Transportation Projects (ASCE), Los Angeles California
+	\item[10/2003] \emph{Application of High Accuracy Differential GPS}, co-presentation with Dr. Anthony Szwilski, National meeting the American Railway Engineering and Maintenance of Way Association (AREMA), Chicago Illinois
+	\item[04/2003] \emph{Application of Geophysical Methods to Evaluate Rail Track Subsurface}, presented to the Symposium on the Application of Geophysics to Engineering and Environmental Problems (SAGEEP), San Antonio Texas
+	\item[11/2003] \emph{High Accuracy Differential GPS} presented to the Parkersburg-Marietta chapter of the Instrumentation, Systems and Automation Society (ISA), Parkersburg West Virginia
+	\item[1998] \emph{Digital Instrumentation Communications: Highway Addressable Remote Transmitter (HART) Applications}, Pittsburgh Pennsylvania 
+	\item[1998] \emph{Valtek and Fisher: a Perspective}, presented at the Fisher Controls national sales meeting, Innisbrook Resort, Tarpon Springs, Florida
+\end{cvlist}
+% Publications
+\begin{cvlist}{Publications}
+\item[2005] Employing High Accuracy DGPS to Monitor Track Shift, Szwilski, A.B., Lees, H.M., Begley, R., Dailey, P., Sheng, Z.
+\item[6/2005] Employing HADGPS to Survey Track and Monitor Movement at Curves, Szwilski, A.B., Dailey, P., Sheng, Z., Begley, R.D., Railway Engineering: 8th  International Conference and Exhibition, London (June 2005). Conference award for Best Paper by a University Researcher.
+\item[10/2005] Benefits Of High Accuracy GPS Applications To The Minerals Industry, Proceedings: Conference on Computer Use in the Minerals Industry, Dailey, P., Szwilski, A., Begley, R., Banff Canada
+\item[10/2005] Rapid Surveying of a Classification Yard Employing High Accuracy DGPS (RTK), Szwilski, A.B., Kerchof, W.B., Tomlin, J., Dailey, P., Sheng, Z., the American Railway Engineering and Maintenance of Way Association (AREMA), conference proceedings, Chicago
+\item[10/2003] Determining Rail Movement Trajectories and Alignment Using HADGPS, A. Szwilski, R. Begley, P. Dailey, Z. Sheng the American Railway Engineering and Maintenance of Way Association (AREMA), conference proceedings
+\item[2003] \emph{Multi-sensor Mobile System to Monitor Track Superstructure and Substructure: Initial Studies with Non-Invasive Technologies}, A. Szwilski, R. Begley, J. Ball, P. Dailey, American Railway Engineering and Maintenance-of-Way Association (AREMA) Conference
+\item[2003] \emph{Application of Geophysical Methods to Evaluate Rail Track Subsurface}, Proceedings: Symposium on the Application of Geophysics to Engineering and Environmental Problems, R. Begley, A. Szwilski, J. Ball, P. Dailey
+\item[1985] Handbook of Electrical Blasting, Atlas Powder Company, Contributor/editor
+\item[1983] \emph{High-speed Photography in Blasting Safety and Design}, Chiappetta, R.F., Bauer, A., Dailey, P., Burchell, S., published by Mining Resource Engineering Limited
+\item[1983] \emph{The Use of High-Speed Motion Picture Photography in Blast Evaluation and Design}, Proceedings 9th Annual Conferences on Explosives \& Blasting Technique, Society of Explosive Engineers, Dallas, TX and published in World Mining Equipment magazine, Chiappetta, R.F., Bauer, A., Dailey, P., Burchell, S.
+\end{cvlist}
+% Ending
+\cvplace{Charleston, West Virginia, USA}
+\end{cv}
+\end{document}
+\endinput

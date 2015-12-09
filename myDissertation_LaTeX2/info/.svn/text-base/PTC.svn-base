@@ -1,0 +1,15 @@
+Positive Train Control
+
+Now that the FRA has released its final implementation rule on positive
+train control (PTC), the clock is ticking: these systems must be
+installed on the nation's major freight-rail lines, as well as commuter
+and intercity passenger-rail routes by the end of 2015. And with an
+estimated $5.5 billion price tag to install the technology on 160,000
+track miles and on board 30,000 rail vehicles
+
+altsom - vital train control solutions
+
+
+Matlab command for regression statistics
+input: y value, [x value, array of ones: numEl], alpha 
+[b,bint,r,rint,stats] = regress(B.Northing,[B.Easting ones(numel(B.Easting),1)],0.00001)

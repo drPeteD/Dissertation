@@ -1,0 +1,106 @@
+% !TEX root = dissertation2.tex
+\chapter{Introduction}
+The shipment of freight by rail is an exceptionally fuel efficient transportation mode. The average freight train consumes one gallon of diesel fuel to move one ton 423 miles~\citep{RITAtransStats08}. The outstanding efficiency of rail freight comes with a high price in inspection and maintenance of the railway. Rail car loading forces, weather, and time act on the railway and substructure to distort the track geometry. Distortions to the track geometry\footnote{i.e., gage, profile, alinement, crosslevel, superelevation, and warp.} must be identified and maintenance resources brought to bear to insure safe operation at the design track speed. 
+
+FRA\footnote{Federal Railroad Administration} mandated visual track inspections rely on a rail company inspector's training, skill, and diligence. Conversely, track geometry car inspections provide an objective, detailed record of relative track position but are performed infrequently due to the limited availability of these specialized measurement systems. The thesis of this research is that, given a sufficiently accurate and reliable augmentation system, railway infrastructure measurement can be performed quickly, with greater safety, and at less cost by determining absolute track position using global satellite positioning systems. Survey-grade track measurement using GNSS\footnote{Global Navigation Satellite Systems} instrumentation will remove ground-based surveyors from the hazards inherent to active rail yards; enable monitoring of rail position changes during routine visual inspections; and determine the track occupancy of a train in parallel multi-track segments in signalized or dark territory\footnote{No signal control}, independent of wired track circuits.
+
+The research results present an investigation into the use of Real Time Kinematic (RTK) augmentation to global satellite navigation systems in the measurement of absolute track position. Survey quality track positions enable the development and demonstration of solutions to rail measurement in an active hump yard and across 29 continuous miles of parallel mainline track.
+
+Space vehicles (SV) that comprise the GPS\footnote{Sponsored by the United States Department of Defense (USDOD)}, as well as other global navigation satellite systems: GLONASS\footnote{GLObal'naya NAvigatsionnaya Sputnikovaya Sistema  sponsored by the Russian Space Forces}; Galileo\footnote{Sponsored by the European Union}; and the future CNSS\footnote{Compass Navigation Satellite System proposed by the Peoples Republic of China}, are orbiting reference beacons enabling autonomous geo-spatial positioning and timing across the globe. The geo-spatial positioning accuracy of these systems can be improved by augmenting the identifiable distortions to SV signal transmissions through the ionosphere and troposphere with corrections from ground based facilities. 
+
+The use of GPS positioning for rail infrastructure measurement has depended on federal government supplied augmentation. The United Stated Department of Transportation (USDOT) has selected the National Differential GPS (NDGPS) augmentation system to increase accuracy in transportation applications. NDGPS has been promoted by the FRA as a means to achieve reliable track occupancy, however no NDGPS equipment demonstrating the requisite accuracy or reliability to insure track occupancy has been publicly disclosed~\citep{2006AllenAssetMap}. The FRA reported in 1995 that ``When [track occupancy is] viewed as a two dimensional area problem, it is unlikely that any economically feasible [GPS] system could achieve this accuracy to the required $0.9_5$\footnote{0.99999 or 99.999\%} probability~\citep[pp.6-7]{1995FRADiffe}.'' The economically feasible reference is interpreted here to mean the existence of commercial off-the-shelf (OTS) technology.
+
+% Problem Statement
+% Motivate the problem through time, money, safety
+% Benchmarks that motivate the study
+% Identify the weak link in the system
+% Research questions are previewed int the problem statement
+% By solving the problem we will answer these research questions
+
+\section{Railway Measurement Problems}
+Track course smoothness must be held within specific tolerances to avoid undesirable lateral accelerations that lead to additional railway distortions and derailment. A system for track surveying should be cost-effective, provide relative accuracy without interfering with train traffic, and minimize worker exposure to railway hazards. Historically, North American railways use relative measurement methods for track inspection. Track course measurement is based on the idea that track degree of curvature ($D_c$) irregularity can be determined by the versine\footnote{In rail transportation, versine refers to relationship between the distance ($v$) measured at right angles from the midpoint of a chord ($L$) to the arc, with the instantaneous  $D_c$ determined from $\displaystyle\lim_{L\to0} 8\frac{v}{L^2}$}~\citep{Nair}(see figure \ref{fig:Alinement}).
+
+The research applies augmented GNSS to measure track elevation in a hump yard for the purpose of track profile measurement; measuring track horizontal position in order to determine the $D_c$ of mainline track across a wide area; and determining track occupancy probability independently of wired track circuits. Three railway measurement problems were investigated during the research.
+\begin{enumerate}
+\firmlist
+	\item An automatic classification yard uses the force of gravity to propel cars through a complex system of tracks to the intended destination in the yard. Environmental factors\footnote{Wind speed, direction, and ambient temperature} act on the motion of a railcar from its release, through a transit of specific yard tracks, to a final rest position. Profile deviation from the design grade occurs over time from settlement as a result of railcar loading forces and the effects of weather~\citep{2005szwilski}. Conducting a differential level survey across a 60 track, thousand car per day yard, places workers in harms way, making yard production delays unavoidable in order to accommodate the safety of the survey party. The difficulty and expense in conducting a yard survey to quantify production delays attributable to grade irregularities can be prohibitive~\citep{2007barnes}. 
+	
+A hump yard profile survey was conducted by locomotive equipped with RTK GPS survey instruments. The survey was conducted during production, inclement weather resulting in the production of 58 track profiles.
+	
+	\item Track superintendents rely on an occasional traverse by a specialized track geometry car and routine visual inspections to identify track defects for directing maintenance resources. A method of recording track alinement during routine visual inspections by Hi-Rail and producing a record of track alinement provides insight into the identification of track shift or compliance irregularities attributable to car loading, weather, or geologic processes.
+	
+COTS surveying instruments and infrastructure were used during a track inspector's normal visual inspection by Hi-Rail to determine degree of curvature ${D_c}$. A instrument mounted to a Hi-Rail recording track position across a track inspectors 29 mile area of responsibility. A software modeling the string lining method~\citep{49CFR213D,2007FRATrack,2009bright}(hereafter referred to as \emph{the model}) determined ${D_c}$ and mile post reference locations. The RTK Hi-Rail $D_c$ were compared against rail company track charts to verify the model. The accuracy of the Hi-Rail method of determining $D_c$ was compared against measurements by a specialized track inspection vehicle.
+	
+	\item Locating a train in a parallel, multi-track segment by means of GNSS requires a priori knowledge of each track segment's location. The present US rail transportation system inventory of 95,000 mainline track miles makes monumenting the absolute location of each track centerline to a high degree of accuracy a formidable task. Most rail company's have chosen LiDAR overflights to monument the position of track and wayside assets.
+	
+	A track vehicle using wireless position measurement determined a reference track centerline location against which subsequent traverses by the track vehicle where compared. Subsequent track positions met the researcher's interpretation of the FRA positioning guidlines for a location determination system (LDS) as might be used for positive train control (PTC)~\citep[pp.3]{1995FRADiffe}.
+
+\end{enumerate}  
+
+% Objectives can provide a certain standard for measurement
+% Track inspection motivates the research
+
+\section{Research Questions}
+The researcher sought to wirelessly assess railway infrastructure and use wireless location to act as a reliable track vehicle locator. 
+
+The solution to many track measurement and rail vehicle location problems requires absolute track and vehicle position measurement over wide areas. The research integrated wireless track measurement within the operational and safety constraints of a Class I rail company for the purpose of developing a method to survey track location with common track vehicles. The rail transportation problems addressed by the research seek to decrease on-track worker hazard exposure, increase track inspection efficiency, and reduced the cost of track measurement. The research employed locomotives and HiRail vehicles equipped with COTS survey equipment to evaluate the relative vertical precision, horizontal accuracy, and position reliability of RTK augmentation. The research used a wireless measurement system to meet the ``...high integrity, and high reliability for safety-critical train control applications~\citep[pp.11]{2008USDoT_NDGPS}.''
+
+Objectives of the research developed procedures and supporting models for assessment of wireless track measurement integration within a Class I railroad environment.
+\begin{enumerate}
+\firmlist
+\item A literature review of previous rail survey experimental results as well as a search of intellectual property claims regarding train location were used to investigate factors that indicated the need for research into the wireless measurement of railway position. The review was used to determine a wireless method using COTS instruments with sufficient accuracy to meet the measurement goals.
+\item Experts in the field of hump yard engineering were interviewed, and a review of the literature was used to identify methods of increasing humpyard efficiency and throughput. Railcar motion was studied through a humpyard in an effort to identify operational problems that may be related to profile degradation.
+\item A method was developed and demonstrated to safely and precisely determine track grades across the bowl area of an automatic classification yard. The selected wireless method was used to produce individual profiles for each bowl track in the yard. The relative vertical precision of the mobile receiver and the signals recorded by a reference station in the yard were evaluated for evidence of signal distortions in the hump yard environment.
+\item Experts in the field of track inspection and wide area RTK augmentation delivery were interviewed to identify methods for measuring rail position over wide areas of mainline track.
+\item A method was developed and demonstrated for safely determining horizontal track alinement across a wide area.
+\item A model was developed to determine horizontal track alinement based on the string lining method using RTK GNSS observations. Factors affecting GNSS measurement over mainline track were analyzed.
+\item A methodology was developed to assess wireless measurement methods as part of a location determination system suitable for supporting positive train control. COTS RTK GNSS VRS infrastructure and instrumentation were evaluated in parallel multi-track mainline segments for the ability to meet FRA tolerances~\cite[4-5]{1995FRADiffe}.
+\end{enumerate}
+
+% Research Contribution
+%Significance
+Development and demonstration of wireless method of track position is significant to providing the rail industry with a practical and reliable standard for rail position measurement over a wide area. Several tools were developed enabling a solution to railway infrastructure measurement and monitoring problems that has not been demonstrated with US government provided GPS augmentation. Intelligent rail transportation initiatives will benefit from survey-quality positioning in the command, control, communications, and track information domains. Freight transportation will derive benefit from  improved power and braking systems which will result in improved energy efficiency and decreased emissions; improved systems for track defect detection and track movement prediction; improved efficiency in the deployment of maintenance assets; examination of track substructure through determination of the track modulus between lightly loaded (as with a HiRail) and loaded (as with a locomotive) track measurements; and safety improvements derived from Positive Train Control (PTC) systems with the potential to significantly reduce the probability of collisions between trains, casualties to roadway workers, damage to equipment, and reduction in the occurrence of overspeed accidents through the wireless differentiation of track vehicle location over parallel multi-track segments.
+
+Reliable wireless measurement of track position, when contrasted with the present use of dedicated track circuits\footnote{i.e., insulated track circuits, loop detectors, magnetic proximity switches, transponders}, provides and opportunity to use wireless measurement technology to enhance railway infrastructure management practices. Track vehicle location and control benefits from survey quality wireless measurement, coupled with the use of existing wayside radio infrastructure, has the potential to provide economic benefit by reducing a rail company's dependance on existing hard-wired infrastructure\footnote{Estimated replacement mainline cost of \$125,000 per mile $\times$ 95,000 miles = \$12 billion~\citep{ResorPTC}} and attendant labor costs.
+
+Other cited benefits of accurate train location may include:
+\begin{itemize}
+\firmlist
+	\item Higher quality service, through continuous tracking of car movements.
+	\item Reduced fuel consumption, through better pacing of trains (avoiding the need to take away momentum through braking and restore it through use of diesel power).
+	\item More efficient use of existing physical plant, increasing effective capacity while avoiding further outlays to build additional tracks or sidings.~\citep[pp.12-13]{1995FRADiffe}
+\end{itemize}
+
+% Operational Definitions
+\section{Operational Definitions}
+
+\begin{enumerate}
+\firmlist
+
+	\item Hump yard: This study specifically refers to the Hamlet Terminal, owned by CSX and located in Hamlet, North Carolina.
+
+	\item Mainline track: A track extending through yards and between stations which must not be occupied without authority or protection. This study refers to mainline track as C\&O Ohio Subdivision from mile post (MP) 211 to MP 207 (Guyendotte, West Virginia), and C\&O Kanawha Subdivision from MP494 to MP 523 (Barborsville, WV to Russell, KY).
+
+	\item Mapping-grade accuracy: An observed position within 3-16 feet (1-5 meters)  horizontally and 6-33 feet (2-10 meters) vertically of the true value with 95\% confidence.
+
+	\item Survey-grade accuracy: The combined measurement errors from instrumentation and the measurement process producing a position to within 0.1 feet or less of the true value in the horizontal and vertical plane with 95\% confidence.
+
+	\item Track occupancy: FRA LDS guideline for differentiating between parallel tracks with a 11.50 foot centerline-to-centerline track spacing using GPS. The FRA track spacing requirement is interpreted in this study as a point obtained from a mobile track vehicle no greater than $\pm\frac{11.50}{2}$ feet left(-) or right(+) of a track centerline with 99.999\% confidence~\cite[pp.6-7]{1995FRADiffe}.
+
+\end{enumerate}
+
+\section{Research Questions}
+The research conducted in this investigation was an analytical study
+supplemented by the acquisition of wireless track observations. The research focused on the integration of RTK augmented GNSS within the operational constraints of a Class I railroad. As a result of this research, a methodology for the assessment of railway infrastructure was developed.
+
+The problems solved by the determination of absolute track location to a high degree of accuracy in a hump yard and over mainline track answered these questions.
+
+1)\emph{Hump Yard Profile:}
+Can a locomotive use wireless position measurement to determine the vertical profile of bowl tracks in an automatic classification yard to an accuracy of tenth of a foot during production activities?
+
+2)\emph{Horizontal Track Alinement:}
+Can a common track vehicle use wireless position measurement to determine the horizontal degree of curvature ($D_c$) comparable with specialized track geometry vehicles?
+
+3)\emph{Track Occupancy:}
+Can a common track vehicle use wireless position measurement to meet the FRA~\citep[pp.6-7]{1995FRADiffe} accuracy and confidence guidelines for track occupancy as might be used in a location determination system?
+

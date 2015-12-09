@@ -1,0 +1,19 @@
+\thispagestyle{empty}
+\begin{center}
+\DoubleSpacing
+\Large
+A STUDY OF \\
+REAL TIME KINEMATIC\\
+\mbox{GLOBAL NAVIGATION SATELLITE SYSTEMS}\\
+IN RAILROAD TRANSPORTATION\\
+	 \vspace{80pt}
+% Author
+	\large{by\\\textsc{Peter Joseph Dailey}}\\ \vspace{40pt}
+	A Research Proposal Presented In Partial Fulfillment\\
+	Of The Requirements For The Degree\\
+	DOCTOR OF PHILOSOPHY\\
+	IN CIVIL ENGINEERING\\
+	 \vspace{80pt}
+% Bottom of the page
+	\large{WEST VIRGINIA UNIVERSITY\\\today}
+\end{center}

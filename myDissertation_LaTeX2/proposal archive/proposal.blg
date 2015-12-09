@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.7)
+The top-level auxiliary file: proposal.aux
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: signature.aux
+A level-1 auxiliary file: Chapter1.aux
+A level-1 auxiliary file: Chapter2.aux
+A level-1 auxiliary file: Chapter3.aux
+The style file: unsrtnat.bst
+Database file #1: Dissertation.bib
+Warning--entry type for "2008pmv" isn't style-file defined
+--line 30 of file Dissertation.bib
+Warning--entry type for "RITAtransStats08" isn't style-file defined
+--line 75 of file Dissertation.bib
+Warning--entry type for "49CFR213D" isn't style-file defined
+--line 151 of file Dissertation.bib
+Warning--entry type for "NCvrs" isn't style-file defined
+--line 246 of file Dissertation.bib
+Warning--entry type for "KYCORS" isn't style-file defined
+--line 259 of file Dissertation.bib
+Warning--entry type for "49CFR214500" isn't style-file defined
+--line 272 of file Dissertation.bib
+Warning--entry type for "49CFR214300" isn't style-file defined
+--line 284 of file Dissertation.bib
+Warning--entry type for "MDOTvrs" isn't style-file defined
+--line 309 of file Dissertation.bib
+Warning--entry type for "ODOTvrs" isn't style-file defined
+--line 322 of file Dissertation.bib
+Warning--entry type for "2005fugro" isn't style-file defined
+--line 378 of file Dissertation.bib
+You've used 33 entries,
+            2481 wiz_defined-function locations,
+            762 strings with 10500 characters,
+and the built_in function-call counts, 9263 in all, are:
+= -- 812
+> -- 332
+< -- 29
++ -- 163
+- -- 95
+* -- 536
+:= -- 1503
+add.period$ -- 113
+call.type$ -- 33
+change.case$ -- 68
+chr.to.int$ -- 31
+cite$ -- 34
+duplicate$ -- 521
+empty$ -- 954
+format.name$ -- 131
+if$ -- 1994
+int.to.chr$ -- 3
+int.to.str$ -- 34
+missing$ -- 10
+newline$ -- 183
+num.names$ -- 98
+pop$ -- 324
+preamble$ -- 1
+purify$ -- 33
+quote$ -- 0
+skip$ -- 321
+stack$ -- 0
+substring$ -- 82
+swap$ -- 90
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 225
+warning$ -- 0
+while$ -- 66
+width$ -- 0
+write$ -- 442
+(There were 10 warnings)

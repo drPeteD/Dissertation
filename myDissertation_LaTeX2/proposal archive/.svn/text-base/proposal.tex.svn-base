@@ -1,0 +1,71 @@
+\documentclass[letterpaper,12pt,extrafontsizes,final]{memoir}
+\usepackage[pdftex]{graphicx}
+\usepackage{amsmath,geometry,wrapfig,float,indentfirst,subfig,enumerate,array,lscape} %
+\usepackage{fullpage}
+\usepackage[USenglish]{babel}       %US hyphenation rules
+%\usepackage{setspace,listings,geometry,ltablex,booktabs,tocloft}
+\usepackage{type1cm,courier,relsize,siunitx,fixltx2e,alltt,xcolor}% Replace the standard Computer Modern Typewriter font LaTeX uses, monospace text with PostScript font Adobe Courier, use relative sizes(e.g. \smaller, \larger),set SI units correctly
+\usepackage{latexsym}
+\usepackage{hyperref}
+\hypersetup
+{
+    pdfpagelayout=TwoPageRight,
+    bookmarks=true,           % show bookmarks bar?
+    unicode=false,               % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,             % show Acrobat’s toolbar?
+    pdfmenubar=true,          % show Acrobat’s menu?
+    pdffitwindow=false,        % window fit to page when opened
+    pdfstartview={FitH},       % fits the width of the page to the window
+    pdftitle={A Study of Real Time Kinematic Global Navigation Satellite Systems In Railroad Transportation},    % title
+    pdfauthor={Peter J Dailey},     % author
+    pdfsubject={Track Surveying},   % subject of the document
+    pdfcreator={Peter J Dailey},   % creator of the document
+    pdfproducer={Peter J Dailey}, % producer of the document
+    pdfkeywords={RTK,GPS,GNSS,survey,railroad,alinement,alignment,track,occupancy,yard,hump,real-time,kinematic}, % list of keywords
+    pdfnewwindow=true,% links in new window
+    colorlinks=true,        % false: boxed links; true: colored links
+    linkcolor=black,        % color of internal links, red
+    citecolor=black,        % color of links to bibliography, green
+    filecolor=black,         % color of file links, magenta
+    urlcolor=blue          % color of external links, cyan
+}
+\graphicspath{{/Volumes/daileypj/Documents/WVU/PhDwork/MyDissertation/NewDissertation/TeX/}{/Volumes/daileypj/Documents/WVU/PhDwork/MyDissertation/NewDissertation/TeX/data/}}
+%
+\usepackage[square]{natbib}
+\usepackage{citeref}
+%
+\widowpenalty=500
+\clubpenalty=500
+\OnehalfSpacing
+\tightlists
+\setsecnumdepth{chapter} % number to section
+%
+\begin{document}
+\frontmatter
+\include{titlepage}
+\cleardoublepage %
+\include{signature}
+\cleardoublepage
+%\abstract{abstract}
+%\acknowledgements{acknowledgements}
+%\dedication{dedication}
+%\preface{preface}
+\tableofcontents*
+\listoftables*
+\listoffigures*
+%
+\mainmatter
+\include{Chapter1}
+\include{Chapter2}
+\include{Chapter3}
+%\include{Chapter4}
+%\include{Chapter5}
+%
+%\backmatter
+% Include appendices.
+%\include{AppendixA}
+% Bibliography at the end
+\bibliographystyle{unsrtnat}% authordate ,apalike,plain(sorted),unsrt(unsorted),alpha plain,abbrv,acm
+% natbib styles: unsrtnat.bst, plainnat.bst, abbrvnat.bst
+\bibliography{Dissertation}
+\end{document}

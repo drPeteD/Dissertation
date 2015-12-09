@@ -1,0 +1,147 @@
+\chapter{Conclusions}
+% Research questions
+\section{Purpose}
+
+The research determined the viability of Real Time Kinematic augmentation of Global Navigation Satellite Systems to asses rail and act as location determination system. These experiments used common track vehicles equipped with commercial off-the-shelf GPS and GNSS survey instrumentation. A single RTK receiver mounted to a locomotive or Hi-Rail was used on the mobile vehicle. Correctors output from a single ad hoc reference station in the case of the humpyard, or a commercial Virtual Reference Station server were transmitted to the mobile receiver. No auxiliary instruments were used to fill data gaps or to modify observed track positions for the effects of cross-level or grade. 
+
+The research answered these questions:
+
+1. \emph{Hump Yard Survey}
+Can RTK GPS instrumentation mounted to a locomotive be used to measure the  vertical profile of bowl tracks in an automatic classification yard during humping operations?
+
+2. \emph{Horizontal Track Alinement}
+Can RTK GPS or GNSS instrumentation mounted on a track inspector's Hi-Rail determine the horizontal degree of curvature comparable with specialized track geometry vehicles?
+
+3. \emph{Track Occupancy}
+Can RTK GNSS instrumentation mounted to a Hi-Rail determine track occupancy over a  traverse of multiple parallel track segments?
+
+\section{Discussion of Results}
+\subsection{Hump Yard Profile}
+% Hump Yard Surveying
+The objective of experiment one was to use a locomotive to survey an active hump yard to produce track profiles from RTK augmented track observations. Nearly ten thousand observations of yard bowl tracks were made by an RTK equipped locomotive during humping operations. The experiment concluded:
+\begin{enumerate}
+\item RTK GPS using an ad hoc reference station located was successful in defining track grades.
+\item An RTK survey by locomotive completed a 58 track survey in less than a week, at a cost of 100 man hours, disrupted humping operations for less than 2 hours, and resulted less than six man-hours of exposure to ground hazards inherent to  continuous yard operations.
+\item No evidence of signal distortion from multipath reflections was detected.
+\end{enumerate}
+
+\subsection{Hump Yard Profile Remarks}
+The RTK survey of the Hamlet Yard was successful in proving a safe, quick, and accurate method of determining yard profiles. Additional findings:
+\begin{itemize}
+\item The survey was unaffected by a full day of torrential rain.
+\item The yard locomotive equipped with the RTK instruments could be used to pull cuts of cars, kick stalls, and attend to the normal duties assigned to a yard engine without affecting track observations.
+\item A daily update informally presented to yard management, yard master, hump masters, and locomotive operators showing the survey progress by means of plan view of color-mapped elevations had a distinct influence in developing and maintaining a cooperative work environment. The profile information presented in the color-mapped plan view was immediately understood by all yard workers. The informal briefings always seemed to elicit a response from yard personnel pointing to anecdotal track problems on the map.
+\end{itemize}
+
+% Horizontal Track Alinement
+\subsection{Horizontal Track Alinement}
+The objective of experiment 2 was to traverse a continuous segment of mainline track by Hi-Rail and model the output to determine the ${D_c}$ between mile posts. The output was evaluated against rail company track charts for location, magnitude, and direction of curves. The output evaluated against the performance of a specialized track geometry car over a comparable segment of tangent track. 
+The experiment concluded that:
+\begin{itemize}
+\item A RTK GNSS equipped Hi-Rail receiving correctors from a state sponsored VRS network was capable of measuring track position across 29 continuous miles of mainline track during the course of a track inspector's normal duties.
+\item A software model of the string line method determined ${D_c}$ over 29 continuous miles of mainline track. A total of 97,180 single epoch observations were made during 5 separate surveys between C\&O Kanawha Subdivision MP494 and 523 and modeled using 62 foot chords on 15.5 foot stations.
+\item The software model compared favorably with published rail company track charts. 
+\item Each obstruction that lead to loss of GNSS signal was identified.
+\item The confidence interval of the mean deviation from zero ${D_c}$ for the GRMS over a tangent track segment was found to be between -0.0307 and -0.0219 feet with a standard deviation of 0.1306 feet at 95\% confidence. The confidence interval of the mean deviation from zero ${D_c}$ for a RTK equipped Hi-Rail over the same tangent segment was found to be -0.04106 to 0.03271 feet with a standard deviation of 0.2789 feet at 95\%. 
+\end{itemize}
+
+\subsection{Horizontal Track Alinement Remarks}
+The use of RTK GNSS during an inspector's routine visual track inspection provides an opportunity to monitor and study actionable track behavior. The track alinement experiment was successful in deploying commercial off-the-shelf products on a track inspector's Hi-Rail. The combined RTK VRS services of the Ohio Department of Transportation and the West Virginia Department of Highways are provided to any user at no cost. A number of other states provide similar services at no or nominal cost.
+The experiment indicates RTKs ability to add value to other aspects of track behavior. Track position referenced to recognized benchmarks enables the ability to:
+\begin{itemize}
+\item Observe the behavior of CWR\footnote{Continuously Welded Rail} movement due to the seasonal effects of temperature. Season affects can result in rail breakage during the cold of the winter and warping\footnote{Aka ``sun kinks''.} during the heat of the summer. Anecdotal observations of CWR on ballast displacement between summer and winter temperature swings do not permit any actionable information to achieve neutral track temperature. RTK observation by Hi-Rail over a wide area may answer the winter question of where did the rail go, and the summer question of where are kinks likely to occur. 
+
+The study area presented challenging conditions for the reception of SV signals. Remarkably, the effects of foliage and terrain in the Appalachian foothills and river valley were offset by the addition of GLONASS satellites. The three to five additional SVs from the GLONASS constellation added significantly to the receiver's ability to maintain initialization.
+
+The effect of structures such as bridges, overpasses, and signal bridges is evident in the output. Line-of-site and signal power from each SV is current limitation of GNSS. The limitations of RTK GNSS in the research are addressed by:
+
+\item The USDOD's completion of the Block IIR-M GPS program in October 2009. The Block IIR-M SVs features the inclusion of the civilian L2C signal. L2C improves the accuracy of navigation with an easy to track signal, and provides redundancy in case of localized interference. The addition of a second civilian signal allows the direct measurement of  the ionospheric delay error for that satellite. The L2C CM\footnote{Civilian Moderate length code.} PRN sequence provides for forward error correction, while the L2C CL\footnote{Civilian Long length code.} sequence provides correlation protection 250 times stronger than L1 C/A.
+\item The first of twelve Block IIF satellites scheduled for a May 2010 launch have twice the transmitter power (+3db) of previous Block II designs; and introduce the L5~\citep{USNavalObs} which will broadcast a civilian-use safety-of-life signal, a critical component for the use of GPS in positive train control.
+\item Block III satellites are scheduled to begin launches in 2013, and will introduce a new L1C signal, retain the L1 C/A for backward compatibility, and enables greater civil interoperability with Galileo L1.
+\item The new CNAV messages on Block IIR-M and later satellites supports rapid alert messages~\citep{USNavalObs}. Rapid alert messages report  are critical to providing safety-of-life applications such as positive train control. 
+\item The Russian Federation's continued buildout of GLONASS with class M satellites. a standard feature of GLONASS class M is the use of laser retro-reflectors. These allows tracking satellite orbits independently of the radio signals in turn allowing satellite clock errors to be disentangled from ephemeris errors. This characteristic is not available in the GPS.
+\end{itemize}
+
+The present and planned GNSS improvements are note worthy for their implications in railroad applications. The use of L2C and L5 signals, and additional GLONASS SV availability will address dropouts from bridges, overpasses, and signal bridges experienced during this research without resorting to the additional complexity of integrating auxiliary instrumentation.
+
+% Track Occupancy
+\subsection{Track Occupancy}
+The objective of experiment 3 was to prove the ability of RTK GNSS to provide reliable track occupancy. A three track tangent and a circular curve segment were used in the evaluation. One survey was designated as the baseline, with the mean cross-track error of subsequent observations determined at the confidence level specified by the FRA. The experiment concluded:
+\begin{itemize}
+\item Track occupancy can be determined quickly and reliably by single epoch RTK GNSS observations of a mobile track vehicle over wide areas receiving correctors from a VRS server.
+\item For the C\&O Kanawha Subdivision tangent from MP 498.9 to 500.2:
+
+The mean cross-track error between the tangent centerline designated as the baseline on track 2 and subsequent traverse over track 2 was 0.1281 feet with a standard deviation of 0.0796 feet.
+
+The mean cross-track error between the track 2 baseline and a subsequent traverse over track 1 was found to have an upper and lower confidence interval of 13.483 to 13.535 feet at 99.999\% with a standard deviation of 0.2030.
+
+The mean cross-track error between the track 2 baseline and subsequent traverse over track 3 was found to have an upper and lower confidence interval of 13.013 to 13.094 feet at 99.999\% with a standard deviation of 0.3467.
+
+The mean cross-track error between a second traverse of track 3 compared with the baseline had an upper and lower confidence interval of 13.014 13.094 feet at 99.999\% with a standard deviation of 0.3133.
+
+\item The centerline to centerline distance for the tangent segment between tracks 1 and 2 is 13.51 feet.
+\item The centerline to centerline distance for the tangent segment between tracks 2 and 3 is 13.08 feet.
+
+\item For the C\&O Kanawha Subdivision circular portion of the curve from MP 500.5 to 500.7, the coordinates of the track 2 curve origin were found to be located at Northing 13955358.41, Easting 1245217.14. The curve radius for track 2 was found to be 2276.11 feet.
+
+The mean cross-track error between the base centerline and a subsequent traverse over track 2 was found was found to have an upper and lower confidence interval of 0.01 to 0.04 feet at 99.999\% with a standard deviation of 0.0373 feet.
+
+The mean cross-track error between the base centerline and a subsequent traverse over track 1 was found was found to have an upper and lower confidence interval of 13.89 to 13.98 feet at 99.999\% with a standard deviation of 0.09517 feet.
+
+The mean cross-track error between the base centerline and a subsequent traverse over track 1 was found was found to have an upper and lower confidence interval of -14.61 to -14.46 feet at 99.999\% with a standard deviation of 0.1628.
+
+The mean cross-track error between the base centerline and a second subsequent traverse over track 3 was found was found to have an upper and lower confidence interval of -14.64 to -14.51 feet at 99.999\% with a standard deviation of 0.14161 feet.
+
+\item The centerline to centerline distance for the circular curve segment between tracks 1 and 2 is 13.93 feet.
+\item The centerline to centerline distance for the tangent segment between tracks 2 and 3 is 14.55 feet.
+\end{itemize}
+
+\subsection{Track Occupancy Remarks}
+In preparation for Positive Train Control mandates by the \emph{Rail Safety Improvement Act of 2008}~\citep{SafetyAct2008}, Class I railroads are overflying their mainline track with LiDAR\footnote{Light Detection And Ranging, a term used to describe an airborne laser profiling system that produces location and elevation data to define the surface of the earth and the heights of above-ground features.} and extracting track centerlines. This process will produce accurate centerlines over the majority of the North American inventory of 95,000 miles of mainline track within a short period of time. Expected horizontal centerline positions extracted from a LiDAR point cloud will have an accuracy on the order of 0.295 to 0.656 feet (0.09 to 0.20 meters)~\citep{FugroED07}.
+
+A recent demonstration project transmitted the position of six railcars during their transit from Russell Kentucky to Cincinnati Ohio. The railcars used a simple GPS receiver and a narrow band digital radio\footnote{Kenwood NX-200 and Garmin 35H} to transmit a standard NMEA\footnote{National Marine Electronics Manufacturer's Association} navigation message to a narrow band digital receiver\footnote{Kenwood NX-700}. COTS radio components used the existing AAR VHF 160Mhz band. The navigation messages transmitted by the railcars were received at the wayside, transmitted through the rail company voice dispatch network, and received at the rail company's central network office~\citep{ART2010}. Position data was passed across the dispatch network firewall to the research laboratory. A web server at the research laboratory published the railcar positions in real time.
+
+The significance of this research is that RTK GNSS is the link between centerlines determined by LiDAR and the position of a mobile track vehicle determined by RTK GNSS in reliably establishing track occupancy with commercial products and using existing rail company assets.
+
+The missing piece is equipping wayside voice repeater stations with capable radios. The FCC\footnote{Federal Communications Commission} narrow banding regulations have lead to a need by rail companies to upgrade voice radio communications equipment to meet the narrow banding mandate. Narrow banding takes advantage of modern circuitry to keep radio transmissions tightly locked on a center frequency. Tighter control of the center frequency result in the ability to double and in future proposed regulations, quadruple the channels available in the VHF band allocated to railroads. The narrow banding requirement provide an opportunity for rail companies to take advantage of the unused bandwidth of wayside repeater by redeploying digital radio technology.
+
+The unused wayside repeater bandwidth could be used to transmit correctors to GPS/GNSS receivers to increase position accuracy in areas not served by cellular data. The increase in accuracy would also include legacy GPS devices currently installed on locomotives. Likewise, positions from locomotive, maintenance, and rolling stock can be transmitted to the wayside repeater, through the dispatch network to track position of mobile assets in real time.
+
+This research, in conjunction with LiDAR centerlines and other demonstration projects  proves that wireless real time track occupancy can be implemented now, with commercially available products. 
+
+% Recomendations
+\section{Recomendations}
+Additional research questions and recommendations regarding the use of RTK augmentation to GNSS in railroad transportation as a result of the research outcome:
+\begin{itemize}
+	\item Track elevation and ${D_c}$ measurements were made directly using a single RTK antenna. The additional of a second and/or third GNSS receiver would provide the ability to directly measure or model other track characteristics such as cross-level, twist, and grade. Drawing from the use of RTK in machine control applications, RTK  correctors can be supplied to other receivers in a ``local RTK'' network. A mobile vehicle would employ a ``master'' receiver to receive long baseline correctors from a VRS network. The master receiver would supply short baseline correctors to other slave receivers on the track vehicle. Three dimensional observations from each receiver would be differenced to directly measure heading, cross-level, and grade. The GNSS receivers are relatively impervious to the effects of shock and vibration. The local RTK network between the master and slave maintains the relationship between receivers even in the event of a communication disruption with the VRS server.
+	\item A more efficient computational model for determining track characteristics should be developed and provided to the rail industry than a string lining model. String lining is of value only to field workers equipped with the simplest of tools.
+	\item Explore the bandwidth and capabilities required to transmit correctors through a rail company's existing wayside repeater infrastructure.
+	\item Reexamine the USDOT's role assigned by NSTC-6 to ``Develop and implement U.S. Government augmentations to the basic GPS for transportation applications.'' In the eighteen years from the USDOT's 1995 report ``{Differential {GPS}: An Aid to Positive Train Control}''~\citep{1995FRADiffe} through their 2008 Final Report on NDGPS~\citep{2008USDoT_NDGPS}, the USDOT through the FRA has done a disservice to the rail industry with continued promises of NDGPS's role in Positive Train Control. NDGPS's value either in its present or future ``high accuracy'' form has never been adequately demonstrated for use in PTC. The 2008 report  intentionally obscures the inadequacy of NDGPS, inferring that the lack of use by those that could benefit from greater accuracy just aren't aware of NDGPS. As if it is simply advertising the service.
+	 The truth is that individual state agencies have chosen to implement augmentation capabilities that NDGPS has, can not, and will not be able to satisfy given the physics of LF and MF radio data transmission. Even small and relatively poor states, such as West Virginia, are building their own RTK networks to satisfy the demand for location accuracy at no cost. Highway construction, machine control, precision agriculture, and mine rescue are just a few of the applications that individual states prioritize to justify the relatively low cost of an RTK network.
+	Simply put, NDGPS is a technological dinosaur that serves a few captive federal agencies, users that would need to replace receivers, and manufacturers that have amortized production costs. The NDGPS functionality has been superseded by other federal, state, and private systems. NDGPS was build to reuse decommissioned US Air Force GWEN\footnote{Ground Wave Emergency Network} sites as a ``cost avoidance measure''~\citep[Appendix F]{2008USDoT_NDGPS}, that is, built on recycled technology with little application in future transportation applications. 
+	The 2008 report quotes a discussion with Ohio State University that ``NDGPS should take over this <integrating state reference stations> role and provide consistence<sic> as well as cost savings across the states.'' This role has already been assumed by the National Geodetic Survey\footnote{National Oceanographic and Aeronautics Administration} who qualify reference stations and provide geodetic information and data for post processed GPS/GNSS users. The USDOT has shown a single mindedness in fixating on the ``U.S. Government-provided GPS civil augmentation systems'' in pursuit of its responsibilities under NSTC-6. By ignoring the technological changes over the last two decades USDOT has failed to ``minimize cost and duplication of effort''.
+	The NDGPS should be discontinued, its 300 foot LF transmitter towers removed as obstacles to air navigation, and the funding redistributed to NGS to coordinate combining state systems into a national network.
+	\item Provide NOAA`s National Ocean Service, specifically the National Geodetic Survey, with a mandate to integration and coordinate the of disparate RTK services.
+\end{itemize}
+%Summary
+\section{Summary}
+The research results prove that the use of RTK GNSS VRS networks, when applied to mobile track vehicles in challenging railroad transportation applications, provides a simple and superior way to enable rail companies with actionable information on track alinement, grade, and enable the reliable, wireless, determination of track occupancy.`
+
+%Limitations
+\emph{Limitations of the Study}
+
+\begin{itemize}[1)]
+\firmlist
+\item The usefulness of comparisons with existing track survey data will be of limited value in correlating observations made during the research with previous differential leveling, trigonometric leveling, or track geometry vehicle measurements made by others.
+	
+\item Track measurement frequency was limited due to access constraints.
+\item Data density varied due to variation in GNSS type, receiver processor speed, the number of visible SVs, and track vehicle velocity.
+\item The determination of reference marks and reference station position was limited to the values obtained from the National Geodetic Survey (NGS) Online Positioning User Service (OPUS) and benchmark database\footnote{Access: http://www.ngs.noaa.gov/OPUS/ and http://www.ngs.noaa.gov/cgi-bin/datasheet.prl}.
+\end{itemize}
+
+% Delimitations
+\emph{Delimitations of the Study}
+
+\begin{itemize}
+	\item Modeling of horizontal track alinement was delimited to the method described in the \emph{FRA Track Safety Standards Compliance Manual for track classes 1-5}~\cite{2007FRATrack}. This method was modeled due to it universal use and reference in Federal Regulations. Other methods of determining the ${D_c}$ are computationally more efficient, and led themselves to real time determination of ${D_c}$.
+\end{itemize}

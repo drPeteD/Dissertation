@@ -1,0 +1,6 @@
+Brb2Rus012010,Y:\Documents\Engineering\Data\LOR\Brb2Rus012010,
+UTM,17 North,(WGS 84),GEOID03 (Conus)
+coord units ft, elevation units ft, distance units ft
+PointID,FeatureCode,LatitudeDecimalDeg,LongitudeDecimalDeg,EllipsoidHeight,Northing,Easting,Elevation,AntennaHeight,StartTime,X,Y,Z,HorizontalPrecision,VerticalPrecision,RMS,MaxPDOP,MaxHDOP,MaxVDOP,NbrGPSpos,MinSatellites
+mp511,mp,+38.393592564,-82.563953252,458.358,13945655.280,1192327.967,559.305,6.995,14:34:00 20 Jan 2010,X,Y,Z,0.020,0.037,0.003,,,,6,10
+mp512,mp,+38.398877366,-82.581048655,463.649,13947662.842,1187462.657,564.542,6.995,14:41:33 20 Jan 2010,X,Y,Z,0.019,0.029,0.002,,,,6,11

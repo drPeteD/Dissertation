@@ -1,0 +1,91 @@
+\chapter{Introduction}
+%\begin{quotation}``We'll never be able to determine track occupancy using GPS.~\citep{2007El-Sibaie.MDiscu}''
+%\end{quotation}
+\section{Background}
+The shipment of freight by rail is an exceptionally efficient transportation mode. The average freight train consumes one gallon of diesel fuel to move one ton 423 miles~\citep{RITAtransStats08}. The outstanding efficiency of rail freight comes with a high price in inspection and maintenance of the railway. Rail car loading forces, weather, and time act on the railway and substructure to distort the track geometry. Distortions to the track geometry\footnote{i.e., gage, profile, alinement, crosslevel, superelevation, and warp.} must be identified and maintenance resources brought to bear to insure safe operation at the design track speed. 
+
+FRA\footnote{Federal Railroad Administration} mandated bi-weekly visual track inspections rely on a rail company inspector's training, skill, and diligence. Conversely, track geometry car inspections provide an objective, detailed record of relative track position but are performed infrequently due the the limited availability of these specialized measurement systems. The thesis of this research is that, given a sufficiently accurate and reliable augmentation system, railway infrastructure measurement can be performed quickly, with greater safety, and at less cost by determining absolute track position using global satellite positioning systems. Survey-grade track measurement using GNSS\footnote{Global Navigation Satellite Systems} instrumentation will remove ground-based surveyors from the hazards inherent to active rail yards; enable track monitoring of rail movement during routine visual inspections; and to determine the track occupancy of a train in parallel multi-track segments in dark territory or independent of wired track circuits.
+
+The work proposed focuses on investigation into the use of Real Time Kinematic (RTK) augmentation to global satellite navigation systems to measure the absolute track position enabling solutions to rail measurement in yards and across wide areas of mainline track.
+
+Space vehicles (SV) that comprise the GPS\footnote{Sponsored by the United States Department of Defense (USDOD)}, as well as other global navigation satellite systems: GLONASS\footnote{GLObal'naya NAvigatsionnaya Sputnikovaya Sistema  sponsored by the Russian Space Forces}; Galileo\footnote{Sponsored by the European Union}; and CNSS\footnote{Compass Navigation Satellite System sponsored by the Peoples Republic of China}, are orbiting reference beacons enabling autonomous geo-spatial positioning and timing across the globe. The geo-spatial positioning accuracy of these systems can be improved by augmenting the identifiable distortions to SV signal transmissions through the ionosphere and troposphere with corrections from ground based facilities. 
+
+The use of GPS positioning for rail infrastructure measurement has depended on federal government supplied augmentation. The United Stated Department of Transportation (USDOT) has selected the National Differential GPS (NDGPS) augmentation system to increase accuracy in transportation applications. NDGPS has been promoted by the Federal Railroad Administration (FRA) as a means to achieve reliable track occupancy, however no commercial equipment demonstrating the requisite accuracy or reliability to insure track occupancy has been demonstrated by NDGPS alone~\citep{2006AllenAssetMap}. The FRA reports that ``When [track occupancy is] viewed as a two dimensional area problem, it is unlikely that any economically feasible [GPS] system could achieve this accuracy to the required $0.9_5$ probability~\citep[pp.6-7]{1995FRADiffe}.''
+
+% Problem Statement
+% Motivate the problem through time, money, safety
+% Benchmarks that motivate the study
+% Identify the weak link in the system
+% Research questions are previewed int the problem statement
+% By solving the problem we will answer these research questions
+
+\section{Railway Measurement Problems}
+Track course smoothness must be held within specific tolerances to avoid undesirable lateral accelerations that lead to additional railway distortions and derailment. A system for track surveying should be cost-effective, provide relative accuracy without interfering with train traffic, and minimize exposure to railway hazards. Historically, North American railways use relative measurement methods for track inspection based on the idea that track curvature irregularity can be determined by the versine of a chord
+%(\ref{fig:Alinement}). 
+
+The proposed research applies RTK augmented GNSS to measure track position within an absolute reference frame for use in addressing track profile measurement problems, determine relative horizontal alinement, and prove the ability to determine track occupancy in dark territory or independent of wired track circuits. These three railway problems will be investigated during the research. 
+\begin{enumerate}[1)]
+\firmlist
+	\item An automatic classification yard uses the force of gravity to propel cars through a complex of tracks to the intended destination in the yard. Environmental factors\footnote{Wind speed, direction, and ambient temperature} act on the motion of a railcar from its release through a transit of the yard bowl tracks to its rest position in the yard. Profile deviation from the design grade due to settlement occurs over time from railcar loading forces and the effects of weather~\citep{2005szwilski_kerchof}. Surveying a 60 track, thousand car per day yard places workers in a hazardous environment with yard production delays required to accommodate their safety. Production delays due to grade irregularities are difficult to quantify due to the limited availability of valid track profile information due to the difficulty and expense in conducting a yard survey~\citep{2007barnes}. 
+	
+	The successful solution to hump yard grade surveys by RTK augmented GPS during yard production will result in the production of track profiles by removing surveyors from harms way, increasing the density of track observations and collect the observations in less time than ground-based differential level surveys.
+	
+	\item Track superintendents\footnote{Commonly referred to as Roadmasters.} rely on biweekly visual inspections to identify track defects for directing maintenance resources. RTK augmented GNSS instrumentation will provide a record of horizontal track alinement during routine visual inspections by HiRail to aid in the identification of track shift or other compliance irregularities. Over time alinement records alinement records provide a history of track behavior attributable to car loading, weather, and geologic processes.
+	
+	The successful solution to augmenting visual track assessment with RTK augmented GNSS observations will result in the production of relative horizontal track alinements for use as an auxiliary component to track inspection practices~\citep{49CFR213D,2007FRATrack,2009bright.rtrack}.
+	
+	\item Locating a train in parallel multi-track segments by means of GNSS requires a priori knowledge of each track segment's location. The present US rail transportation system inventory of 95,000 mainline track miles makes monumenting the absolute location of each track a formidable task. Absolute track position using RTK augmented GNSS can locate track position with sufficient reliability to enable a subsequent traverse by a RTK-capable track vehicle to be correctly located in parallel, multi-track segments meeting the FRA location determination system (LDS) positioning requirements for positive train control (PTC)~\citep[pp.3]{1995FRADiffe}.
+	
+	The successful solution to locating position on the railway over wide areas will result in the ability to meet the FRA requirements for a wireless location determination system for positive train control.
+\end{enumerate}  
+
+% Objectives can provide a certain standard for measurement
+% Track inspection motivates the research
+
+\section{Research Objectives}
+The solution to many track measurement and rail vehicle location problems requires absolute track and vehicle position measurement over wide areas. The research will integrate RTK augmented GNSS measurement within the operational and safety constraints of a Class I rail company for the purpose of developing a method to survey track location with common track vehicles. The rail transportation problems addressed by the research seek to decrease on-track worker hazard exposure, increase track inspection efficiency, and reduced the cost of track inspections. The research will employ locomotives and HiRail vehicles equipped with commercial off the shelf (COTS) GNSS survey equipment to evaluate the vertical precision, horizontal accuracy, and position reliability of RTK augmentation to meet the ``...high integrity, and high reliability for safety-critical train control applications~\citep[pp.11]{2008USDoT_NDGPS}.''
+
+The primary objective of this research is to develop procedures and
+supporting models for assessment of RTK augmented GNSS integration within a Class I railroad environment. To achieve the primary objective, several secondary objectives
+will be established, as follows:
+\begin{enumerate}[1)]
+\firmlist
+\item Use literature review, experimental data and intellectual property claims to
+investigate factors leading to the use of RTK augmented GNSS over railways.
+\item Interview experts in the field of humpyard engineering and perform a review of the literature to identify methods of increasing humpyard the throughput. Study railcar motion through a humpyard to identify operational problems that may be related to profile degradation.
+\item Develop and demonstrate a method for safely and precisely determining grades across the bowl area of an automatic classification yard, evaluating the use of COTS RTK GPS instruments aboard a locomotive during humping operations. Individual profiles for each bowl track in the yard will be produced.
+\item Interview experts in the field of track inspection and wide area RTK augmentation delivery to identify methods for measuring rail position over wide areas of mainline track.
+\item Develop and demonstrate a method for safely measuring track position across a wide area.
+\item Develop a model for horizontal track alinement analysis based on the string lining method using RTK augmented GNSS observations, and analyzing factors affecting GNSS measurement over mainline track.
+\item Develop a methodology for assessing a location determination system suitable for supporting positive train control. The objective will determine if COTS RTK GNSS infrastructure and instrumentation are capable of demonstrating track position based on FRA stated tolerances~\cite[4-5]{1995FRADiffe}.
+\end{enumerate}
+
+% Research Contribution
+%Significance
+Development and demonstration of RTK augmented GNSS is significant to providing the rail industry with a practical and reliable standard of absolute rail position measurement over a wide area. Successful completion of this thesis will contribute modern tools that enable a variety of railway infrastructure measurement and monitoring not possible with US government provided augmentation. Existing and future intelligent rail transportation initiatives will benefit from survey-quality positioning in the command, control, communications, and track information domains. Freight transportation will derive benefit from  improved power and braking systems resulting in improved energy efficiency and decreased emissions; improved systems for track defect detection and track movement prediction; improved efficiency in the deployment of maintenance assets; examination of track substructure through determination of the track modulus between lightly loaded (as with a HiRail) and loaded (as with a locomotive) track measurements; and safety improvements derived from Positive Train Control (PTC) systems with the potential to significantly reduce the probability of collisions between trains, casualties to roadway workers, damage to equipment, and a reduction in the occurrence of overspeed accidents through the wireless differentiation of track vehicle location over parallel multi-track segments.
+
+Reliable wireless measurement of track position contrasted with the present use of dedicated track circuits\footnote{i.e., insulated track circuits, loop detectors, magnetic proximity switches, transponders}, will lead to new practices in railway infrastructure management and track vehicle location. The economic benefit in reducing a rail company's dependance on hard-wired infrastructure\footnote{Estimated replacement mainline cost of \$125,000 per mile $\times$ 95,000 miles = \$12 billion~\citep{ResorPTC}} and attendant labor cost is significant.
+
+Other cited benefits of accurate train location may include~\citep[pp.12-13]{1995FRADiffe}:
+\begin{itemize}
+\firmlist
+	\item Higher quality service, through continuous tracking of car movements.
+	\item Reduced fuel consumption, through better pacing of trains (avoiding the need to take away momentum through braking and restore it through use of diesel power).
+	\item More efficient use of existing physical plant, increasing effective capacity while avoiding further outlays to build additional tracks or sidings.
+\end{itemize}
+
+\section{Research Approach}
+
+The research conducted in this investigation will be an analytical study
+supplemented by acquisition of RTK augmented GPS/GNSS track observations. The research will focus on integration of RTK augmented GNSS within the operational constraints of a Class I railroad. As a result of this research, a methodology for the assessment of railway infrastructure will be developed.
+
+By solving the problems of determining absolute track location to a high degree of accuracy, the research will answer these questions:
+
+1)\emph{Vertical Precision:}
+Can a locomotive use RTK augmented GPS to measure the  vertical profile of bowl tracks in an automatic classification yard during production activities?
+
+2)\emph{Horizontal Accuracy:}
+Can a common track vehicle use RTK augmented GPS/GNSS to determine the horizontal degree of curvature comparable with specialized track geometry vehicles?
+
+3)\emph{Reliability:}
+Can a common track vehicle use RTK augmented GPS/GNSS to meet the positioning requirements for track occupancy outlined by the FRA~\citep[pp.6-7]{1995FRADiffe} for a location determination system?

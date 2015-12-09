@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta name="description" content="Real Time Kinematic Global Navigation Satellite Systems in Railroad Transportation Peter J Dailey  West Virginia University College of Engineering and Mineral Resources Department of Civil Engineering 2 June 2010 Motivation for the Research Research Purpose and Objectives Experiments 1-3 Research question to be answered Specific Objectives &amp; Method Results Conclusions Implications Agenda Motivation Loss of carload freight revenues relative to overall freight growth Carload freight has quality of service issues (Moorman)  Inspection of railway is critical and labor intensive Labor intensive reliance on inspector skill and diligence Dependance on wired track circuits for train location Est. replacement cost of track signals: $125,000/mile Yard Profile SurveyDifferential Level CSX/NS SOA Track Measurement for Defect Detection CSX TGC-2 heavy / train / $$$ NS TGC heavy / train / $$$ CSX GRMS-2 light / self-propelled / $$$ CSX GRMS-1 light / self-propelled / $$$ RTK GPS Railway Measurement The Swiss Trolley - Glauss May 2010 FRA LDS Concept2005 COTS GPS/GNSS Augmentation Services Standard Positioning Service, USDOD no augmentation 25 m stated, 12.8 m horizontal in practice Space Based Augmentation Systems (SBAS), geosynchronous WAAS, FAA: 3-5 meters horizontal Subscription services: OmniStar Ground Based Augmentation Systems (GBAS) NDGPS, USDOT: 1-5 meters, experimental (noCOTS) 10 cm horizontal. GPS correctors only via MF radio - 200 baud limitation RTK GPS/GNSS VRS: 1-2 cm horizontal. GPS, GLONASS, Galileo correctors via VHF or cellular Research Purpose Determine the ability of RTK GPS to Provide a method to improve yard profiles, affecting humpyard throughput  resulting in increased service reliability Bridge the gap in railway inspection methods between multi-million dollar track geometry cars and FRA mandated visual inspections Provide a reliable wireless location determination system Research Objectives Design an experiment to asses RTK GPS onboard a locomotive  Obtain a data set for profiling the bowl area of a humpyard during car handling operations Design an experiment to asses RTK GNSS onboard a track inspector’s Hi-Rail Track XYZ data &gt; String line model &gt; track information Design an experiment to asses RTK GNSS as the sole measurement component of a wireless track vehicle  location determination system (LDS) Commercial Constraints on Research Activity Safety and access considerations of a Class I railroad Availability of track foul time ($1,500 fine per occurrence) Training Requirements of USC 49§214 On-Track-Worker Safety All field work superintended by a rail company employee-in-charge (subject to availability) $5M insurance policy, required by rail company for access Instrument Constraints Commercial, off the shelf (COTS) GPS/GNSS instruments and systems ‘Survey grade’ GPS/GNSS Existing VRS physical and IT infrastructure Keep it simple - no auxiliary instrumentation to fill in expected data gaps Experiment 1Hump Yard Profile Survey Determine track grades in a hump yard by an RTK equipped locomotive during humping operations. The Hump Yard An efficient mechanism engineered and constructed for the specific purpose of breaking apart a consist and reassigning individual units for outbound shipmentAKA: Automatic Classification Yard, Freight Terminal, Class Yard Characterized byAn elevated inletRemotely operated electro-mechanical switchingAutomated car speed control Hamlet Terminal Video StudyInfluence of Grade on Throughput Car stall blocks group switch, classification to blocked group impossible Hump operations interrupted Trim engine moves to clear stall Total of 21 minutes to clear stall Hump Yard Grades Affect Freight Service Quality Grade degradation and settlement due to Railcar loading forces Weather &amp; geology Outdated design grade Railcar Journal to frictionless roller bearings Application of Lean Manufacturing principals “Right train, right track” through improved control systems increased sensitivity to infrastructure defects Research Question Can RTK GPS instrumentation attached to a locomotive, be used to survey an automatic classification yard during humping operations? Hump Yard Profile Survey Purpose &amp; Objectives Profile the bowl area of a humpyard in support of yard-wide resurfacing project Collect a data set by and RTK GPS equipped locomotive Minimize disruption to operations Maximize safety for surveyors Minimize impact on continuous car handling operation Track closure and rail car reroutes Minimize demand for trained safety support personnel Determine the effects on GPS position due to signal distortion from multipath reflections Experiment 1Hump Yard Survey COTS RTK GPS Reference Station COTS RTK static instruments COTS RTK mobile instruments and mount Antenna Alignment Tangent section of track used as a calibration area for alignment of the locomotive antenna with track centerline.           Group 7, Track 56 Multipath Analysis Reference Station cycle slips / total obs.	Locomotive Relative Vertical Accuracy μRVP σRVP		0.08 ft (2.4cm) 0.043 ft MP1 cycle slips 1575.42 MHz, λ = 19 cm	121 / 9,112 1.32%	 MP2 cycle slips 1227.60 MHz, λ = 24.4 cm	119 / 9,112 1.30%	  Relative Vertical Precision   μRVP μRVP+σRVP  Research Result Objective Result	Value Safety, exposure hours	6 Labor efficiency, man hours	97 Time to completion, days	4-1/2 Track observations	9,570 Nominal observation stationing, feet	10 Operation disruption, hours	2 Conclusions Safer than differential level survey 6 vs 500 exposure hours (est. Kerchoff &amp; Szwilski) Greater data density than differential level survey 10 ft vs 100 ft stations Faster than differential level survey 4-1/2 days vs 25 days Fewer labor hours than differential level survey 100 vs 500 man-hours (est. Kerchoff &amp; Szwilski) Conclusions RTK GPS elevations do not indicate abnormal distortion from multipath signal reflections RTK GPS unaffected by weather Day-long locomotive survey in torrential rain Implications Follow up on resurfacing project: Operator skill and judgement used during regrading Not data driven - what are the as-built grades? Implies additional research needed to implement RTK GNSS measurement on track resurfacing equipment Similar to COTS machine control applications Experiment 2Track Alinement Determine degree of curvature (Dc) from an RTK equipped track inspector’s Hi-Rail during routine inspection of mainline track.  Degree of Curvature (Dc) Using a 62 foot chord results in  MCO measurement in inches closely approximating Dc Visual Track Inspection FRA Mandate Every track at least every 2 weeks Inspection duties include light repair Rail companies specify greater frequency based on Load MGT/yr Cargo Inspection History Research Question Can RTK GNSS instrumentations mounted to a track inspector’s Hi-Rail be used to determine the degree of curvature (Dc) across mainline track comparable with specialized track geometry cars? Mainline Track Alinement Purpose &amp; Objectives Determine the Dc across a track inspectors area of responsibility Equip a track inspector’s Hi-Rail with RTK GNSS instruments in communication with a VRS server to maximize observation accuracy Observe track position continuously across an inspector’s 29 mile area of responsibility at track speed between 10 and 40 mph Model the FRA sting line method for determining Dc Verify model output against rail company track charts Compare Dc with track geometry car Dc measurement Modeling Dc from XYZ Experiment 2Results Continuous segment of mainline track 29 mile traverse of a track inspector’s area of responsibility Networked CORS &amp; VRS server minimize proximity error Expected LOS due to overhead obstructions Survey	Observations A	18,095 B	15,225 C	22,866 D	19,993 E	21,001 ResultsXYZ to Dc Model Output MP 494-495 verify curves MP 499-500 tangent MP 500-501 exit spiral MP 521-521 LOS Model Discrepancies withRail Company Track Charts MP 508.9 curve direction TC: 1º18’ right Model: ... left MP 521.15 curve length TC: 1º00’R @ 0.15 mi Model: 1º00’R @ 0.65 mi CSX GMRS-1 N = 3,253 μDc = -0.0264 σDc = 0.131 Hi-Rail N = 222 μDc = -0.0042 σDc = 0.279 Comparison of Tangent Dc with CSX Geometry Car GMRS1 Conclusions XYZ to Dc model verified by rail company information Hi-Rail not equivalent to track geometry car RTK capable of detecting actionable defects Track classes 1-4 Hi-Rail &amp; XYZ to Dc of present model near the limit of the instrumentation ±1 cm (0.39 in) @ 95% CI Present GNSS signals for continuous track observations impeded by LOS from overhead obstructions Alinement Defects Implications Further study &amp; improved model may produce actionable track alinement information from Hi-Rail borne RTK GNSS measurements. Additional GNSS sensor(s) would expand axis of track measurement for determining Superelevation Grade Modeling twist Experiment 3Determining Track Occupancy Assess the ability of RTK GNSS to determine the track occupancy of a track vehicle meeting the definition of a location determination system. FRA Wireless Track Occupancy  1995 Federal Railway Administration Report Motivation Track occupancy presently determined by wired track circuits Insulated joints between CWR segments Axle completes low voltage circuit across rails Proximity switches (magnetic) Loop detectors Replacement value for signals: $125,000 / mile (Moorman)  No wired circuits or signals = “Dark Territory” Motivation Railroad Safety Improvement Act of 2008 Class I railroads, as well as intercity passenger and commuter railroads, must install PTC on main line tracks by Dec. 31, 2015. Act defines mainline as &gt; 5 MGT/Y   Research Postulates thatRTK GNSS will simplify LDS  GNSS SVs cellular or wayside VHF RTK beacon  Train Location Research Question Can RTK GNSS determine track occupancy meeting the FRA specifications for a location determination system? Track OccupancyPurpose &amp; Objectives Determine if RTK GNSS track measurement can meet the definition of a LDS Develop a test for determining track occupancy on multiple parallel track Tangent segment Circular curve segment Observation Data Mainline tangent and circular track segments Three parallel tracks Five traverses Tangent: CSX Kanawha SubdivisionMP 498.9 to 500.2 Curve: Kanawha SubdivisionMP 500.2 to 500.7 Tangent Segment First traverse designated as reference Linear regression of reference traverse to establish tangent coefficients for reference line aX + bY + c = 0 Distance to reference tangent (cross track error) determined from subsequent traverse observations  Distance to reference centerline is cross track error (Allen, et.al.) Track OccupancyNull Hypothesis - Tangent Z-test uses standard deviation of X-track distances from reference tangent dataset Eliminate track roughness from test tracks Test that the mean is a random sample from a normal population with a cross track error less than half a centerline to centerline distance of 11.5 feet CI = 100(1-α)  α=0.00001 Hypothesis Test Result Tangent Track Track	N	μd	σd	Reject h0? 2A-2A	1,189	0.13’	0.08’	no 2B-2A	1,244	0.13’	0.08’	no 3C-2A	1,152	13.10’	0.35’	yes 1D-2A	1,158	13.51’	0.20’	yes 3E-2A	1,156	13.05’	0.31’	yes Curve Segment Circular portion (full body) of curve First traverse reference centerline Regression to establish curve coefficients Origin &amp; radius Distance to reference curve determined from subsequent traverse observations Hypothesis Test Result Circular Curve Track Tracktraverse	N	μr	σr	Reject h0? 2A-2A	85	0.00’	0.03’	no 2B-2A	98	0.03’	0.04’	no 3C-2A	98	-14.53’	0.16’	yes 1D-2A	97	13.93’	0.10’	yes 3E-2A	92	-14.57’	0.14’	yes Conclusions Given a priori track centerline locations and a network RTK VRS server, track occupancy can be determined by single epoch RTK observations over a wide area meeting the accuracy requirement for an LDS. Implications Simplified occupancy determination local to an LDS onboard a locomotive, Hi-Rail, or other track vehicle RTK receiver, communication with VRS, database, processor Self-determined RTK positions transmitted through wayside voice repeater enable real time tracking or track occupancy determination external to track vehicle Can be applied to any track vehicle Applicable to individual on-track workers Transportation Implications Highway: vehicle/human interaction Lane deviation alerts driver Air: Precision approach and landing To any airfield w/o barometric altimeter Waterway: River bed profile mapping &amp; water level for bridge clearance Pipelines: Above ground monitoring for seasonal/abnormal effects Civil &amp; Mining Engineering RTK VRS Networks enable Structure monitoring (further study: diurnal, seasonal) Bridge Dam Coal slurry impoundment Self-guided Vehicles"/>
+    <title></title>
+    <script type="text/javascript" language="javascript">
+//      <![CDATA[
+            var images = new Array (99);
+            images[0] = "defence.html_files/defence.001-001.png";
+            images[1] = "defence.html_files/defence.002-001.png";
+            images[2] = "defence.html_files/defence.003-001.png";
+            images[3] = "defence.html_files/defence.004-001.png";
+            images[4] = "defence.html_files/defence.005-001.png";
+            images[5] = "defence.html_files/defence.005-002.png";
+            images[6] = "defence.html_files/defence.005-003.png";
+            images[7] = "defence.html_files/defence.005-004.png";
+            images[8] = "defence.html_files/defence.005-005.png";
+            images[9] = "defence.html_files/defence.006-001.png";
+            images[10] = "defence.html_files/defence.007-001.png";
+            images[11] = "defence.html_files/defence.007-002.png";
+            images[12] = "defence.html_files/defence.008-001.png";
+            images[13] = "defence.html_files/defence.009-001.png";
+            images[14] = "defence.html_files/defence.010-001.png";
+            images[15] = "defence.html_files/defence.011-001.png";
+            images[16] = "defence.html_files/defence.012-001.png";
+            images[17] = "defence.html_files/defence.013-001.png";
+            images[18] = "defence.html_files/defence.014-001.png";
+            images[19] = "defence.html_files/defence.015-001.png";
+            images[20] = "defence.html_files/defence.015-002.png";
+            images[21] = "defence.html_files/defence.016-001.png";
+            images[22] = "defence.html_files/defence.017-001.png";
+            images[23] = "defence.html_files/defence.018-001.png";
+            images[24] = "defence.html_files/defence.019-001.png";
+            images[25] = "defence.html_files/defence.019-002.png";
+            images[26] = "defence.html_files/defence.019-003.png";
+            images[27] = "defence.html_files/defence.019-004.png";
+            images[28] = "defence.html_files/defence.020-001.png";
+            images[29] = "defence.html_files/defence.020-002.png";
+            images[30] = "defence.html_files/defence.020-003.png";
+            images[31] = "defence.html_files/defence.020-004.png";
+            images[32] = "defence.html_files/defence.021-001.png";
+            images[33] = "defence.html_files/defence.022-001.png";
+            images[34] = "defence.html_files/defence.023-001.png";
+            images[35] = "defence.html_files/defence.024-001.png";
+            images[36] = "defence.html_files/defence.025-001.png";
+            images[37] = "defence.html_files/defence.026-001.png";
+            images[38] = "defence.html_files/defence.027-001.png";
+            images[39] = "defence.html_files/defence.028-001.png";
+            images[40] = "defence.html_files/defence.029-001.png";
+            images[41] = "defence.html_files/defence.030-001.png";
+            images[42] = "defence.html_files/defence.031-001.png";
+            images[43] = "defence.html_files/defence.031-002.png";
+            images[44] = "defence.html_files/defence.032-001.png";
+            images[45] = "defence.html_files/defence.033-001.png";
+            images[46] = "defence.html_files/defence.034-001.png";
+            images[47] = "defence.html_files/defence.035-001.png";
+            images[48] = "defence.html_files/defence.036-001.png";
+            images[49] = "defence.html_files/defence.037-001.png";
+            images[50] = "defence.html_files/defence.037-002.png";
+            images[51] = "defence.html_files/defence.037-003.png";
+            images[52] = "defence.html_files/defence.037-004.png";
+            images[53] = "defence.html_files/defence.037-005.png";
+            images[54] = "defence.html_files/defence.038-001.png";
+            images[55] = "defence.html_files/defence.038-002.png";
+            images[56] = "defence.html_files/defence.038-003.png";
+            images[57] = "defence.html_files/defence.038-004.png";
+            images[58] = "defence.html_files/defence.038-005.png";
+            images[59] = "defence.html_files/defence.038-006.png";
+            images[60] = "defence.html_files/defence.038-007.png";
+            images[61] = "defence.html_files/defence.039-001.png";
+            images[62] = "defence.html_files/defence.039-002.png";
+            images[63] = "defence.html_files/defence.039-003.png";
+            images[64] = "defence.html_files/defence.039-004.png";
+            images[65] = "defence.html_files/defence.039-005.png";
+            images[66] = "defence.html_files/defence.039-006.png";
+            images[67] = "defence.html_files/defence.040-001.png";
+            images[68] = "defence.html_files/defence.041-001.png";
+            images[69] = "defence.html_files/defence.041-002.png";
+            images[70] = "defence.html_files/defence.042-001.png";
+            images[71] = "defence.html_files/defence.043-001.png";
+            images[72] = "defence.html_files/defence.044-001.png";
+            images[73] = "defence.html_files/defence.044-002.png";
+            images[74] = "defence.html_files/defence.045-001.png";
+            images[75] = "defence.html_files/defence.046-001.png";
+            images[76] = "defence.html_files/defence.047-001.png";
+            images[77] = "defence.html_files/defence.047-002.png";
+            images[78] = "defence.html_files/defence.048-001.png";
+            images[79] = "defence.html_files/defence.049-001.png";
+            images[80] = "defence.html_files/defence.050-001.png";
+            images[81] = "defence.html_files/defence.051-001.png";
+            images[82] = "defence.html_files/defence.051-002.png";
+            images[83] = "defence.html_files/defence.051-003.png";
+            images[84] = "defence.html_files/defence.051-004.png";
+            images[85] = "defence.html_files/defence.051-005.png";
+            images[86] = "defence.html_files/defence.052-001.png";
+            images[87] = "defence.html_files/defence.053-001.png";
+            images[88] = "defence.html_files/defence.054-001.png";
+            images[89] = "defence.html_files/defence.054-002.png";
+            images[90] = "defence.html_files/defence.054-003.png";
+            images[91] = "defence.html_files/defence.054-004.png";
+            images[92] = "defence.html_files/defence.054-005.png";
+            images[93] = "defence.html_files/defence.055-001.png";
+            images[94] = "defence.html_files/defence.056-001.png";
+            images[95] = "defence.html_files/defence.057-001.png";
+            images[96] = "defence.html_files/defence.058-001.png";
+            images[97] = "defence.html_files/defence.059-001.png";
+            images[98] = "defence.html_files/defence.060-001.png";
+            var index = 0;
+            function WindowLoaded(evt)
+            {
+                document.body.onselectstart = function () { return false; };
+            }
+            function Step(i)
+            {
+                GoTo(index + i)
+            }
+            function GoTo(newIndex)
+            {
+                if(newIndex >= 0 && newIndex < images.length)
+                {
+                    index = newIndex;
+                    document.Slideshow.src = images[index];
+                }
+            }
+//      ]]>
+    </script>
+</head>
+<body bgcolor="black" onload='WindowLoaded(event);'>
+    <p align="center">
+        <br/>
+        <br/>
+        <img name="Slideshow" alt="" src="defence.html_files/defence.001-001.png" onclick="Step(1)"/>
+        <br/>
+        <br/>
+        <input type="image" src="defence.html_files/home.png" onclick="GoTo(0)"/>
+        &nbsp;&nbsp;&nbsp;
+        <input type="image" src="defence.html_files/prev.png" onclick="Step(-1)"/>
+        <input type="image" src="defence.html_files/next.png" onclick="Step(1)"/>
+    </p>
+</body>
+</html>

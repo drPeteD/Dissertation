@@ -1,0 +1,5 @@
+crvAX = [crvA.easting.*2 crvA.northing.*2 -ones(numel(crvA.northing),1)]
+crvAY = [crvA.easting.^2 + crvA.northing.^2]
+[b,bint,r,stats] = regress(crvAY,crvAX)
+b(3)-(b(1).^2+b(2).^2)
+r = dist2pts(1245217.14,13955358.41,crvB.easting,crvB.northing)-2276.11

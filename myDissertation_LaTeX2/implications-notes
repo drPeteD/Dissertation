@@ -1,0 +1,24 @@
+The safety aspects of a yard survey by RTK has implications for yard managers, hump yard engineers, and on-track workers. Personnel safety is improved by removing them from potentially hazardous situations. Track closures and railcar reroutes are not mandatory to determine yard grades.
+
+Increased observation density has implications in improving material take-offs estimates and the finished grade quality for yard resurfacing projects.
+
+Increased observation density, combined with a diligent attention to as-build grades during resurfacing, has implications for reducing variability during the humping process.
+
+Reducing time-to-completion for a yard survey is of importance to planners and hump yard engineers in estimating yard survey costs.
+
+The use of a yard trim locomotive is of importance to yard managers in estimating the demand on yard resources in supporting a profile survey.
+
+The low impact to yard operations is of importance to traffic planners, managers, and hump yard engineering management in eliminated unidentifiable costs caused by track closures and car rerouting.
+
+
+The inability to detect anomalous track position due to multi-path signal reflections is of importance to hump yard engineers by eliminating a potential measurement error source.
+
+Implications for track engineering and maintenance is that track alinement deploying commercial off-the-shelf products provides an immediately accessible proven method for continuous track behavior monitoring. With few exceptions, every state within the continental US has some dense network of CORS stations available for public use.
+
+Increased track position monitoring frequency has implications for track engineering managers and superintendents in studying the behavior of track and as a method for establishing track asset change management procedures.
+
+The model relies on establishes fixed locations for mile post reference positions when processing track observations between mile posts. Establishing ``virtual mileposts'' has implications for track engineering managers and superintendents in considering how to bridge legacy track reference marks with modern absolute positioning.
+
+RTK and/or VRS services are presently available from almost every state, either as a free state service or private for-profit. The growing availability of wireless data and the use of localized VHF/UHF data removes the usefulness of the NDGPS in all but the most remote locations. The wide availability of RTK services has implications for the continued funding of NDGPS.
+
+Track location transmitted by rolling stock combined with accurate yard centerlines has implications for hump control systems using continuous rail car occupancy rather than timers and switches or video analytics in determining ``right track, right train'' consist\footnote{aka clean consist} makeup. 

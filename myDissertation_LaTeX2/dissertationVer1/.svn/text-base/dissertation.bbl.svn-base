@@ -1,0 +1,225 @@
+\begin{thebibliography}{10}
+
+\bibitem{2006AllenAssetMap}
+Leonard Allen, J.~Brent Mason, and Jeff Stevens.
+\newblock {Rail Borne Track Asset Mapping}.
+\newblock In {\em Proceedings of the AREMA 2006 Annual Conferences}. American
+  Railway Engineering and Maintenance-of-Way Association, June 2006.
+
+\bibitem{2007barnes}
+Gil Barnes.
+\newblock {Head of CSX Hump Yard Engineering}.
+\newblock Personal interview, May 16 2007.
+
+\bibitem{2004beshers}
+Eric~W. Beshers, James~R. Blaze, and Randolph~R. Resor.
+\newblock {Scheduled Railroading and The Viability of Carload Service}.
+\newblock Technical report, Office of Policy, Federal Railroad Administration,
+  March 16 2004.
+
+\bibitem{2009bright}
+Ron Bright.
+\newblock {Head of CSX Track Inspection}.
+\newblock Personal interview, May 19 2009.
+
+\bibitem{HumpOpsVid}
+Peter Dailey.
+\newblock Hump operations.
+\newblock www.youTube.com, May 2008.
+
+\bibitem{CarStallVid}
+Peter~J Dailey.
+\newblock {Hump Yard Car Stall Blocking Group Switch}.
+\newblock Internet, 2008.
+
+\bibitem{TEQCsoftware}
+Lou Epstey.
+\newblock {UNAVCO Translate, Edit, and Quality Check} software, March 2010.
+
+\bibitem{1995FRADiffe}
+{FRA}.
+\newblock {Differential {GPS}: An Aid to Positive Train Control}.
+\newblock Technical report, {Federal Railroad Administration}, 1995.
+
+\bibitem{2000FRA_gps_ant}
+{FRA}.
+\newblock {Analysis of Antennas to Improve Differential Global Positioning
+  System ({DGPS}) Reception on Locomotives}.
+\newblock Research result, {Federal Railroad Administration}, August 2000.
+
+\bibitem{2007FRATrack}
+{FRA}.
+\newblock {\em {Track Safety Standards Compliance Manual}}.
+\newblock {Federal Railroad Administration, Office of Safety Assurance and
+  Compliance Track and Structures Division}, Washington, D.C., April 2007.
+
+\bibitem{FugroED07}
+{Fugro EarthData, Inc.}
+\newblock {LiDAR Mapping Fact Sheet}, 2007.
+
+\bibitem{2005fugro}
+{Fugro N.V.}
+\newblock {OmniSTAR Worldwide DGPS Service}, September 2009.
+
+\bibitem{2006glaus}
+Ralph Glaus.
+\newblock {\em {Kinematic Track Surveying by Means of a Multi-Sensor
+  Platform}}.
+\newblock PhD thesis, Swiss Federal Institute Of Technology, 2006.
+
+\bibitem{1964hickerson}
+Thomas~F. Hickerson.
+\newblock {\em Route Location and Design}.
+\newblock McGraw-Hill Book Company, New York, New York, fifth edition, 1964.
+
+\bibitem{KYCORS}
+{KGS}.
+\newblock {Kentucky Geodetic Survey's Geodetic Control in Kentucky}, October
+  2009.
+
+\bibitem{KraftPaten00}
+Edwin~R. Kraft.
+\newblock {Priority car sorting in railroad classification yards using a
+  continuous multi-stage method.}
+\newblock {USPTO 6,418,854}, July 16, 2002.
+
+\bibitem{2004leick}
+Alfred Leick.
+\newblock {\em {GPS} Satellite Surveying}.
+\newblock John Wiley and Sons, Hoboken, NY, 3rd edition, 2004.
+
+\bibitem{MDOTvrs}
+{MDOT}.
+\newblock {Michigan Department Of Transporation CORS}, September 2009.
+
+\bibitem{2007lockheed}
+Thomas~J. Meyer and Thomas~R. Metzger.
+\newblock {Locomotive Location System and Method}.
+\newblock {USPTO patent 7,209,810}, {April 24,} 2007.
+
+\bibitem{2006moorman}
+Charles~W. Moorman.
+\newblock {Freight Rail Perspectives on Capacity Issues: Summary of Remarks}.
+\newblock In {\em Workshop to Support FRA Railroad Research and Development}.
+  Transportation Research Board, April 5-6 2006.
+
+\bibitem{NCvrs}
+{NCGS}.
+\newblock {North Carolina Geodetic Survey}, October 2009.
+
+\bibitem{1996NSTC-6}
+{NSC Office of Science and Technology Policy}.
+\newblock {NSTC-6 U.S. Global Positioning System Policy}.
+\newblock Presidential Directive, March 1996.
+
+\bibitem{ODOTvrs}
+{ODOT's}.
+\newblock {Ohio Department of Transportation Aerial Engineering Virtual
+  Rreference System Real Time Kinematic Network}, September 2009.
+
+\bibitem{2008USDoT_NDGPS}
+Gary Pruitt and Carl~Eric Fly.
+\newblock {NDGPS Assessment Final Report}.
+\newblock Technical Report DTFH61-04-D-00002, {United States Department of
+  Transportation}, March 2008.
+
+\bibitem{ResorPTC}
+Randolph~R. Resor, Michail~E. Smith, and Pradee Patel.
+\newblock {Positive Train Control (PTC): Calculating Benefits and Cost of a New
+  Railroad Control Technology}.
+\newblock {\em {Journal of the Transportation Research Forum}}, 44(2):77--98,
+  2005.
+
+\bibitem{ART2010}
+{Richard Begley, Peter Dailey, Carlos Ramirez Alejandro Sanchez}.
+\newblock {Autonomous Railcar Tracking}.
+\newblock FRA Research Result, 2010 (in press).
+
+\bibitem{Szwilski03}
+Anthony Szwilski, Richard Begley, John Ball, and Peter Dailey.
+\newblock {Multi-sensor Mobile System to Monitor Track Super structure and
+  Substructure: Initial Studies with Non-Invasive Technologies}.
+\newblock In {\em {National AREMA Conference}}, Chicago, Illinois, 2003.
+  American Railway Engineering and Maintenance-of-Way Association.
+
+\bibitem{2005szwilski}
+Anthony~B. Szwilski, W.~Brad Kerchof, John Tomlin, Peter~J. Dailey, Zhibin
+  Sheng, and Richard Begley.
+\newblock {Rapid Surveying Of A Classification Yard Employing High-Accuracy
+  DGPS (RTK)}.
+\newblock In {\em Proceedings of the AREMA 2005 Annual Conferences}. The
+  American Railway Engineering and Maintenance of Way Association, September
+  25-28 2005.
+
+\bibitem{matlab09}
+{The Mathworks, Inc.}
+\newblock {\em {Curve Fitting Toolbox 2}}.
+\newblock {The MathWorks, Inc.}, 3 Apple Hill Drive Natick, MA 01760-2098,
+  {Online only: Revised for Version 2.1 (Release 2009b)} edition, September
+  2009.
+
+\bibitem{2002HumpTrains}
+{TRAINS}.
+\newblock {North America's Hump Yards}.
+\newblock {\em {TRAINS Magazine}}, June and July 2002.
+
+\bibitem{Trimble5700}
+{Trimble Navigation Limited}, 5475 Kellenburger Road Dayton Ohio 45424-1099.
+\newblock {\em Trimble 5700 User Guide}, {Revision A} edition, September 2003.
+
+\bibitem{TrimbleR7gnss}
+{Trimble Navigation Limited}.
+\newblock {\em Trimble R7 GNSS User Guide}, version 4.0 revision a edition,
+  2009.
+
+\bibitem{2008pmv}
+{Union Pacific Railroad}.
+\newblock {Union Pacific Railroad Precision Measurement Vehicle Operations},
+  2008.
+
+\bibitem{SafetyAct2008}
+{United States Code}.
+\newblock {Rail Safety Improvement Act of 2008, Public Law 110--432}.
+\newblock GPO, OCT. 16 2008.
+
+\bibitem{USNavalObs}
+{United States Naval Observatory}.
+\newblock {Block II Satellite Information}, March 2010.
+
+\bibitem{49CFR213D}
+{USC}.
+\newblock {United States Code, Title 49, Part 213, Subpart C - Track Geometry},
+  2009.
+
+\bibitem{49CFR214300}
+{USC}.
+\newblock {United States Code, Title 49 Part 214, Subpart C, Roadway Worker
+  Protection}, 2009.
+
+\bibitem{49CFR214500}
+{USC}.
+\newblock {United States Code, Title 49, Part 214, Subpart D, On-Track Roadway
+  Maintenance Machines and Hi-Rail Vehicles}, 2009.
+
+\bibitem{2001DoDGPSperf}
+{USDOD}.
+\newblock {Global Positioning System Standard Postitioning Service Performance
+  Standard}.
+\newblock Technical report, {US Department Of Defense}, 2001.
+
+\bibitem{RITAtransStats08}
+{USDOT}.
+\newblock {National Transportation Statistics, Annual Publication}, 2008.
+
+\bibitem{2009vanPelt}
+Rodney Van~Pelt.
+\newblock {CSX Roadmaster}.
+\newblock Personal interview, November 5, 2009.
+
+\bibitem{WAAS09}
+{WAAS Test Team}.
+\newblock {Wide Area Augmentation System Performance Analysis Report}.
+\newblock Quarterly Report~29, FAA/William J. Hughes Technical Center, Atlantic
+  City International Airport, NJ 08405, July 2009.
+
+\end{thebibliography}

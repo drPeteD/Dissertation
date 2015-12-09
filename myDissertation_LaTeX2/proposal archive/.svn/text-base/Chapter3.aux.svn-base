@@ -1,0 +1,112 @@
+\relax 
+\@writefile{lof}{\addvspace {10pt}}
+\@writefile{lot}{\addvspace {10pt}}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {3}Methodology}{19}{chapter.3}}
+\citation{49CFR214300}
+\citation{49CFR214500}
+\@writefile{toc}{\contentsline {section}{Research Design and Data Collection}{20}{section*.15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Research Plan}}{20}{figure.3.1}}
+\newlabel{fig:plan}{{\M@TitleReference {3.1}{Research Plan}}{20}{Research Plan\relax }{figure.3.1}{}}
+\citepageref{49CFR214300}{20}
+\citation{2004leick,Kaplan}
+\citepageref{49CFR214500}{21}
+\citepageref{2004leick}{21}
+\citepageref{Kaplan}{21}
+\@writefile{toc}{\contentsline {subsection}{Experiment One: Vertical Precision}{22}{section*.16}}
+\newlabel{ResDHmpYd}{{\M@TitleReference {3}{Experiment One: Vertical Precision}}{22}{Experiment One: Vertical Precision\relax }{section*.16}{}}
+\citation{2007FRATrack}
+\@writefile{toc}{\contentsline {subsection}{Experiment Two: Horizontal Accuracy}{23}{section*.17}}
+\newlabel{Ex2Design}{{\M@TitleReference {3}{Experiment Two: Horizontal Accuracy}}{23}{Experiment Two: Horizontal Accuracy\relax }{section*.17}{}}
+\citepageref{2007FRATrack}{23}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Horizontal Alinement}}{24}{figure.3.2}}
+\newlabel{fig:Alinement}{{\M@TitleReference {3.2}{Horizontal Alinement}}{24}{Horizontal Alinement\relax }{figure.3.2}{}}
+\@writefile{toc}{\contentsline {subsection}{Experiment Three: Reliability}{24}{section*.18}}
+\@writefile{toc}{\contentsline {section}{Instrumentation}{25}{section*.19}}
+\newlabel{instrumentation}{{\M@TitleReference {3}{Instrumentation}}{25}{Instrumentation\relax }{section*.19}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces GPS/GNSS Instrumentation}}{26}{table.3.1}}
+\newlabel{tab:instruments}{{\M@TitleReference {3.1}{GPS/GNSS Instrumentation}}{26}{GPS/GNSS Instrumentation\relax }{table.3.1}{}}
+\@writefile{toc}{\contentsline {section}{Data Validity and Integrity}{26}{section*.20}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{\ignorespaces Data Estimate by Experiment}}{26}{table.3.2}}
+\newlabel{tab:dataEst}{{\M@TitleReference {3.2}{Data Estimate by Experiment}}{26}{Data Estimate by Experiment\relax }{table.3.2}{}}
+\citation{NGSBluebookX1}
+\citepageref{NGSBluebookX1}{27}
+\@writefile{toc}{\contentsline {section}{Data Analysis}{27}{section*.21}}
+\@writefile{toc}{\contentsline {subsection}{Experiment 1: Vertical Precision}{28}{section*.22}}
+\citation{1964hickerson}
+\citation{1964hickerson}
+\@writefile{toc}{\contentsline {subsection}{Experiment 2: Horizontal Accuracy}{30}{section*.23}}
+\newlabel{trackAnalysis}{{\M@TitleReference {3}{Experiment 2: Horizontal Accuracy}}{30}{Experiment 2: Horizontal Accuracy\relax }{section*.23}{}}
+\citepageref{1964hickerson}{30}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Modeling the String Lining Method from RTK Track Observations}}{31}{figure.3.3}}
+\newlabel{fig:strLining}{{\M@TitleReference {3.3}{Modeling the String Lining Method from RTK Track Observations}}{31}{Modeling the String Lining Method from RTK Track Observations\relax }{figure.3.3}{}}
+\citepageref{1964hickerson}{31}
+\@writefile{toc}{\contentsline {subsection}{Experiment 3: Reliability}{32}{section*.24}}
+\@writefile{toc}{\contentsline {section}{Summary}{33}{section*.25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Research Timeline}}{35}{figure.3.4}}
+\newlabel{fig:timeline}{{\M@TitleReference {3.4}{Research Timeline}}{35}{Research Timeline\relax }{figure.3.4}{}}
+\@setckpt{Chapter3}{
+\setcounter{page}{36}
+\setcounter{equation}{1}
+\setcounter{enumi}{4}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{3}
+\setcounter{mpfootnote}{0}
+\setcounter{@memmarkcntra}{0}
+\setcounter{storedpagenumber}{1}
+\setcounter{book}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{3}
+\setcounter{section}{0}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+\setcounter{vslineno}{0}
+\setcounter{poemline}{0}
+\setcounter{modulo@vs}{0}
+\setcounter{memfvsline}{0}
+\setcounter{verse}{0}
+\setcounter{chrsinstr}{0}
+\setcounter{poem}{0}
+\setcounter{newflo@tctr}{4}
+\setcounter{@contsubnum}{0}
+\setcounter{maxsecnumdepth}{0}
+\setcounter{pagenote}{0}
+\setcounter{memfbvline}{0}
+\setcounter{bvlinectr}{0}
+\setcounter{cp@cntr}{0}
+\setcounter{ism@mctr}{0}
+\setcounter{xsm@mctr}{0}
+\setcounter{csm@mctr}{0}
+\setcounter{ksm@mctr}{0}
+\setcounter{xksm@mctr}{0}
+\setcounter{cksm@mctr}{0}
+\setcounter{msm@mctr}{0}
+\setcounter{xmsm@mctr}{0}
+\setcounter{cmsm@mctr}{0}
+\setcounter{bsm@mctr}{0}
+\setcounter{workm@mctr}{0}
+\setcounter{sheetsequence}{42}
+\setcounter{lastsheet}{44}
+\setcounter{lastpage}{40}
+\setcounter{figure}{4}
+\setcounter{lofdepth}{1}
+\setcounter{table}{2}
+\setcounter{lotdepth}{1}
+\setcounter{parentequation}{0}
+\setcounter{float@type}{4}
+\setcounter{ContinuedFloat}{0}
+\setcounter{KVtest}{0}
+\setcounter{subfigure}{0}
+\setcounter{subfigure@save}{0}
+\setcounter{subtable}{0}
+\setcounter{subtable@save}{0}
+\setcounter{Item}{29}
+\setcounter{memhycontfloat}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{section@level}{1}
+}

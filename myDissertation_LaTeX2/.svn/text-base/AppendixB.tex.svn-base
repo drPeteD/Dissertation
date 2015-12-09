@@ -1,0 +1,370 @@
+% !TEX root = dissertation2.tex
+\chapter{Appendix B}
+\label{appB}
+\large
+
+\noindent Experiment 2: Determining Horizontal Alinement of Mainline Track with HiRail Mounted RTK GNSS.
+
+Subject area: CSX Kanawha Subdivision, mile post reference 494-523 Barboursville, West Virginia to Russell, Kentucky
+\section{Contents}
+\begin{itemize}
+	\item Rail company track charts and RTK GNSS alinement model output, Kanawha Subdivision mile post 494 to 523.
+	\item Listing of software modeling the string lining method to determine the degree of curvature from RTK GNSS measurements.
+\end{itemize}
+%
+\clearpage
+%
+% CSX track chart, MP 492 to 496
+%
+\begin{landscape}
+\addcontentsline{dissertation2.toc}{section}{Track chart, MP 492 to 496}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.75]{data/alinement/CSXtrackChart492-496.pdf}
+	\caption{CSX Track Chart, Kanawha Subdivision, mile post 492 to 496.}
+	\label{CSX492to496}
+\end{center}
+\end{figure}
+\end{landscape}
+%
+% My track chart, MP 494 to 496
+%
+\addcontentsline{dissertation2.toc}{section}{Model Output, MP 494 to 496}
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP494-495} \\
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 494-496}\label{494to496}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP495-496}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 495-496}\label{495to496}
+\end{center}
+\end{figure}
+%
+\clearpage
+%
+% CSX track chart, MP 496 to 501
+%
+\addcontentsline{dissertation2.toc}{section}{Track chart, MP 496 to 501}
+\begin{landscape}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.80]{data/alinement/CSXtrackChart496-501.pdf}
+	\caption{Track Chart, Kanawha Subdivision, mile post 496 to 501.}
+	\label{CSX496to501}
+\end{center}
+\end{figure}
+\end{landscape}
+%
+% My track charts, MP 496 to 498
+%
+\addcontentsline{dissertation2.toc}{section}{Model Output, MP 496 to 501}
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP496-497}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 496-497}\label{496to497}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP497-498}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 497-498}\label{497to498}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 498 to 500
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP498-499}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 498-499}\label{498to499}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP499-500}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 499-500}\label{499to500}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 500 to 501
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP500-501}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 500-501}\label{500to501}
+\end{center}
+\end{figure}
+%
+% CSX track chart, MP 501 to 506
+%
+\addcontentsline{dissertation2.toc}{section}{Track chart, MP 501 to 506}
+\begin{landscape}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.80]{data/alinement/CSXtrackChart501-506.pdf}
+	\caption{Track Chart, Kanawha Subdivision, mile post 501 to 506.}
+	\label{CSX501to506}
+\end{center}
+\end{figure}
+\end{landscape}
+%
+% My track charts, MP 501 to 503
+%
+\addcontentsline{dissertation2.toc}{section}{Model Output, MP 501 to 506}
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP501-502}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 501-502}\label{501to502}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP502-503}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 502-503}\label{502-503}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 503 to 505
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP503-504}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 503-504}\label{503to504}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP504-505}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 504-505}\label{504-505}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 505 to 506
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP505-506}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 505-506}\label{505to506}
+\end{center}
+\end{figure}
+%
+% CSX track chart, MP 506 to 511
+%
+\addcontentsline{dissertation2.toc}{section}{Track chart, MP 506 to 511}
+\begin{landscape}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.80]{data/alinement/CSXtrackChart506-511.pdf}
+	\caption{Track Chart, Kanawha Subdivision, mile post 506 to 511.}
+	\label{CSX506to511}
+\end{center}
+\end{figure}
+\end{landscape}
+% My track charts, MP 506 to 508
+%
+\addcontentsline{dissertation2.toc}{section}{Model Output, MP 506 to 511}
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP506-507}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 506-507}\label{506to507}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP507-508}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 507-508}\label{507-508}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 508 to 510
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP508-509}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 508-509}\label{508to509}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP509-510}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 509-510}\label{509-510}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 510 to 511
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP510-511}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 510-511}\label{510to511}
+\end{center}
+\end{figure}
+%
+% CSX track chart, MP 511 to 516
+%
+\addcontentsline{dissertation2.toc}{section}{Track chart, MP 511 to 516}
+\begin{landscape}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.80]{data/alinement/CSXtrackChart511-516.pdf}
+	\caption{Track Chart, Kanawha Subdivision, mile post 511 to 516.}
+	\label{CSX511to516}
+\end{center}
+\end{figure}
+\end{landscape}
+%
+% My track charts, MP 511 to 513
+%
+\addcontentsline{dissertation2.toc}{section}{Model Output, MP 511 to 516}
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP511-512}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 511-512}\label{511to512}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP512-513}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 512-513}\label{512-513}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 513 to 515
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP513-514}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 513-514}\label{513to514}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP514-515}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 514-515}\label{514-515}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 515-516
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP515-516}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 515-516}\label{515to516}
+\end{center}
+\end{figure}
+%
+% CSX track chart, MP 516 to 521
+%
+\addcontentsline{dissertation2.toc}{section}{Track chart, MP 516 to 521}
+\begin{landscape}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.80]{data/alinement/CSXtrackChart516-521.pdf}
+	\caption{Track Chart, Kanawha Subdivision, mile post 516 to 521.}
+	\label{CSX516to521}
+\end{center}
+\end{figure}
+\end{landscape}
+%
+% My track charts, MP 516 to 518
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP516-517}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 516-517}\label{516to517}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP517-518}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 509-510}\label{517-518}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 518 to 520
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP518-519}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 518-519}\label{518to519}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP519-520}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 519-520}\label{519-520}
+\end{center}
+\end{figure}
+%
+% My track charts, MP 520 to 521
+%
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP520-521}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 520-521}\label{520to521}
+\end{center}
+\end{figure}
+%
+% CSX track chart, MP 521 to 525
+%
+\addcontentsline{dissertation2.toc}{section}{Track chart, 521 to 525}
+\begin{landscape}
+\begin{figure}
+\begin{center}
+	\vspace{-30pt}
+	\includegraphics[scale=0.80]{data/alinement/CSXtrackChart521-525.pdf}
+	\caption{Track Chart, Kanawha Subdivision, mile post 521 to 525.}
+	\label{CSX521to525}
+\end{center}
+\end{figure}
+\end{landscape}
+%
+% My track charts, MP 521 to 523
+%
+\addcontentsline{dissertation2.toc}{section}{Model Output, MP 521 to 523}
+\begin{figure}
+\vspace{-50pt}
+\begin{center}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP521-522}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 521-522}\label{521to522}
+\vspace{-10pt}
+	\includegraphics[scale=0.55]{data/alinement/KanawhaSub/MP522-523}
+\vspace{-20pt}
+\caption{Hi-Rail Alinement, Kanawha Sub, MP 522-523}\label{522-523}
+\end{center}
+\end{figure}
+%
+\clearpage
+%
+% Software code listing
+\center{\section{String Line Model Functions}}
+\label{software}
+Code listings available by following embedded hyperlink to PDF in code segment title.
+\begin{itemize}
+	\item{\href{run:code/RailAlinementRunner.pdf}{Track alinement runner.m}}: A Matlab script that reads a file containing track mile post locations, reads a file containing center line\footnote{Or other track reference i.e., right, left, gauge, or field side of rail.} observations, call various sub functions to determine and display the ${D_c}$ vs. mile post reference modeled after the string line method.
+	\item{\href{run:code/getIntLinesCircle.pdf}{getIntLinesCircle.m}}: A Matlab function that returns the coordinates of the intersection between a circle, given the origin and radius, with an ordered series of lines defined by Cartesian coordinate pairs.
+	\item{\href{run:code/findMidOrdDistance.pdf}{findMidOrdDistance.m}}: A Matlab function that returns distance between a chord's mid ordinate and an ordered series of line segments defined by (x, y) coordinate pairs.
+	\item{\href{run:code/plotDOC.pdf}{plotDOC.m}}: A Matlab function that plots track ${D_c}$ and elevation profile vs mile post reference; a plan view of track observations; and histogram of ${D_c}$.
+	\item {\href{run:code/slope2Az.pdf}{slope2Az.m}}: A Matlab function that determines an azimuth (and back azimuth) from north in degrees given the input in radians from the +X-axis.
+	\item{\href{run:code/perpDist2line.pdf}{perpDist2line.m}}: A Matlab function that determines the perpendicular distance from a point to a line.
+	\end{itemize}

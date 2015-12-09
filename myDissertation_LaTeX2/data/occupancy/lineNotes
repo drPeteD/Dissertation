@@ -1,0 +1,74 @@
+Slope intercept form: y = mx + b
+
+# The slope is m = y/x - b.
+# The y-intercept is y.
+
+General form: ax + by + c = 0
+
+# The slope of the line is m = -A/B.
+# The y-intercept is Yo = -C/B. 
+
+Slope-intercept to General form.
+Ax + By = C
+By = C - Ax
+
+
+
+The value of the constant C gives the amount that the line is displaced vertically when it crosses the Y intercept
+
+distance from x1,y1 = ax1 + b1 + c / sqrt(a^2 + b^2)
+
+a = -c/b
+b = -c/a
+c = aX + bY
+
+
+##############
+The process is something like how you solve an equation, but in 
+reverse.  In solving an equation, you want to transform it into an
+equivalent equation of the form "y = ?", which you do by taking a
+series of steps that gradually get y by itself.  What you want to do
+here is to transform it into an equation of the form "?x + ?y + ? =
+0", which means that x and y and the constant are all on the same
+side, rather than one variable being alone on the right.
+
+Let's take an example.  Say we're given
+
+  y = (1/2)x - 2/5
+
+We want x, y, and the constant on the same side, so let's just 
+subtract y from both sides and we get
+
+  0 = (1/2)x - y - 2/5
+
+Everything looks right except that the zero is on the left; I've
+already arranged for the terms on the right to be in the right order.
+So we can just write
+
+  (1/2)x - y - 2/5 = 0
+
+Now, there's one thing we can do to make this look nicer; we'd like A,
+B, and C to be whole numbers rather than fractions, since fractions
+complicate things.  To eliminate fractions, we can multiply the whole
+equation by the LCD, which is 10.  Do that, and we get
+
+  (10/2)x - 10y - 20/5 = 0
+
+  5x - 10y - 4 = 0
+
+And we're done!
+
+It was really pretty easy: subtract y from both sides and then
+multiply by the LCD.  But more important than the specific steps is 
+the basic principle, which applies to many kinds of problems: 
+visualize the form you want to end up with, then do one step at a time 
+to get it that way.  We first saw that the y was not with the other 
+terms, so we fixed that; then we fixed up the order; and then we got 
+rid of fractions, which were not part of our image of the ideal 
+"standard" form.
+
+If you have any further questions, feel free to write back.
+
+
+- Doctor Peterson, The Math Forum
+  http://mathforum.org/dr.math/ 

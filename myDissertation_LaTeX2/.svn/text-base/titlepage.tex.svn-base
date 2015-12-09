@@ -1,0 +1,39 @@
+\thispagestyle{empty}
+\begin{center}
+\OnehalfSpacing
+%\Large
+\vspace{20pt}
+REAL TIME KINEMATIC\\
+\mbox{GLOBAL NAVIGATION SATELLITE SYSTEMS}\\
+IN RAILROAD TRANSPORTATION\\
+% Author
+\SingleSpacing 
+	by\\Peter Joseph Dailey\\
+\vspace{20pt}
+	Dissertation Submitted to the\\
+	College of Engineering and Mineral Resources\\
+	at West Virginia University\\
+	in partial fulfillment of the requirements\\
+	for the degree of\\
+\DoubleSpacing
+	DOCTOR OF PHILOSOPHY\\
+	IN CIVIL ENGINEERING\\
+\vspace{50pt}
+% Committee
+\SingleSpacing 
+Approved by\\
+David R. Martinelli, PhD, Committee Chairperson\\
+Darrell R. Dean, PhD\\
+Jim French, PhD\\
+Andrew Nichols, PhD\\
+Avinash Unnikrishnan, PhD\\
+\vspace{50pt}
+
+% Bottom of the page
+{Morgantown, West Virginia}\\
+2010\\
+\vspace{30pt}
+Keywords: transportation engineering rail railroad infrastructure track trackway railway inspection freight GPS GNSS NDGPS real time kinematic RTK VRS positive train control PTC location determination system LDS yard class classification hump survey profile alinement alignment occupancy FRA USDOT \\
+\vspace{10pt}
+\textcopyright~2010 Peter J. Dailey
+\end{center}

@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: signature.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: dedication.aux
+A level-1 auxiliary file: Chapter1.aux
+A level-1 auxiliary file: Chapter2.aux
+A level-1 auxiliary file: Chapter3.aux
+A level-1 auxiliary file: Chapter4.aux
+A level-1 auxiliary file: Chapter5.aux
+A level-1 auxiliary file: AppendixA.aux
+A level-1 auxiliary file: AppendixB.aux
+The style file: plain.bst
+Database file #1: Dissertation.bib
+Warning--entry type for "USNavalObs" isn't style-file defined
+--line 43 of file Dissertation.bib
+Warning--entry type for "teqcSoftware" isn't style-file defined
+--line 66 of file Dissertation.bib
+Warning--entry type for "2008pmv" isn't style-file defined
+--line 177 of file Dissertation.bib
+Warning--entry type for "RITAtransStats08" isn't style-file defined
+--line 221 of file Dissertation.bib
+Warning--entry type for "49CFR213D" isn't style-file defined
+--line 297 of file Dissertation.bib
+Warning--entry type for "NCvrs" isn't style-file defined
+--line 392 of file Dissertation.bib
+Warning--entry type for "KYCORS" isn't style-file defined
+--line 405 of file Dissertation.bib
+Warning--entry type for "49CFR214500" isn't style-file defined
+--line 418 of file Dissertation.bib
+Warning--entry type for "49CFR214300" isn't style-file defined
+--line 430 of file Dissertation.bib
+Warning--entry type for "MDOTvrs" isn't style-file defined
+--line 455 of file Dissertation.bib
+Warning--entry type for "ODOTvrs" isn't style-file defined
+--line 468 of file Dissertation.bib
+Warning--entry type for "2005fugro" isn't style-file defined
+--line 524 of file Dissertation.bib
+Warning--I didn't find a database entry for "MundreyTrackEng"
+Warning--I didn't find a database entry for "2005szwilski_kerchof"
+Warning--I didn't find a database entry for "2009bright.rtrack"
+Warning--I didn't find a database entry for "FGCCstds"
+You've used 42 entries,
+            2118 wiz_defined-function locations,
+            743 strings with 9743 characters,
+and the built_in function-call counts, 9254 in all, are:
+= -- 879
+> -- 369
+< -- 2
++ -- 154
+- -- 112
+* -- 446
+:= -- 1613
+add.period$ -- 115
+call.type$ -- 42
+change.case$ -- 186
+chr.to.int$ -- 0
+cite$ -- 42
+duplicate$ -- 358
+empty$ -- 863
+format.name$ -- 112
+if$ -- 1955
+int.to.chr$ -- 0
+int.to.str$ -- 42
+missing$ -- 12
+newline$ -- 198
+num.names$ -- 80
+pop$ -- 281
+preamble$ -- 1
+purify$ -- 142
+quote$ -- 0
+skip$ -- 277
+stack$ -- 0
+substring$ -- 227
+swap$ -- 41
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 162
+warning$ -- 0
+while$ -- 81
+width$ -- 44
+write$ -- 416
+(There were 16 warnings)

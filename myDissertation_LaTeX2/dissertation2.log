@@ -1,0 +1,2595 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 AUG 2011 12:38
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**dissertation2.tex
+(./dissertation2.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Class memoir Info: An `ifetex' package is being emulated on input line 251.
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count81
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 726.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7377.
+LaTeX Info: Redefining \emph on input line 7385.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert232
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert229
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 11807.
+LaTeX Info: Redefining \! on input line 11809.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/07/23] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package ifetex [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count138
+\Gm@cntv=\count139
+\c@Gm@tempcnt=\count140
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks23
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count141
+))
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks24
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip185
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks25
+\ex@=\dimen157
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen158
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count142
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count143
+\leftroot@=\count144
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count145
+\DOTSCASE@=\count146
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count147
+\c@MaxMatrixCols=\count148
+\dotsspace@=\muskip10
+\c@parentequation=\count149
+\dspbrk@lvl=\count150
+\tag@help=\toks26
+\row@=\count151
+\column@=\count152
+\maxfields@=\count153
+\andhelp@=\toks27
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks28
+\multlinegap=\skip186
+\multlinetaggap=\skip187
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count154
+\Hy@pagecounter=\count155
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count156
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `final' set `true' on input line 3905.
+Package hyperref Info: Hyper figures OFF on input line 4026.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing OFF on input line 4046.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4264.
+\c@Hy@tempcnt=\count157
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4617.
+\Fld@menulength=\count158
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 5701.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing OFF on input line 5716.
+Package hyperref Info: Link coloring OFF on input line 5721.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
+\Hy@abspage=\count159
+\c@Item=\count160
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2010/08/17 v1.15 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count161
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
+\Fld@listcount=\count162
+\c@bookmark@seq@number=\count163
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip188
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box31
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip189
+\LTright=\skip190
+\LTpre=\skip191
+\LTpost=\skip192
+\LTchunksize=\count164
+\LTcapwidth=\dimen169
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count165
+\LT@rows=\count166
+\c@LT@tables=\count167
+\c@LT@chunks=\count168
+\LT@p@ftn=\toks30
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2009/05/18 v2.2 Customized lists
+\enit@toks=\toks31
+\labelindent=\skip193
+\enit@outerparindent=\dimen170
+\enitdp@desc=\count169
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip194
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Landscape pages in PDF (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip195
+\bibsep=\skip196
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count170
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count171
+\U@D=\dimen171
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 60.
+
+Package hyperref Info: Option `unicode' set `false' on input line 60.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 60.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 60.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 60.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 60.
+Package hyperref Info: Option `colorlinks' set `true' on input line 60.
+(./dissertation2.aux (./titlepage.aux) (./abstract.aux) (./acknowledgements.aux
+) (./dedication.aux) (./one.aux) (./two.aux) (./three.aux) (./four.aux)
+(./five.aux) (./AppendixA.aux) (./AppendixB.aux))
+\openout1 = `dissertation2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=622.96706pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=57.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count172
+\scratchdimen=\dimen172
+\scratchbox=\box36
+\nofMPsegments=\count173
+\nofMParguments=\count174
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count175
+\MPscratchDim=\dimen173
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
+\everyMPtoPDFconversion=\toks33
+)
+\AtBeginShipoutBox=\box37
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 68.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count178
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 68.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
+(./dissertation2.out) (./dissertation2.out)
+\@outlinefile=\write4
+\openout4 = `dissertation2.out'.
+
+\openout2 = `titlepage.aux'.
+
+ (./titlepage.tex
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 39.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 39.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 39.
+) [1
+
+
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex)
+
+Class memoir Warning: The material used in the headers is too large
+(13.59999pt) for the given head height (0.0pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 80.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[2
+
+
+]
+\openout2 = `acknowledgements.aux'.
+
+ (./acknowledgements.tex)
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[3
+
+
+]
+\openout2 = `dedication.aux'.
+
+ (./dedication.tex)
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[4
+
+
+] (./dissertation2.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 2.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 2.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 2.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[5
+
+]
+Overfull \hbox (1.91618pt too wide) detected at line 47
+ \T1/lmr/bx/n/10.95 109
+ []
+
+) (./dissertation2.lot
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[6]) (./dissertation2.lof
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[7])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[8]
+\openout2 = `one.aux'.
+
+ (./one.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 3.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[1
+
+
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[2]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[3]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[4]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[5])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[6]
+\openout2 = `two.aux'.
+
+ (./two.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[7
+
+
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[8]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[9] <graphics/AllenTrackRef.png, id=577, 645.41125pt x 256.96pt>
+File: graphics/AllenTrackRef.png Graphic file (type png)
+
+<use graphics/AllenTrackRef.png>
+Package pdftex.def Info: graphics/AllenTrackRef.png used on input line 73.
+(pdftex.def)             Requested size: 216.81pt x 86.31836pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[10 <./graphics/AllenTrackRef.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[11]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[12]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[13]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[14]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[16]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[17])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[18]
+\openout2 = `three.aux'.
+
+ (./three.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[19
+
+
+
+] <graphics/research_plan.png, id=720, 1170.3725pt x 851.18pt>
+File: graphics/research_plan.png Graphic file (type png)
+
+<use graphics/research_plan.png>
+Package pdftex.def Info: graphics/research_plan.png used on input line 32.
+(pdftex.def)             Requested size: 433.62pt x 315.36026pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[20 <./graphics/research_plan.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[21]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[22] <graphics/AhRS_hamlet_BW.png, id=756, 479.1501pt x 721.4955pt>
+File: graphics/AhRS_hamlet_BW.png Graphic file (type png)
+
+<use graphics/AhRS_hamlet_BW.png>
+Package pdftex.def Info: graphics/AhRS_hamlet_BW.png used on input line 80.
+(pdftex.def)             Requested size: 239.57446pt x 360.74686pt.
+
+<graphics/AntennaMountBWcrop.png, id=759, 441.3288pt x 392.4261pt>
+File: graphics/AntennaMountBWcrop.png Graphic file (type png)
+
+<use graphics/AntennaMountBWcrop.png>
+Package pdftex.def Info: graphics/AntennaMountBWcrop.png used on input line 90.
+
+(pdftex.def)             Requested size: 225.4804pt x 200.49992pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[23 <./graphics/AhRS_hamlet_BW.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[24 <./graphics/AntennaMountBWcrop.png>]
+<graphics/antennaAlinement.png, id=786, 832.10875pt x 283.0575pt>
+File: graphics/antennaAlinement.png Graphic file (type png)
+
+<use graphics/antennaAlinement.png>
+Package pdftex.def Info: graphics/antennaAlinement.png used on input line 123.
+(pdftex.def)             Requested size: 332.8376pt x 113.22098pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[25 <./graphics/antennaAlinement.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[26]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[27]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[28] <graphics/HorzAlignment.png, id=830, 843.15pt x 814.04124pt>
+File: graphics/HorzAlignment.png Graphic file (type png)
+
+<use graphics/HorzAlignment.png>
+Package pdftex.def Info: graphics/HorzAlignment.png used on input line 210.
+(pdftex.def)             Requested size: 216.81pt x 209.32295pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[29 <./graphics/HorzAlignment.png>]
+<graphics/HiRailAnt_modBW.png, id=852, 579.41324pt x 565.20988pt>
+File: graphics/HiRailAnt_modBW.png Graphic file (type png)
+
+<use graphics/HiRailAnt_modBW.png>
+Package pdftex.def Info: graphics/HiRailAnt_modBW.png used on input line 245.
+(pdftex.def)             Requested size: 289.7059pt x 282.60425pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[30]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[31 <./graphics/HiRailAnt_modBW.png>]
+<graphics/stringLining.png, id=874, 1236.62pt x 955.57pt>
+File: graphics/stringLining.png Graphic file (type png)
+
+<use graphics/stringLining.png>
+Package pdftex.def Info: graphics/stringLining.png used on input line 284.
+(pdftex.def)             Requested size: 369.88582pt x 285.81294pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[32]
+Overfull \hbox (2.41624pt too wide) in paragraph at lines 306--307
+[]\T1/lmr/m/n/10.95 Constructed a graphic so-lu-tion for com-par-ing $\OML/lmm/
+m/it/10.95 D[]$ \T1/lmr/m/n/10.95 mea-sured by ge-om-e-try car and RTK equipped
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[33 <./graphics/stringLining.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+
+Overfull \hbox (4.19983pt too wide) in paragraph at lines 426--464
+ [] 
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[36]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[37]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[38])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[39]
+\openout2 = `four.aux'.
+
+ (./four.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[40
+
+
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[41]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[42]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[43]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[44] <graphics/508_9curve.png, id=983, 851.18pt x 382.42876pt>
+File: graphics/508_9curve.png Graphic file (type png)
+
+<use graphics/508_9curve.png>
+Package pdftex.def Info: graphics/508_9curve.png used on input line 203.
+(pdftex.def)             Requested size: 255.35596pt x 114.7295pt.
+
+<graphics/521-522curve.png, id=985, 474.77374pt x 456.70625pt>
+File: graphics/521-522curve.png Graphic file (type png)
+
+<use graphics/521-522curve.png>
+Package pdftex.def Info: graphics/521-522curve.png used on input line 215.
+(pdftex.def)             Requested size: 142.43321pt x 137.01292pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[45 <./graphics/508_9curve.png> <./graphics/521-522curve.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[46]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[47]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[48]
+Overfull \vbox (3.71123pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[49] <graphics/HiRailVTGC.png, id=1014, 1027.84pt x 756.8275pt>
+File: graphics/HiRailVTGC.png Graphic file (type png)
+
+<use graphics/HiRailVTGC.png>
+Package pdftex.def Info: graphics/HiRailVTGC.png used on input line 435.
+(pdftex.def)             Requested size: 359.74939pt x 264.89359pt.
+
+<graphics/GMRS_HiRail.png, id=1015, 599.3592pt x 218.4963pt>
+File: graphics/GMRS_HiRail.png Graphic file (type png)
+
+<use graphics/GMRS_HiRail.png>
+Package pdftex.def Info: graphics/GMRS_HiRail.png used on input line 443.
+(pdftex.def)             Requested size: 359.61829pt x 131.09879pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphics/GMRS_tanHist.png, id=1018, 683.353pt x 309.155pt>
+File: graphics/GMRS_tanHist.png Graphic file (type png)
+
+<use graphics/GMRS_tanHist.png>
+Package pdftex.def Info: graphics/GMRS_tanHist.png used on input line 468.
+(pdftex.def)             Requested size: 341.67566pt x 154.57712pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphics/HiRail_tanHist.png, id=1019, 644.809pt x 293.095pt>
+File: graphics/HiRail_tanHist.png Graphic file (type png)
+
+<use graphics/HiRail_tanHist.png>
+Package pdftex.def Info: graphics/HiRail_tanHist.png used on input line 476.
+(pdftex.def)             Requested size: 322.4037pt x 146.54713pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[50 <./graphics/HiRailVTGC.png>]
+
+LaTeX Warning: Text page 51 contains only floats.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[51 <./graphics/GMRS_HiRail.png> <./graphics/GMRS_tanHist.png> <./graphics/HiRa
+il_tanHist.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[52]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[53])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[54]
+\openout2 = `five.aux'.
+
+ (./five.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[55
+
+
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[56]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[57]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[58]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[59]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[60]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[61]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[62]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[63])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[64]
+\openout2 = `AppendixA.aux'.
+
+ (./AppendixA.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[65
+
+
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 29.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[66
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[67
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[68
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[69]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[70]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[71]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./graphics/Hamlet_elevation.pdf): PD
+F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<graphics/Hamlet_elevation.pdf, id=1163, 614.295pt x 794.97pt>
+File: graphics/Hamlet_elevation.pdf Graphic file (type pdf)
+
+<use graphics/Hamlet_elevation.pdf>
+Package pdftex.def Info: graphics/Hamlet_elevation.pdf used on input line 373.
+(pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
+
+Overfull \hbox (21.68164pt too wide) in paragraph at lines 373--375
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 22.80612pt on input line 379.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[72 <./graphics/Hamlet_elevation.pdf>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[73
+
+
+] <data/yard/Group3/Track15.pdf, id=1288, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track15.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track15.pdf>
+Package pdftex.def Info: data/yard/Group3/Track15.pdf used on input line 434.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track17.pdf, id=1289, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track17.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track17.pdf>
+Package pdftex.def Info: data/yard/Group3/Track17.pdf used on input line 434.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track18.pdf, id=1290, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track18.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track18.pdf>
+Package pdftex.def Info: data/yard/Group3/Track18.pdf used on input line 434.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track19.pdf, id=1294, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track19.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track19.pdf>
+Package pdftex.def Info: data/yard/Group3/Track19.pdf used on input line 436.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track20.pdf, id=1295, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track20.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track20.pdf>
+Package pdftex.def Info: data/yard/Group3/Track20.pdf used on input line 436.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track21.pdf, id=1296, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track21.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track21.pdf>
+Package pdftex.def Info: data/yard/Group3/Track21.pdf used on input line 436.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track22.pdf, id=1300, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track22.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track22.pdf>
+Package pdftex.def Info: data/yard/Group3/Track22.pdf used on input line 438.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track23.pdf, id=1301, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track23.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track23.pdf>
+Package pdftex.def Info: data/yard/Group3/Track23.pdf used on input line 438.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group3/Track24.pdf, id=1302, 794.97pt x 614.295pt>
+File: data/yard/Group3/Track24.pdf Graphic file (type pdf)
+
+<use data/yard/Group3/Track24.pdf>
+Package pdftex.def Info: data/yard/Group3/Track24.pdf used on input line 438.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 433--441
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 441.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[74 <./data/yard/Group3/Track15.pdf> <./data/yard/Group3/Track17.pdf> <./data/y
+ard/Group3/Track18.pdf> <./data/yard/Group3/Track19.pdf> <./data/yard/Group3/Tr
+ack20.pdf> <./data/yard/Group3/Track21.pdf> <./data/yard/Group3/Track22.pdf> <.
+/data/yard/Group3/Track23.pdf> <./data/yard/Group3/Track24.pdf>]
+<data/yard/Group4/Track25.pdf, id=1311, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track25.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track25.pdf>
+Package pdftex.def Info: data/yard/Group4/Track25.pdf used on input line 456.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track26.pdf, id=1312, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track26.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track26.pdf>
+Package pdftex.def Info: data/yard/Group4/Track26.pdf used on input line 456.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track27.pdf, id=1313, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track27.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track27.pdf>
+Package pdftex.def Info: data/yard/Group4/Track27.pdf used on input line 456.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track28.pdf, id=1317, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track28.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track28.pdf>
+Package pdftex.def Info: data/yard/Group4/Track28.pdf used on input line 458.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track29.pdf, id=1318, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track29.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track29.pdf>
+Package pdftex.def Info: data/yard/Group4/Track29.pdf used on input line 458.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track30.pdf, id=1319, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track30.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track30.pdf>
+Package pdftex.def Info: data/yard/Group4/Track30.pdf used on input line 458.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track31.pdf, id=1323, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track31.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track31.pdf>
+Package pdftex.def Info: data/yard/Group4/Track31.pdf used on input line 460.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group4/Track32.pdf, id=1324, 794.97pt x 614.295pt>
+File: data/yard/Group4/Track32.pdf Graphic file (type pdf)
+
+<use data/yard/Group4/Track32.pdf>
+Package pdftex.def Info: data/yard/Group4/Track32.pdf used on input line 460.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 455--463
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 463.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[75 <./data/yard/Group4/Track25.pdf> <./data/yard/Group4/Track26.pdf> <./data/y
+ard/Group4/Track27.pdf> <./data/yard/Group4/Track28.pdf> <./data/yard/Group4/Tr
+ack29.pdf> <./data/yard/Group4/Track30.pdf> <./data/yard/Group4/Track31.pdf> <.
+/data/yard/Group4/Track32.pdf>]
+<data/yard/Group5/Track33.pdf, id=1331, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track33.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track33.pdf>
+Package pdftex.def Info: data/yard/Group5/Track33.pdf used on input line 478.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track34.pdf, id=1332, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track34.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track34.pdf>
+Package pdftex.def Info: data/yard/Group5/Track34.pdf used on input line 478.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track35.pdf, id=1333, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track35.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track35.pdf>
+Package pdftex.def Info: data/yard/Group5/Track35.pdf used on input line 478.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track36.pdf, id=1337, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track36.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track36.pdf>
+Package pdftex.def Info: data/yard/Group5/Track36.pdf used on input line 480.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track37.pdf, id=1338, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track37.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track37.pdf>
+Package pdftex.def Info: data/yard/Group5/Track37.pdf used on input line 480.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track38.pdf, id=1339, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track38.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track38.pdf>
+Package pdftex.def Info: data/yard/Group5/Track38.pdf used on input line 480.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track39.pdf, id=1343, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track39.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track39.pdf>
+Package pdftex.def Info: data/yard/Group5/Track39.pdf used on input line 482.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group5/Track40.pdf, id=1344, 794.97pt x 614.295pt>
+File: data/yard/Group5/Track40.pdf Graphic file (type pdf)
+
+<use data/yard/Group5/Track40.pdf>
+Package pdftex.def Info: data/yard/Group5/Track40.pdf used on input line 482.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 477--485
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 485.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[76 <./data/yard/Group5/Track33.pdf> <./data/yard/Group5/Track34.pdf> <./data/y
+ard/Group5/Track35.pdf> <./data/yard/Group5/Track36.pdf> <./data/yard/Group5/Tr
+ack37.pdf> <./data/yard/Group5/Track38.pdf> <./data/yard/Group5/Track39.pdf> <.
+/data/yard/Group5/Track40.pdf>]
+<data/yard/Group6/Track41.pdf, id=1375, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track41.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track41.pdf>
+Package pdftex.def Info: data/yard/Group6/Track41.pdf used on input line 500.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track42.pdf, id=1376, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track42.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track42.pdf>
+Package pdftex.def Info: data/yard/Group6/Track42.pdf used on input line 500.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track43.pdf, id=1377, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track43.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track43.pdf>
+Package pdftex.def Info: data/yard/Group6/Track43.pdf used on input line 500.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track44.pdf, id=1381, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track44.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track44.pdf>
+Package pdftex.def Info: data/yard/Group6/Track44.pdf used on input line 502.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track45.pdf, id=1382, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track45.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track45.pdf>
+Package pdftex.def Info: data/yard/Group6/Track45.pdf used on input line 502.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track46.pdf, id=1383, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track46.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track46.pdf>
+Package pdftex.def Info: data/yard/Group6/Track46.pdf used on input line 502.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track47.pdf, id=1387, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track47.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track47.pdf>
+Package pdftex.def Info: data/yard/Group6/Track47.pdf used on input line 504.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group6/Track48.pdf, id=1388, 794.97pt x 614.295pt>
+File: data/yard/Group6/Track48.pdf Graphic file (type pdf)
+
+<use data/yard/Group6/Track48.pdf>
+Package pdftex.def Info: data/yard/Group6/Track48.pdf used on input line 504.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 499--507
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 507.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[77 <./data/yard/Group6/Track41.pdf> <./data/yard/Group6/Track42.pdf> <./data/y
+ard/Group6/Track43.pdf> <./data/yard/Group6/Track44.pdf> <./data/yard/Group6/Tr
+ack45.pdf> <./data/yard/Group6/Track46.pdf> <./data/yard/Group6/Track47.pdf> <.
+/data/yard/Group6/Track48.pdf>]
+<data/yard/Group7/Track49.pdf, id=1396, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track49.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track49.pdf>
+Package pdftex.def Info: data/yard/Group7/Track49.pdf used on input line 522.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track50.pdf, id=1397, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track50.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track50.pdf>
+Package pdftex.def Info: data/yard/Group7/Track50.pdf used on input line 522.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track51.pdf, id=1398, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track51.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track51.pdf>
+Package pdftex.def Info: data/yard/Group7/Track51.pdf used on input line 522.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track52.pdf, id=1402, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track52.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track52.pdf>
+Package pdftex.def Info: data/yard/Group7/Track52.pdf used on input line 524.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track53.pdf, id=1403, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track53.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track53.pdf>
+Package pdftex.def Info: data/yard/Group7/Track53.pdf used on input line 524.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track54.pdf, id=1404, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track54.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track54.pdf>
+Package pdftex.def Info: data/yard/Group7/Track54.pdf used on input line 524.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track55.pdf, id=1408, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track55.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track55.pdf>
+Package pdftex.def Info: data/yard/Group7/Track55.pdf used on input line 526.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group7/Track56.pdf, id=1409, 794.97pt x 614.295pt>
+File: data/yard/Group7/Track56.pdf Graphic file (type pdf)
+
+<use data/yard/Group7/Track56.pdf>
+Package pdftex.def Info: data/yard/Group7/Track56.pdf used on input line 526.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 521--529
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 529.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[78 <./data/yard/Group7/Track49.pdf> <./data/yard/Group7/Track50.pdf> <./data/y
+ard/Group7/Track51.pdf> <./data/yard/Group7/Track52.pdf> <./data/yard/Group7/Tr
+ack53.pdf> <./data/yard/Group7/Track54.pdf> <./data/yard/Group7/Track55.pdf> <.
+/data/yard/Group7/Track56.pdf>]
+<data/yard/Group8/Track57.pdf, id=1416, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track57.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track57.pdf>
+Package pdftex.def Info: data/yard/Group8/Track57.pdf used on input line 544.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track58.pdf, id=1417, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track58.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track58.pdf>
+Package pdftex.def Info: data/yard/Group8/Track58.pdf used on input line 544.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track59.pdf, id=1418, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track59.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track59.pdf>
+Package pdftex.def Info: data/yard/Group8/Track59.pdf used on input line 544.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track60.pdf, id=1422, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track60.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track60.pdf>
+Package pdftex.def Info: data/yard/Group8/Track60.pdf used on input line 546.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track61.pdf, id=1423, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track61.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track61.pdf>
+Package pdftex.def Info: data/yard/Group8/Track61.pdf used on input line 546.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track62.pdf, id=1424, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track62.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track62.pdf>
+Package pdftex.def Info: data/yard/Group8/Track62.pdf used on input line 546.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track63.pdf, id=1428, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track63.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track63.pdf>
+Package pdftex.def Info: data/yard/Group8/Track63.pdf used on input line 548.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group8/Track64.pdf, id=1429, 794.97pt x 614.295pt>
+File: data/yard/Group8/Track64.pdf Graphic file (type pdf)
+
+<use data/yard/Group8/Track64.pdf>
+Package pdftex.def Info: data/yard/Group8/Track64.pdf used on input line 548.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 543--551
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 551.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[79 <./data/yard/Group8/Track57.pdf> <./data/yard/Group8/Track58.pdf> <./data/y
+ard/Group8/Track59.pdf> <./data/yard/Group8/Track60.pdf> <./data/yard/Group8/Tr
+ack61.pdf> <./data/yard/Group8/Track62.pdf> <./data/yard/Group8/Track63.pdf> <.
+/data/yard/Group8/Track64.pdf>]
+<data/yard/Group9/Track65.pdf, id=1436, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track65.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track65.pdf>
+Package pdftex.def Info: data/yard/Group9/Track65.pdf used on input line 566.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track66.pdf, id=1437, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track66.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track66.pdf>
+Package pdftex.def Info: data/yard/Group9/Track66.pdf used on input line 566.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track67.pdf, id=1438, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track67.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track67.pdf>
+Package pdftex.def Info: data/yard/Group9/Track67.pdf used on input line 566.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track68.pdf, id=1442, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track68.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track68.pdf>
+Package pdftex.def Info: data/yard/Group9/Track68.pdf used on input line 568.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track69.pdf, id=1443, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track69.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track69.pdf>
+Package pdftex.def Info: data/yard/Group9/Track69.pdf used on input line 568.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track70.pdf, id=1444, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track70.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track70.pdf>
+Package pdftex.def Info: data/yard/Group9/Track70.pdf used on input line 568.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track71.pdf, id=1448, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track71.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track71.pdf>
+Package pdftex.def Info: data/yard/Group9/Track71.pdf used on input line 570.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track72.pdf, id=1449, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track72.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track72.pdf>
+Package pdftex.def Info: data/yard/Group9/Track72.pdf used on input line 570.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+<data/yard/Group9/Track74.pdf, id=1450, 794.97pt x 614.295pt>
+File: data/yard/Group9/Track74.pdf Graphic file (type pdf)
+
+<use data/yard/Group9/Track74.pdf>
+Package pdftex.def Info: data/yard/Group9/Track74.pdf used on input line 570.
+(pdftex.def)             Requested size: 198.742pt x 153.57336pt.
+
+Overfull \hbox (9.25896pt too wide) in paragraph at lines 565--573
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3.07228pt on input line 573.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[80 <./data/yard/Group9/Track65.pdf> <./data/yard/Group9/Track66.pdf> <./data/y
+ard/Group9/Track67.pdf> <./data/yard/Group9/Track68.pdf> <./data/yard/Group9/Tr
+ack69.pdf> <./data/yard/Group9/Track70.pdf> <./data/yard/Group9/Track71.pdf> <.
+/data/yard/Group9/Track72.pdf> <./data/yard/Group9/Track74.pdf>]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./graphics/Hamlet_rvp.pdf): PDF incl
+usion: found PDF version <1.6>, but at most version <1.5> allowed
+<graphics/Hamlet_rvp.pdf, id=1458, 614.295pt x 794.97pt>
+File: graphics/Hamlet_rvp.pdf Graphic file (type pdf)
+
+<use graphics/Hamlet_rvp.pdf>
+Package pdftex.def Info: graphics/Hamlet_rvp.pdf used on input line 582.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[81 <./graphics/Hamlet_rvp.pdf>]
+<graphics/Hamlet_rvp_hist.pdf, id=1513, 794.97pt x 614.295pt>
+File: graphics/Hamlet_rvp_hist.pdf Graphic file (type pdf)
+
+<use graphics/Hamlet_rvp_hist.pdf>
+Package pdftex.def Info: graphics/Hamlet_rvp_hist.pdf used on input line 596.
+(pdftex.def)             Requested size: 675.72769pt x 522.15321pt.
+
+Overfull \hbox (52.76064pt too wide) in paragraph at lines 596--598
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 2.1945pt on input line 601.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[82 <./graphics/Hamlet_rvp_hist.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[83
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[84]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[85]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[86]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[87])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[88]
+\openout2 = `AppendixB.aux'.
+
+ (./AppendixB.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[89
+
+
+
+] <data/alinement/KanawhaSub/MP494-495.pdf, id=1555, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP494-495.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP494-495.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP494-495.pdf used on input 
+line 40.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP495-496.pdf, id=1558, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP495-496.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP495-496.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP495-496.pdf used on input 
+line 44.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 48.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[90
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[91 <./data/alinement/KanawhaSub/MP494-495.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP495-496.pdf, page is rotated 90 degrees>]
+<data/alinement/KanawhaSub/MP496-497.pdf, id=1610, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP496-497.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP496-497.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP496-497.pdf used on input 
+line 71.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP497-498.pdf, id=1613, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP497-498.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP497-498.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP497-498.pdf used on input 
+line 75.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 79.
+
+<data/alinement/KanawhaSub/MP498-499.pdf, id=1616, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP498-499.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP498-499.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP498-499.pdf used on input 
+line 86.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP499-500.pdf, id=1619, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP499-500.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP499-500.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP499-500.pdf used on input 
+line 90.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 94.
+
+<data/alinement/KanawhaSub/MP500-501.pdf, id=1622, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP500-501.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP500-501.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP500-501.pdf used on input 
+line 101.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP501-502.pdf, id=1625, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP501-502.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP501-502.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP501-502.pdf used on input 
+line 126.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP502-503.pdf, id=1628, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP502-503.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP502-503.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP502-503.pdf used on input 
+line 130.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 134.
+
+<data/alinement/KanawhaSub/MP503-504.pdf, id=1631, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP503-504.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP503-504.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP503-504.pdf used on input 
+line 141.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP504-505.pdf, id=1634, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP504-505.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP504-505.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP504-505.pdf used on input 
+line 145.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 149.
+
+<data/alinement/KanawhaSub/MP505-506.pdf, id=1637, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP505-506.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP505-506.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP505-506.pdf used on input 
+line 156.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP506-507.pdf, id=1640, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP506-507.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP506-507.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP506-507.pdf used on input 
+line 181.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP507-508.pdf, id=1643, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP507-508.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP507-508.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP507-508.pdf used on input 
+line 185.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 189.
+
+<data/alinement/KanawhaSub/MP508-509.pdf, id=1646, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP508-509.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP508-509.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP508-509.pdf used on input 
+line 196.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP509-510.pdf, id=1649, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP509-510.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP509-510.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP509-510.pdf used on input 
+line 200.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 204.
+
+<data/alinement/KanawhaSub/MP510-511.pdf, id=1652, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP510-511.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP510-511.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP510-511.pdf used on input 
+line 211.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP511-512.pdf, id=1655, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP511-512.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP511-512.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP511-512.pdf used on input 
+line 237.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP512-513.pdf, id=1658, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP512-513.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP512-513.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP512-513.pdf used on input 
+line 241.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 245.
+
+<data/alinement/KanawhaSub/MP513-514.pdf, id=1661, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP513-514.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP513-514.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP513-514.pdf used on input 
+line 252.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP514-515.pdf, id=1664, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP514-515.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP514-515.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP514-515.pdf used on input 
+line 256.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 260.
+
+<data/alinement/KanawhaSub/MP515-516.pdf, id=1667, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP515-516.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP515-516.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP515-516.pdf used on input 
+line 267.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP516-517.pdf, id=1670, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP516-517.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP516-517.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP516-517.pdf used on input 
+line 292.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP517-518.pdf, id=1673, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP517-518.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP517-518.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP517-518.pdf used on input 
+line 296.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 300.
+
+<data/alinement/KanawhaSub/MP518-519.pdf, id=1676, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP518-519.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP518-519.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP518-519.pdf used on input 
+line 307.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP519-520.pdf, id=1679, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP519-520.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP519-520.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP519-520.pdf used on input 
+line 311.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 315.
+
+<data/alinement/KanawhaSub/MP520-521.pdf, id=1682, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP520-521.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP520-521.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP520-521.pdf used on input 
+line 322.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP521-522.pdf, id=1685, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP521-522.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP521-522.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP521-522.pdf used on input 
+line 348.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+<data/alinement/KanawhaSub/MP522-523.pdf, id=1688, 794.97pt x 614.295pt>
+File: data/alinement/KanawhaSub/MP522-523.pdf Graphic file (type pdf)
+
+<use data/alinement/KanawhaSub/MP522-523.pdf>
+Package pdftex.def Info: data/alinement/KanawhaSub/MP522-523.pdf used on input 
+line 352.
+(pdftex.def)             Requested size: 437.23485pt x 337.86328pt.
+
+
+LaTeX Warning: Float too large for page by 28.28496pt on input line 356.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[92 <./data/alinement/KanawhaSub/MP496-497.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP497-498.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[93 <./data/alinement/KanawhaSub/MP498-499.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP499-500.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[94 <./data/alinement/KanawhaSub/MP500-501.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[95 <./data/alinement/KanawhaSub/MP501-502.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP502-503.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[96 <./data/alinement/KanawhaSub/MP503-504.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP504-505.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[97 <./data/alinement/KanawhaSub/MP505-506.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[98 <./data/alinement/KanawhaSub/MP506-507.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP507-508.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[99 <./data/alinement/KanawhaSub/MP508-509.pdf, page is rotated 90 degrees> <./
+data/alinement/KanawhaSub/MP509-510.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[100 <./data/alinement/KanawhaSub/MP510-511.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[101 <./data/alinement/KanawhaSub/MP511-512.pdf, page is rotated 90 degrees> <.
+/data/alinement/KanawhaSub/MP512-513.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[102 <./data/alinement/KanawhaSub/MP513-514.pdf, page is rotated 90 degrees> <.
+/data/alinement/KanawhaSub/MP514-515.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[103 <./data/alinement/KanawhaSub/MP515-516.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[104 <./data/alinement/KanawhaSub/MP516-517.pdf, page is rotated 90 degrees> <.
+/data/alinement/KanawhaSub/MP517-518.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[105 <./data/alinement/KanawhaSub/MP518-519.pdf, page is rotated 90 degrees> <.
+/data/alinement/KanawhaSub/MP519-520.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[106 <./data/alinement/KanawhaSub/MP520-521.pdf, page is rotated 90 degrees>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[107 <./data/alinement/KanawhaSub/MP521-522.pdf, page is rotated 90 degrees> <.
+/data/alinement/KanawhaSub/MP522-523.pdf, page is rotated 90 degrees>])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[108
+
+
+] (./dissertation2.bbl
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[109
+
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[110]
+Underfull \hbox (badness 2057) in paragraph at lines 190--200
+[]\T1/lmr/m/n/10.95 Anthony B. Szwilski, W. Brad Ker-chof, John Tom-lin, Pe-ter
+ J. Dai-ley, Zhibin Sheng,
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 190--200
+\T1/lmr/m/n/10.95 and Richard Be-g-ley.  Rapid Sur-vey-ing Of A Clas-si-fi-ca-t
+ion Yard Em-ploy-ing High-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 190--200
+\T1/lmr/m/n/10.95 Accuracy DGPS (RTK).  In \T1/lmr/m/it/10.95 Pro-ceed-ings of 
+the AREMA 2005 An-nual Con-fer-ences\T1/lmr/m/n/10.95 .
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 244--251
+[]\T1/lmr/m/n/10.95 USC.  United States Code, Ti-tle 49, Part 213, Sub-part C -
+ Track Ge-om-e-try, 2009a.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--251
+\T1/lmr/m/n/10.95 URL [][]$\T1/lmtt/m/n/10.95 http : / / ecfr . gpoaccess . gov
+ / cgi / t / text / text-[]idx ? c = ecfr ; sid = a92f8f8c60b5a %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--251
+\T1/lmtt/m/n/10.95 4769b34869f7324af63 ; rgn = div5 ; view = text ; node = 49 %
+ 3A4 . 1 . 1 . 1 . 8 ; idno = 49 ; cc = ecfr # 49 :
+ []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[111]
+Underfull \hbox (badness 1502) in paragraph at lines 253--260
+\T1/lmr/m/n/10.95 US-GPO, 2009b.  URL [][]$\T1/lmtt/m/n/10.95 http : / / ecfr .
+ gpoaccess . gov / cgi / t / text / text-[]idx ? c = ecfr&sid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--269
+\T1/lmtt/m/n/10.95 text-[]idx ? c = ecfr&sid = e1e054ac618be974227886aec39b5522
+&rgn = div6&view = text&node =
+ []
+
+)
+
+Class memoir Warning: The material used in the headers is too large
+(13.59999pt) for the given head height (0.0pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 108.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[112]
+\tf@toc=\write5
+\openout5 = `dissertation2.toc'.
+
+\tf@lot=\write6
+\openout6 = `dissertation2.lot'.
+
+\tf@lof=\write7
+\openout7 = `dissertation2.lof'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+ (./dissertation2.aux (./titlepage.aux) (./abstract.aux)
+(./acknowledgements.aux) (./dedication.aux) (./one.aux) (./two.aux)
+(./three.aux) (./four.aux) (./five.aux) (./AppendixA.aux) (./AppendixB.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
+Package rerunfilecheck Info: File `dissertation2.out' has not changed.
+(rerunfilecheck)             Checksum: B09F101197C109BDA644C1F209F3181D;2587.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+ ) 
+Here is how much of TeX's memory you used:
+ 12286 strings out of 493633
+ 180454 string characters out of 3143378
+ 332026 words of memory out of 3000000
+ 14838 multiletter control sequences out of 15000+200000
+ 84349 words of font info for 62 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 46i,15n,33p,1477b,566s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/20
+11/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2011/texmf-d
+ist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2011/texmf-dist/fonts/enc/
+dvips/lm/lm-mathit.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmbx10
+.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2011/
+texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/lm/lmmi9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/
+lmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmr6.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/lm/lmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm
+/lmsy6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/lm/lmtt8.pfb>
+Output written on dissertation2.pdf (120 pages, 15911206 bytes).
+PDF statistics:
+ 2418 PDF objects out of 2487 (max. 8388607)
+ 2071 compressed objects within 21 object streams
+ 373 named destinations out of 1000 (max. 500000)
+ 841 words of extra memory for PDF output out of 10000 (max. 10000000)
+

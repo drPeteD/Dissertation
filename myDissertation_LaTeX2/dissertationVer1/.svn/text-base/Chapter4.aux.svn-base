@@ -1,0 +1,121 @@
+\relax 
+\citation{1995FRADiffe}
+\@writefile{lof}{\addvspace {10pt}}
+\@writefile{lot}{\addvspace {10pt}}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {4}Results}{45}{chapter.4}}
+\@writefile{toc}{\contentsline {section}{Purpose}{45}{section*.23}}
+\citepageref{1995FRADiffe}{45}
+\@writefile{toc}{\contentsline {section}{Hump Yard Profile Results}{46}{section*.24}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Hump Yard Survey Human Resource Utilization}}{47}{table.4.1}}
+\newlabel{tab:labor}{{\M@TitleReference {4.1}{Hump Yard Survey Human Resource Utilization}}{47}{Hump Yard Survey Human Resource Utilization\relax }{table.4.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Reference Station Adjustment}}{48}{table.4.2}}
+\newlabel{tab:AdHocPos}{{\M@TitleReference {4.2}{Reference Station Adjustment}}{48}{Reference Station Adjustment\relax }{table.4.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces Relative Vertical Precision Summary}}{48}{table.4.3}}
+\newlabel{tab:humpData}{{\M@TitleReference {4.3}{Relative Vertical Precision Summary}}{48}{Relative Vertical Precision Summary\relax }{table.4.3}{}}
+\@writefile{toc}{\contentsline {section}{Determining Alinement by Hi-Rail Results}{50}{section*.25}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces RTK Surveys By Hi-Rail}}{50}{table.4.4}}
+\newlabel{tab:Hi-RailSurvey}{{\M@TitleReference {4.4}{RTK Surveys By Hi-Rail}}{50}{RTK Surveys By Hi-Rail\relax }{table.4.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Plan View MP 508-509}}{51}{figure.4.1}}
+\newlabel{crv508_9}{{\M@TitleReference {4.1}{Plan View MP 508-509}}{51}{Plan View MP 508-509\relax }{figure.4.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Plan View MP 521-522}}{51}{figure.4.2}}
+\newlabel{crv521}{{\M@TitleReference {4.2}{Plan View MP 521-522}}{51}{Plan View MP 521-522\relax }{figure.4.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.5}{\ignorespaces RTK Hi-Rail Traverse MP 494-523, Alinement Annotation}}{52}{table.4.5}}
+\newlabel{tab:Hi-RailTraverse}{{\M@TitleReference {4.5}{Determining Alinement by Hi-Rail Results}}{52}{RTK Hi-Rail Traverse MP 494-523, Alinement Annotation\relax }{table.4.5}{}}
+\gdef \LT@i {\LT@entry 
+    {1}{96.37694pt}\LT@entry 
+    {7}{158.5097pt}\LT@entry 
+    {6}{72.7237pt}\LT@entry 
+    {5}{129.30276pt}}
+\gdef \LT@ii {\LT@entry 
+    {1}{96.37694pt}\LT@entry 
+    {5}{69.44485pt}\LT@entry 
+    {1}{68.68048pt}\LT@entry 
+    {5}{154.70006pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.6}{\ignorespaces GMRS \& RTK Hi-Rail Comparision, MP 211-207, Alinement Annotation}}{55}{table.4.6}}
+\newlabel{tab:gmre_Hi-RailTrav}{{\M@TitleReference {4.6}{Determining Alinement by Hi-Rail Results}}{55}{GMRS \& RTK Hi-Rail Comparision, MP 211-207, Alinement Annotation\relax }{table.4.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces GMRS and RTK GNSS Hi-Rail Comparison}}{56}{figure.4.3}}
+\newlabel{gmrs_Hi-Rail}{{\M@TitleReference {4.3}{GMRS and RTK GNSS Hi-Rail Comparison}}{56}{GMRS and RTK GNSS Hi-Rail Comparison\relax }{figure.4.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.7}{\ignorespaces GMRS and RTK GNSS Hi-Rail Comparison, MP210.4-209.75 tangent}}{57}{table.4.7}}
+\newlabel{tab:tanComp}{{\M@TitleReference {4.7}{GMRS and RTK GNSS Hi-Rail Comparison, MP210.4-209.75 tangent}}{57}{GMRS and RTK GNSS Hi-Rail Comparison, MP210.4-209.75 tangent\relax }{table.4.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces GMRS ${D_c}$ Histogram, 210.4 to 209.75 tangent}}{57}{figure.4.4}}
+\newlabel{gmrs_hist}{{\M@TitleReference {4.4}{GMRS ${D_c}$ Histogram, 210.4 to 209.75 tangent}}{57}{GMRS ${D_c}$ Histogram, 210.4 to 209.75 tangent\relax }{figure.4.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Hi-Rail ${D_c}$ Histogram, 210.4 to 209.75 tangent}}{57}{figure.4.5}}
+\newlabel{Hi-Rail_hist}{{\M@TitleReference {4.5}{Hi-Rail ${D_c}$ Histogram, 210.4 to 209.75 tangent}}{57}{Hi-Rail ${D_c}$ Histogram, 210.4 to 209.75 tangent\relax }{figure.4.5}{}}
+\@writefile{toc}{\contentsline {section}{Track Occupancy Results}{58}{section*.26}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.8}{\ignorespaces Tangent Regression Coefficients, MP 498.9 to 500.2}}{58}{table.4.8}}
+\newlabel{tab:tanRegress}{{\M@TitleReference {4.8}{Tangent Regression Coefficients, MP 498.9 to 500.2}}{58}{Tangent Regression Coefficients, MP 498.9 to 500.2\relax }{table.4.8}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.9}{\ignorespaces Tangent Cross-Track Hypothesis Test}}{59}{table.4.9}}
+\newlabel{tab:tanHypo}{{\M@TitleReference {4.9}{Tangent Cross-Track Hypothesis Test}}{59}{Tangent Cross-Track Hypothesis Test\relax }{table.4.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.10}{\ignorespaces Curve Regression Coefficients, MP 500.5 to 500.7}}{59}{table.4.10}}
+\newlabel{tab:crvRegress}{{\M@TitleReference {4.10}{Curve Regression Coefficients, MP 500.5 to 500.7}}{59}{Curve Regression Coefficients, MP 500.5 to 500.7\relax }{table.4.10}{}}
+\@writefile{toc}{\contentsline {section}{Summary}{59}{section*.27}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.11}{\ignorespaces Circular Curve Cross-Track Hypothesis Test}}{60}{table.4.11}}
+\newlabel{tab:crvHypo}{{\M@TitleReference {4.11}{Circular Curve Cross-Track Hypothesis Test}}{60}{Circular Curve Cross-Track Hypothesis Test\relax }{table.4.11}{}}
+\@setckpt{Chapter4}{
+\setcounter{page}{61}
+\setcounter{equation}{2}
+\setcounter{enumi}{4}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{1}
+\setcounter{mpfootnote}{0}
+\setcounter{@memmarkcntra}{0}
+\setcounter{storedpagenumber}{1}
+\setcounter{book}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{4}
+\setcounter{section}{0}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+\setcounter{vslineno}{0}
+\setcounter{poemline}{0}
+\setcounter{modulo@vs}{0}
+\setcounter{memfvsline}{0}
+\setcounter{verse}{0}
+\setcounter{chrsinstr}{0}
+\setcounter{poem}{0}
+\setcounter{newflo@tctr}{4}
+\setcounter{@contsubnum}{0}
+\setcounter{maxsecnumdepth}{0}
+\setcounter{pagenote}{0}
+\setcounter{memfbvline}{0}
+\setcounter{bvlinectr}{0}
+\setcounter{cp@cntr}{0}
+\setcounter{ism@mctr}{0}
+\setcounter{xsm@mctr}{0}
+\setcounter{csm@mctr}{0}
+\setcounter{ksm@mctr}{0}
+\setcounter{xksm@mctr}{0}
+\setcounter{cksm@mctr}{0}
+\setcounter{msm@mctr}{0}
+\setcounter{xmsm@mctr}{0}
+\setcounter{cmsm@mctr}{0}
+\setcounter{bsm@mctr}{0}
+\setcounter{workm@mctr}{0}
+\setcounter{sheetsequence}{77}
+\setcounter{lastsheet}{137}
+\setcounter{lastpage}{121}
+\setcounter{figure}{5}
+\setcounter{lofdepth}{1}
+\setcounter{table}{11}
+\setcounter{lotdepth}{1}
+\setcounter{parentequation}{0}
+\setcounter{float@type}{4}
+\setcounter{ContinuedFloat}{0}
+\setcounter{KVtest}{0}
+\setcounter{subfigure}{0}
+\setcounter{subfigure@save}{0}
+\setcounter{subtable}{0}
+\setcounter{subtable@save}{0}
+\setcounter{LT@tables}{2}
+\setcounter{LT@chunks}{5}
+\setcounter{NAT@ctr}{0}
+\setcounter{Item}{49}
+\setcounter{memhycontfloat}{0}
+\setcounter{section@level}{1}
+}

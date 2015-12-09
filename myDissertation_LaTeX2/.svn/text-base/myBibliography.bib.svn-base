@@ -1,0 +1,22 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Pete's user account at 2009-09-26 10:35:39 -0400 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@inproceedings{1983HSphoto,
+	Address = {Dallas, Texas},
+	Author = {Chiappetta, RF and Bauer, Allen and Dailey, Peter and Burchell, Stephen},
+	Booktitle = {Procedings 9th Annual Conferences on Explosives and Blasting Technique},
+	Date-Added = {2009-09-26 09:22:50 -0400},
+	Date-Modified = {2009-09-26 10:13:37 -0400},
+	Organization = {Society of Explosive Engineers},
+	Rating = {5},
+	Read = {Yes},
+	Title = {{The Use of High-Speed Motion Picture Photography in Blast Evaluation and Design}},
+	Year = {1983}}

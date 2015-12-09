@@ -1,0 +1,145 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2008.12.28)  8 FEB 2010 11:19
+entering extended mode
+\write18 enabled.
+ %&-line parsing enabled.
+**pjdCV.tex
+(./pjdCV.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, r
+omanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turki
+sh, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/currvita/currvita.sty
+Package: currvita 1999/09/13 v0.9i Typesetting a Curriculum Vitae
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@cvlistheading=\box26
+\cvlabelsep=\skip43
+\cvlabelskip=\skip44
+\cvlabelwidth=\skip45
+) (./pjdCV.aux)
+\openout1 = `pjdCV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[1
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (24.84062pt too wide) in paragraph at lines 55--57
+\OT1/cmr/m/n/12 Technical Rep-re-sen-ta-tive, Tamaqua, Penn-syl-va-nia; Evansvi
+lle,
+ []
+
+[2]
+Overfull \hbox (7.06395pt too wide) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/12 West Vir-ginia De-part-ment of Emer-gency Ser-vices Weapons
+ []
+
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 81.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 81.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 81.
+
+Overfull \hbox (4.1468pt too wide) in paragraph at lines 81--82
+[]\OT1/cmr/m/n/12 FCC Ex-tra Class am-a-teur ra-dio li-cense, call sign $\OML/c
+mm/m/it/12 KN\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 BY$\OT1/cmr/m/n/12 . 
+ []
+
+Missing character: There is no Õ in font cmr12!
+
+Overfull \hbox (16.37994pt too wide) in paragraph at lines 92--93
+[]\OT1/cmr/m/it/12 Strategic Man-age-ment of Tech-no-log-i-cal In-no-va-tion\OT
+1/cmr/m/n/12 , Schilling,
+ []
+
+Missing character: There is no Õ in font cmti12!
+[4]
+Overfull \hbox (27.992pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/it/12 Application of High Ac-cu-racy Dif-fer-en-tial GPS\OT1/cmr/m
+/n/12 , co-presentation
+ []
+
+
+Overfull \hbox (3.57387pt too wide) in paragraph at lines 107--108
+[]\OT1/cmr/m/it/12 Application of Geo-phys-i-cal Meth-ods to Eval-u-ate Rail Tr
+ack
+ []
+
+
+Overfull \hbox (23.40602pt too wide) in paragraph at lines 108--109
+[]\OT1/cmr/m/it/12 High Ac-cu-racy Dif-fer-en-tial GPS \OT1/cmr/m/n/12 pre-sent
+ed to the Parkersburg-
+ []
+
+
+Overfull \hbox (7.09857pt too wide) in paragraph at lines 109--110
+\OT1/cmr/m/it/12 dress-able Re-mote Trans-mit-ter (HART) Ap-pli-ca-tions\OT1/cm
+r/m/n/12 , Pitts-
+ []
+
+[5]
+Overfull \hbox (3.57387pt too wide) in paragraph at lines 120--121
+[]\OT1/cmr/m/it/12 Application of Geo-phys-i-cal Meth-ods to Eval-u-ate Rail Tr
+ack
+ []
+
+[6] [7] (./pjdCV.aux) ) 
+Here is how much of TeX's memory you used:
+ 316 strings out of 493876
+ 3588 string characters out of 1150567
+ 53566 words of memory out of 3000000
+ 3658 multiletter control sequences out of 10000+50000
+ 7644 words of font info for 27 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 22i,4n,19p,524b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/
+cm/cmbx12.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmmi12
+.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></usr
+/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti12.pfb>
+Output written on pjdCV.pdf (7 pages, 53294 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

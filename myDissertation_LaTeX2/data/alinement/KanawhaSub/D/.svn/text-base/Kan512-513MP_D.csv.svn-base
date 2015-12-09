@@ -1,0 +1,6 @@
+brb2rusABCD,X:\Documents\Engineering\Data\LOR\CSX_KanawhaSub\brb2rusABCD,
+UTM,17 North,NAD 1983 (Conus) CORS96,GEOID03 (Conus)
+coord units ft, elevation units ft, distance units ft
+PointID,FeatureCode,LatitudeDecimalDeg,LongitudeDecimalDeg,EllipsoidHeight,Northing,Easting,Elevation,AntennaHeight,StartTime,covXX,covYY,covZZ,HorizontalPrecision,VerticalPrecision,RMS,MaxPDOP,MaxHDOP,MaxVDOP,NbrGPSpos,MinSatellites
+mp512_D,MP,+38.398833181,-82.581056541,460.618,13947646.793,1187460.122,564.646,6.995,12:48:26 3 Mar 2010,0.000,0.000,0.000,0.019,0.035,0.003,,,,6,15
+mp513c_D,MP,+38.404229253,-82.598191067,470.427,13949693.241,1182586.099,571.262,6.995,11:01:25 14 Feb 2010,0.000,0.000,0.000,0.038,0.051,0.005,,,,0,0

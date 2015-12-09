@@ -1,0 +1,374 @@
+Read mile post file: /Users/peteD/Desktop/Dissertation_LaTeX2/data/trackAlinement/studyAreaData/505-512_t2bMP.CSV
+Read survey file: /Users/peteD/Desktop/Dissertation_LaTeX2/data/trackAlinement/studyAreaData/505-512_t2bData.CSV
+Nearest mile post to data start is MP505 at 1.84 feet.
+Nearest mile post to data end is MP512 at 0.78 feet.
+Data length from MP505 to MP512 is   7 miles.
+Nearest point to MP 505 is point     71 PtID  10826 at 1.84 feet.
+Nearest point to MP 506 is point    840 PtID  11595 at 2.40 feet.
+Nearest point to MP 507 is point   1474 PtID  12229 at 2.80 feet.
+Nearest point to MP 508 is point   2277 PtID  13032 at 2.39 feet.
+Nearest point to MP 509 is point   2892 PtID  13647 at 1.23 feet.
+Nearest point to MP 510 is point   3654 PtID  14409 at 1.61 feet.
+Nearest point to MP 511 is point   4501 PtID  15256 at 0.09 feet.
+Nearest point to MP 512 is point   5469 PtID  16224 at 0.78 feet.
+
+Begining to work on MP505 to MP506.
+MP505 to MP506 is 5338.34 feet, mean D =   6.8.
+
+***********************************************************
+-----------------------------------------------------------
+End mile   505 to   506,  5338 ft long,  340 stations.
+  340 total stations,    767 data points, mean pt sep   6.8.
+0 stations w/o MOD due to data gaps, mile length is 5338.34 feet
+-----------------------------------------------------------
+***********************************************************
+Elapsed time is 40.791671 seconds.
+
+Begining to work on MP506 to MP507.
+MP506 to MP507 is 5258.89 feet, mean D =   8.1.
+
+***** Data Gap ******  203.42 ft gap 56 to 57 count:1
+Last data point:129, last in:
+
+***** Data Gap ******  187.92 ft gap 57 to 58 count:2
+Last data point:129, last in:
+
+***** Data Gap ******  172.42 ft gap 58 to 59 count:3
+Last data point:129, last in:
+
+***** Data Gap ******  156.92 ft gap 59 to 60 count:4
+Last data point:129, last in:
+
+***** Data Gap ******  141.42 ft gap 60 to 61 count:5
+Last data point:129, last in:
+
+***** Data Gap ******  125.92 ft gap 61 to 62 count:6
+Last data point:129, last in:
+
+***** Data Gap ******  110.42 ft gap 62 to 63 count:7
+Last data point:129, last in:
+
+***** Data Gap ******   94.92 ft gap 63 to 64 count:8
+Last data point:129, last in:
+
+***** Data Gap ******   79.42 ft gap 64 to 65 count:9
+Last data point:129, last in:
+
+***** Data Gap ******   63.92 ft gap 65 to 66 count:10
+Last data point:129, last in:
+
+***** Data Gap ******  249.81 ft gap 116 to 117 count:14
+Last data point:212, last in:
+
+***** Data Gap ******  234.31 ft gap 117 to 118 count:15
+Last data point:212, last in:
+
+***** Data Gap ******  218.81 ft gap 118 to 119 count:16
+Last data point:212, last in:
+
+***** Data Gap ******  203.31 ft gap 119 to 120 count:17
+Last data point:212, last in:
+
+***** Data Gap ******  187.81 ft gap 120 to 121 count:18
+Last data point:212, last in:
+
+***** Data Gap ******  172.31 ft gap 121 to 122 count:19
+Last data point:212, last in:
+
+***** Data Gap ******  156.81 ft gap 122 to 123 count:20
+Last data point:212, last in:
+
+***** Data Gap ******  141.31 ft gap 123 to 124 count:21
+Last data point:212, last in:
+
+***** Data Gap ******  125.81 ft gap 124 to 125 count:22
+Last data point:212, last in:
+
+***** Data Gap ******  110.31 ft gap 125 to 126 count:23
+Last data point:212, last in:
+
+***** Data Gap ******   94.81 ft gap 126 to 127 count:24
+Last data point:212, last in:
+
+***** Data Gap ******   79.31 ft gap 127 to 128 count:25
+Last data point:212, last in:
+
+***** Data Gap ******   63.81 ft gap 128 to 129 count:26
+Last data point:212, last in:
+
+***** Data Gap ******  131.03 ft gap 239 to 240 count:30
+Last data point:448, last in:
+
+***** Data Gap ******  115.53 ft gap 240 to 241 count:31
+Last data point:448, last in:
+
+***** Data Gap ******  100.03 ft gap 241 to 242 count:32
+Last data point:448, last in:
+
+***** Data Gap ******   84.53 ft gap 242 to 243 count:33
+Last data point:448, last in:
+
+***** Data Gap ******   69.03 ft gap 243 to 244 count:34
+Last data point:448, last in:
+
+***********************************************************
+-----------------------------------------------------------
+End mile   506 to   507,  5259 ft long,  332 stations.
+  672 total stations,    633 data points, mean pt sep   8.1.
+37 stations w/o MOD due to data gaps, mile length is 5258.89 feet
+-----------------------------------------------------------
+***********************************************************
+Elapsed time is 45.573743 seconds.
+
+Begining to work on MP507 to MP508.
+MP507 to MP508 is 5331.53 feet, mean D =   6.5.
+
+***********************************************************
+-----------------------------------------------------------
+End mile   507 to   508,  5332 ft long,  337 stations.
+ 1009 total stations,    803 data points, mean pt sep   6.5.
+0 stations w/o MOD due to data gaps, mile length is 5331.53 feet
+-----------------------------------------------------------
+***********************************************************
+Elapsed time is 48.621341 seconds.
+
+Begining to work on MP508 to MP509.
+MP508 to MP509 is 5340.57 feet, mean D =   8.5.
+
+***** Data Gap ******  129.47 ft gap 28 to 29 count:1
+Last data point:70, last in:
+
+***** Data Gap ******  113.97 ft gap 29 to 30 count:2
+Last data point:70, last in:
+
+***** Data Gap ******   98.47 ft gap 30 to 31 count:3
+Last data point:70, last in:
+
+***** Data Gap ******   82.97 ft gap 31 to 32 count:4
+Last data point:70, last in:
+
+***** Data Gap ******   67.47 ft gap 32 to 33 count:5
+Last data point:70, last in:
+
+***** Data Gap ******  973.92 ft gap 181 to 182 count:11
+Last data point:408, last in:
+
+***** Data Gap ******  958.42 ft gap 182 to 183 count:12
+Last data point:408, last in:
+
+***** Data Gap ******  942.92 ft gap 183 to 184 count:13
+Last data point:408, last in:
+
+***** Data Gap ******  927.42 ft gap 184 to 185 count:14
+Last data point:408, last in:
+
+***** Data Gap ******  911.92 ft gap 185 to 186 count:15
+Last data point:408, last in:
+
+***** Data Gap ******  896.42 ft gap 186 to 187 count:16
+Last data point:408, last in:
+
+***** Data Gap ******  880.92 ft gap 187 to 188 count:17
+Last data point:408, last in:
+
+***** Data Gap ******  865.42 ft gap 188 to 189 count:18
+Last data point:408, last in:
+
+***** Data Gap ******  849.92 ft gap 189 to 190 count:19
+Last data point:408, last in:
+
+***** Data Gap ******  834.42 ft gap 190 to 191 count:20
+Last data point:408, last in:
+
+***** Data Gap ******  818.92 ft gap 191 to 192 count:21
+Last data point:408, last in:
+
+***** Data Gap ******  803.42 ft gap 192 to 193 count:22
+Last data point:408, last in:
+
+***** Data Gap ******  787.92 ft gap 193 to 194 count:23
+Last data point:408, last in:
+
+***** Data Gap ******  772.42 ft gap 194 to 195 count:24
+Last data point:408, last in:
+
+***** Data Gap ******  756.92 ft gap 195 to 196 count:25
+Last data point:408, last in:
+
+***** Data Gap ******  741.42 ft gap 196 to 197 count:26
+Last data point:408, last in:
+
+***** Data Gap ******  725.92 ft gap 197 to 198 count:27
+Last data point:408, last in:
+
+***** Data Gap ******  710.42 ft gap 198 to 199 count:28
+Last data point:408, last in:
+
+***** Data Gap ******  694.92 ft gap 199 to 200 count:29
+Last data point:408, last in:
+
+***** Data Gap ******  679.42 ft gap 200 to 201 count:30
+Last data point:408, last in:
+
+***** Data Gap ******  663.92 ft gap 201 to 202 count:31
+Last data point:408, last in:
+
+***** Data Gap ******  648.42 ft gap 202 to 203 count:32
+Last data point:408, last in:
+
+***** Data Gap ******  632.92 ft gap 203 to 204 count:33
+Last data point:408, last in:
+
+***** Data Gap ******  617.42 ft gap 204 to 205 count:34
+Last data point:408, last in:
+
+***** Data Gap ******  601.92 ft gap 205 to 206 count:35
+Last data point:408, last in:
+
+***** Data Gap ******  586.42 ft gap 206 to 207 count:36
+Last data point:408, last in:
+
+***** Data Gap ******  570.92 ft gap 207 to 208 count:37
+Last data point:408, last in:
+
+***** Data Gap ******  555.42 ft gap 208 to 209 count:38
+Last data point:408, last in:
+
+***** Data Gap ******  539.92 ft gap 209 to 210 count:39
+Last data point:408, last in:
+
+***** Data Gap ******  524.42 ft gap 210 to 211 count:40
+Last data point:408, last in:
+
+***** Data Gap ******  508.92 ft gap 211 to 212 count:41
+Last data point:408, last in:
+
+***** Data Gap ******  493.42 ft gap 212 to 213 count:42
+Last data point:408, last in:
+
+***** Data Gap ******  477.92 ft gap 213 to 214 count:43
+Last data point:408, last in:
+
+***** Data Gap ******  462.42 ft gap 214 to 215 count:44
+Last data point:408, last in:
+
+***** Data Gap ******  446.92 ft gap 215 to 216 count:45
+Last data point:408, last in:
+
+***** Data Gap ******  431.42 ft gap 216 to 217 count:46
+Last data point:408, last in:
+
+***** Data Gap ******  415.92 ft gap 217 to 218 count:47
+Last data point:408, last in:
+
+***** Data Gap ******  400.42 ft gap 218 to 219 count:48
+Last data point:408, last in:
+
+***** Data Gap ******  384.92 ft gap 219 to 220 count:49
+Last data point:408, last in:
+
+***** Data Gap ******  369.42 ft gap 220 to 221 count:50
+Last data point:408, last in:
+
+***** Data Gap ******  353.92 ft gap 221 to 222 count:51
+Last data point:408, last in:
+
+***** Data Gap ******  338.42 ft gap 222 to 223 count:52
+Last data point:408, last in:
+
+***** Data Gap ******  322.92 ft gap 223 to 224 count:53
+Last data point:408, last in:
+
+***** Data Gap ******  307.42 ft gap 224 to 225 count:54
+Last data point:408, last in:
+
+***** Data Gap ******  291.92 ft gap 225 to 226 count:55
+Last data point:408, last in:
+
+***** Data Gap ******  276.42 ft gap 226 to 227 count:56
+Last data point:408, last in:
+
+***** Data Gap ******  260.92 ft gap 227 to 228 count:57
+Last data point:408, last in:
+
+***** Data Gap ******  245.42 ft gap 228 to 229 count:58
+Last data point:408, last in:
+
+***** Data Gap ******  229.92 ft gap 229 to 230 count:59
+Last data point:408, last in:
+
+***** Data Gap ******  214.42 ft gap 230 to 231 count:60
+Last data point:408, last in:
+
+***** Data Gap ******  198.92 ft gap 231 to 232 count:61
+Last data point:408, last in:
+
+***** Data Gap ******  183.42 ft gap 232 to 233 count:62
+Last data point:408, last in:
+
+***** Data Gap ******  167.92 ft gap 233 to 234 count:63
+Last data point:408, last in:
+
+***** Data Gap ******  152.42 ft gap 234 to 235 count:64
+Last data point:408, last in:
+
+***** Data Gap ******  136.92 ft gap 235 to 236 count:65
+Last data point:408, last in:
+
+***** Data Gap ******  121.42 ft gap 236 to 237 count:66
+Last data point:408, last in:
+
+***** Data Gap ******  105.92 ft gap 237 to 238 count:67
+Last data point:408, last in:
+
+***** Data Gap ******   90.42 ft gap 238 to 239 count:68
+Last data point:408, last in:
+
+***** Data Gap ******   74.92 ft gap 239 to 240 count:69
+Last data point:408, last in:
+
+***********************************************************
+-----------------------------------------------------------
+End mile   508 to   509,  5341 ft long,  338 stations.
+ 1347 total stations,    613 data points, mean pt sep   8.5.
+74 stations w/o MOD due to data gaps, mile length is 5340.57 feet
+-----------------------------------------------------------
+***********************************************************
+Elapsed time is 52.299578 seconds.
+
+Begining to work on MP509 to MP510.
+MP509 to MP510 is 5357.22 feet, mean D =   6.9.
+
+***** Data Gap ******  131.65 ft gap 136 to 137 count:1
+Last data point:348, last in:
+
+***** Data Gap ******   69.65 ft gap 140 to 141 count:2
+Last data point:348, last in:
+
+***********************************************************
+-----------------------------------------------------------
+End mile   509 to   510,  5357 ft long,  339 stations.
+ 1686 total stations,    761 data points, mean pt sep   6.9.
+5 stations w/o MOD due to data gaps, mile length is 5357.22 feet
+-----------------------------------------------------------
+***********************************************************
+Elapsed time is 55.831261 seconds.
+
+Begining to work on MP510 to MP511.
+MP510 to MP511 is 5339.84 feet, mean D =   6.2.
+
+***********************************************************
+-----------------------------------------------------------
+End mile   510 to   511,  5340 ft long,  338 stations.
+ 2024 total stations,    846 data points, mean pt sep   6.2.
+6 stations w/o MOD due to data gaps, mile length is 5339.84 feet
+-----------------------------------------------------------
+***********************************************************
+Elapsed time is 59.981107 seconds.
+
+Begining to work on MP511 to MP512.
+??? Attempted to access x(5471); index out of bounds because numel(x)=5470.
+
+Error in ==> RailAlinementRunner at 330
+     afterMP                 =
+     dist2pts(mpX(mpIdxEnd),mpY(mpIdxEnd),mpZ(mpIdxEnd),...

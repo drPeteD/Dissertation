@@ -1,0 +1,278 @@
+% !TEX root = dissertation2.tex
+\chapter{Conclusions}
+This chapter contains a summary of the purpose, procedures, major findings, conclusions and discussion, recommendations, and implications of the research.
+
+% Purpose
+\section{Purpose}
+
+The researcher explored track measurement using commercial off-the-shelf instrumentation to observe railway positions. The research examines a system for track surveying that minimizes exposure to railway hazards, is cost-effective, and produces accurate repeatable measurements without burdening train movement authority or disrupting yard operations, answering these questions:
+
+1)\emph{Hump Yard Profile:}
+Can a locomotive use wireless position measurement to determine the vertical profile of bowl tracks in an automatic classification yard to an accuracy of tenth of a foot during production activities?
+
+2)\emph{Horizontal Track Alinement:}
+Can a common track vehicle use wireless position measurement to determine the horizontal degree of curvature ($D_c$) comparable with specialized track geometry vehicles?
+
+3)\emph{Track Occupancy:}
+Can a common track vehicle use wireless position measurement to meet the positioning requirements for track occupancy outlined by the FRA~\citep[pp.6-7]{1995FRADiffe} for a location determination system?
+
+% Procedures
+\section{Procedures}
+
+The researcher conducted three experiments which used common track vehicles equipped with COTS GNSS survey instruments. To observe track position, a single RTK antenna and receiver were mounted to a locomotive in the case of the hump yard, or to a Hi-Rail in the case of mainline track. Correctors were transmitted to a mobile receiver using two methods; a VHF data radio in the case of the humpyard; and the public cellular network in the case of mainline track. No auxiliary instrumentation was used to modify observations or fill expected data gaps.
+
+% Experiment one procedures
+\begin{enumerate} 
+\item Experiment 1 traversed an active hump yard with a locomotive equipped with an RTK GPS instrument. Observed track positions were used to produce a profile for each track. The relative vertical precision of the locomotive observations and the reference station observations were examined for the influence of multi-path signal reflections. Experiment 1:
+
+\begin{itemize}
+	\item Developed a procedure for aligning a GPS antenna mounted to a locomotive with the track  centerline top-of-rail location.
+	\item  Collected continuous single epoch observations on a nominal 10 foot horizontal spacing with RTK augmented GPS onboard a locomotive in an active hump yard. 
+	\item Produced a plan-view color-map of track elevation for the bowl area of a hump yard.
+	\item Produced a two-dimensional profile drawings for each track in 1:1 and 1:5 vertical scale.
+	\item Produced a plan-view color-map of relative vertical precision as determined by the \emph{Survey Controller} software for points measured in the bowl area of the yard.
+	\item Determined the descriptive statistics of the relative vertical precision estimate as determined by \emph{Survey Controller} software for the locomotive mounted GPS.
+	\item Produced a TEQC report for the ad hoc reference station during an observation session for the purpose of determining clock resets due to multi-path GPS signal reflection.
+\end{itemize}
+
+% Experiment two procedures
+\item Experiment 2 traversed a 29 mile segment of mainline track by an inspector's Hi-Rail equipped with RTK GNSS instruments. A software model was used to determine the degree of curvature (${D_c}$). The model output was verified against rail company track charts for location, magnitude, and direction of track features. The model was used to evaluate the performance of RTK GNSS against a specialized track geometry car across tangent track. Experiment 2:
+\begin{itemize}
+	\item Developed a procedure for aligning a GNSS antenna mounted to a Hi-Rail with the track centerline top-of-rail location.
+	\item Developed a procedure for RTK measurement by Hi-Rail across mainline track.
+	\item Developed a software model of the string line method as described by the FRA \emph{Track Safety Standards Compliance Manual}.~\citep{2007FRATrack}
+	\item Compared the model output from RTK Hi-Rail inputs with company track charts. The comparison between the model and track charts was verified for curve location, magnitude, and location. Mile length determined by the model was compared with the published track chart mile length.
+	\item Produced descriptive statistics for $D_c$ variation across a tangent segment for a track geometry car and RTK Hi-Rail modeled $D_c$.
+	\item Produced a graphic solution for comparing $D_c$ measured by geometry car and RTK equipped Hi-Rail by plotting $D_c$ vs. mile post reference.
+	\item Determined the variability of $D_c$ as measured by a geometry car and RTK equipped Hi-Rail across tangent track.
+\end{itemize}
+
+% Experiment three procedures
+\item Experiment 3 evaluated the ability of RTK GNSS to determine track occupancy. Five surveys traversed a parallel multitrack section of mainline track. The cross-track error between a baseline survey and subsequent surveys was evaluated in both a tangent and circular curved segments. The statistical likelihood of estimating track occupancy meeting FRA guidelines for a location determination system was determined. Experiment 3:
+
+\begin{itemize}
+\item Observed track positions for three parallel tracks by RTK GNSS equipped Hi-Rail.
+\item Determined the coefficients for a reference tangent and circular track centerlines from an initial traverse.
+
+\item Determined the cross-track error between subsequent RTK Hi-Rail observations and the reference tangent curve centerline.
+
+\item Determined by hypothesis test if statistical evidence exists to indicate if RTK GNSS is capable of determining track occupancy meeting FRA performance standards for a location determination system.
+\end{itemize}
+\end{enumerate}
+% Major findings
+\section{Major Findings}
+
+The research answered the questions:
+ 
+\begin{enumerate}
+
+% Major findings, hump yard survey
+\item Can a locomotive use wireless position measurement to determine the vertical profile of bowl tracks in an automatic classification yard to an accuracy of tenth of a foot during production activities?
+
+The experiment was successful in using a single reference station located at the rail terminal with a RTK equipped locomotive to define the grades of 58 tracks in an automatic classification yard during production activity to a mean relative vertical accuracy of 0.078 feet.
+\begin{itemize}
+\item The hump yard profile survey resulted in a ground hazard exposure of six man-hours.
+\item The hump yard profile survey resulted in ten thousand single epoch observations.
+\item The hump yard profile survey was completed in 5 working days.
+\item The hump yard profile survey cost 100 man hours and 4-1/2 locomotive shifts.
+\item The hump yard profile survey interrupted humping operations for less than 2 hours.
+\item Distortions from multi-path reflection were not detected. 
+\end{itemize}
+
+% Major findings, track alinement
+\item Can a common track vehicle in using networked RTK GNSS to determine the horizontal degree of curvature ($D_c$) comparable with specialized track geometry vehicles?
+
+The experiment was successful in determining $D_c$ from measurements utilizing a track inspector's Hi-Rail equipped with a RTK GNSS instrument. Correctors received from a state sponsored VRS network transmitted through a public cellular network provided continuous coverage across 29 miles of mainline track.
+
+The comparison of $D_c$ between the X,Y,Z coordinates modeled from a RTK GNSS traverse by Hi-Rail and a specialized track geometry car over an identical segment of tangent track were comparable in terms of approximate result. However, the $D_c$ standard deviation modeled from RTK X, Y, Z coordinates was twice the valus as the $D_c$ standard deviation obtained from the CSX GMRS-1 track geometry car.
+
+\begin{itemize}
+\item Five traverses of multiple parallel track resulted in 97,180 single epoch observations.
+\item The software model determined ${D_c}$ by 62 foot chords and 15.5 foot stations. The model output compared favorably with published rail company track charts.
+\item Data gaps in the model output were identified. Each obstruction was identified as a fixed overhead structure such as a highway overpass, bridge superstructure, or signal bridge.
+\item RTK ${D_c}$ measurements by Hi-Rail across a tangent track segment were found to have a 2${\sigma}$ confidence interval of the mean between -0.041 and 0.033 feet, with a standard deviation of 0.279 feet. The CSX GMRS-1 track geometry car traversing the identical tangent segment was found to have a 2${\sigma}$ confidence interval of the mean between -0.031 and -0.022 feet with a standard deviation of 0.131 feet.
+\end{itemize}
+
+% Major findings, track occupancy
+\item Can a common track vehicle use wireless position measurement to meet the positioning requirements for track occupancy outlined by the FRA~\citep[pp.6-7]{1995FRADiffe} for a location determination system?
+
+The experiment was successful in using RTK GNSS to meet the wireless positioning guidelines for a location determination system (LDS). Track occupancy between three parallel tracks, in tangent and circular curve segments, was determined within the significance level suggested by the FRA.
+
+\begin{itemize}
+\item Track occupancy was determined between three parallel tracks by five traverses of a RTK GNSS equipped Hi-Rail.
+%tangent
+\item The coefficients describing the reference tangent on track 2 between MP498.9 and 500.2 were determined to have a slope of  0.1022017 (azimuth = 264.1645$^{\circ}$) and a Y-intercept of 13825809.25. The ${R^2}$ statistic for the regression was determined to be 0.99998.
+\item The mean cross-track error for a traverse of track 2 referencing the track 2 tangent between between MP498.9 and 500.2 was found to be 0.13 feet with a standard deviation of 0.080 feet. The alternate hypothesis $h_{1}: \mu_{xt} \ge \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+\item The mean cross-track error for a traverse of track 3 referencing the track 2 tangent between between MP498.9 and 500.2 was found to be 13.10 feet with a standard deviation of 0.347 feet. The null hypothesis $h_{0}: \mu_{xt} < \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+\item The mean cross-track error for a second traverse of of track 3 referencing the track 2 tangent between between MP498.9 and 500.2 was found to be 13.05 feet with a standard deviation of 0.313 feet. The null hypothesis $h_{0}: \mu_{xt} < \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+\item The mean cross-track error for a traverse of a track of track 1 referencing the track 2 tangent between between MP498.9 and 500.2 was found to be 13.51 feet with a standard deviation of 0.203 feet. The null hypothesis $h_{0}: \mu_{xt} < \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+%circular curve
+\item The coefficients describing the reference circular curve on track 2 between MP500.5 to 500.7 were determined to have an origin located at Northing 13955358.41, Easting 1245217.14 and a radius of 2276.11 feet.
+\item The mean cross-track error for a traverse of track 2 referencing the track 2 circular curve between between MP500.5 to 500.7 was found to be 0.03 feet with a standard deviation of 0.037 feet. The alternate hypothesis $h_{1}: \mu_{xt} \ge \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+\item The mean cross-track error for a traverse of track 3 referencing the track 2 circular curve between between MP500.5 to 500.7 was found to be -14.53 feet with a standard deviation of 0.163 feet. The null hypothesis $h_{0}: \mu_{xt} < \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+\item The mean cross-track error for a second traverse of track 3 referencing the track 2 circular curve between between MP500.5 to 500.7 was found to be -14.57 feet with a standard deviation of 0.142 feet. The null hypothesis $h_{0}: \mu_{xt} < \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+\item The mean cross-track error for a traverse of track 1 referencing the track 2 circular curve between between MP500.5 to 500.7 was found to be 13.93 feet with a standard deviation of 0.095 feet. The null hypothesis The null hypothesis $h_{0}: \mu_{xt} < \frac{11.5}{2}$ was rejected at a 99.999\% confidence level.
+
+\end{itemize}
+\end{enumerate}
+
+% Conclusions and Discussion
+\section{Conclusions and Discussion}
+A number of conclusions may be drawn for an analysis of the data generated by the study.
+\begin{enumerate}
+% Conclusions, hump yard survey
+\item 
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard was able to measure track elevation with a relative vertical accuracy less than 0.1 feet.
+
+\item 
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard is safer than a traditional differential level survey.
+
+The use of a locomotive to survey the yard considerably reduced on-track worker exposure to hazards when compared with a differential level survey. The method of using an RTK locomotive resulted in a ground exposure of 6 man-hours compared with an estimated 500 man-hours for a differential level survey.
+
+\item 
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard provides greater observation density than a typical differential level survey.
+
+The nominal observation distance between observations by RTK locomotive was 10 feet compared with the common practice of using 100 foot stations during a traditional differential level survey.
+
+\item 
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard reduces time-to-completion from an estimated 4-6 weeks to one week.
+
+A related finding was that the use of a RTK equipped locomotive to survey an active hump yard was unaffected by a full day of torrential rain.
+
+\item 
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard reduces labor cost from 500 man-hours to 100 man hours.
+
+\item 
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard increases equipment costs by using a locomotive for 36 hours.
+
+A related finding was that the use of a RTK equipped locomotive to survey an active hump yard could use the survey locomotive to pull cuts of cars, kick stalls, and attend to many of the normal duties assigned to a yard engine without affecting track observations.
+
+\item
+It may be concluded that the method of using a RTK equipped locomotive to survey an active hump yard interrupted hump operations for less than two hours.
+
+\item
+It may be concluded that the reference station and roving receiver used during the locomotive survey of an active hump yard did not exhibit gross positioning errors attributable to multipath signal reflections.
+
+% Conclusions, track alinement
+\item
+It may be concluded that the use of a RTK equipped Hi-Rail during an inspector's routine visual track inspection had no impact on train operations.
+
+\item 
+It may be concluded that the use of a RTK equipped Hi-Rail during an inspector's routine visual track inspection to model ${D_c}$ by the string line method was successfully verified by reference to the location, direction, and ${D_c}$ in company track charts. 
+
+\item
+It may be concluded that the use of a RTK equipped Hi-Rail observations modeling ${D_c}$ was not precisely equivalent to the ${D_c}$ determined by the CSX GMRS-1track geometry car.
+
+A related finding was that the track geometry car 95\% confidence interval of the mean over the tangent segment failed to capture zero ${D_c}$. It may be concluded that; either the track geometry car measurement of ${D_c}$ exhibits a slight bias to the left, or that the tangent track segment under study has a slight left curve.
+
+% Conclusions, track occupancy
+
+\item
+It may be concluded that, given; a priori track centerline locations determined by RTK GNSS; the use of a network RTK VRS server; RTK GNSS equipped track vehicles; and a method of communicating correctors to a track vehicle, that track occupancy can be determined by single epoch RTK GNSS observation to the accuracy suggested for a wireless determination system by the FRA for a location determination system~\citep[pp.6-7]{1995FRADiffe} .
+
+\end{enumerate}
+
+% Recommendations
+\section{Recommendations}
+Recommendations for further study, implementation, and improvements regarding the use of RTK GNSS in railroad transportation as a result of research outcomes.
+
+% Hump yard questions
+\begin{itemize}
+\item
+Can track surfacing equipment be adapted to use automated machine guidance methods? It is not unusual in the railroad industry to rely on operator skill and judgment to establish grade during yard wide resurfacing projects. Operator skill and judgement are not data driven, and do not fully take advantage of available technologies, such as RTK GNSS. A track surfacing system, borrowing from the technology present in 3D machine control methods, would produce data-driven guidance for machine operators.
+
+\item
+Do improvement in track grade lead to increased yard throughput? In general, grades closer to design reduce the need to resurface as frequency; reduce retarder maintenance; and produce closer to the design coupling speed, in turn reducing damage to draft gear and yard derailments leading to a decrease in yard delay. An analysis of pre-surfacing and post-surfacing hump yard throughput would produce evidence of the contribution of grade deterioration on freight service delay.
+
+\item
+How do grade issues affect car handling in flat yards, particularly in light of increasing reliance on remote control locomotive? Flat yards typically handle lower quantities of rail cars than hump yards but share a similar reliance on track grade quality for predictable rail car movement.
+
+% Track alinement questions
+
+\item
+Is a string line model the correct method for determining ${D_c}$? String lining is accepted as a standard for measurement of ${D_c}$, and until recently, the only practical method for a track inspector to flag or find alinement exceptions. More computationally efficient methods are available (by deflection angles) for determining ${D_c}$, and might be more readily adapted for real-time determination of ${D_c}$ from RTK GNSS observations.
+
+\item
+Is ${D_c}$ the correct measurement for determining track alinement? ${D_c}$ is determined in two dimensions, while the railway guides rolling stock in three dimensions. Modeling the trackway in four dimensions (x, y, z, time) may provide a more comprehensive perspective as shown in \href{http://www.youtube.com/watch?v=mOeuHxUPRBc}{this video}\footnote{http://www.youtube.com/watch?v=mOeuHxUPRBc}. The video fly through of the Hamlet Terminal before resurfacing enables the discovery of relationships between tracks not readily apparent in two dimensional profiles.
+
+\item
+Can RTK track observations be considering as a diagnostics tool to provide actionable information for identifying track defects? Additional study and a more refined model for determining ${D_c}$ is required to determine if reliable actionable information can be derived from RTK GNSS track observations for the identification of track alinement defects. The experimental results here indicate that RTK GNSS has the capability to locate defects in track classes 1-4.
+
+\item
+How can RTK add value as a change management tool? RTK GNSS provides the ability to ground-truth asset locations determined from LiDAR surveys, and accurately record the work typically performed during track inspections, such as replacing sheared frog bolts or insulated track joints. Further study in recording track maintenance activity over time may provide the ability to perform geographic trend analysis leading to the identification of geologic, alinement, or weather induced factors affecting particular railway segments.
+
+\item
+Can RTK be used to observe the behavior of CWR\footnote{Continuously Welded Rail} movement due to seasonal temperature effects? Rail expands and contracts with temperature. Anecdotal evidence of track shift in response to long-term seasonal temperature differences can be quantified through further study of this phenomenon by RTK GNSS.
+
+\item
+Can areas of rail breakage or warping\footnote{Aka ``sun kinks''.} be modeled using RTK track observations? Short-term temperature fluctuations that exceed the railway neutral temperature limits impart tensive/compressive forces in the rail. Further study of short-term temperature fluctuation by RTK GNSS may provide sufficient position accuracy to identify factors contributing to this phenomena.
+
+\item
+To what extent will GPS Block IIF satellites reduce data dropouts from overhead structures as experienced during experiment 2 mainline surveys? The addition of the L5 signal and higher power (+3db) of the 12 scheduled\footnote{first L5 capable SV launch May 2010} Block IIF and Block III\footnote{First scheduled launch 2013.} satellites will have a positive benefit for RTK users. Further study would indicate the expected improvement in eliminating data dropouts from overhead structures.
+
+\item
+Is an RTK GNSS survey by Hi-Rail possible in deep mountain valleys, as in the southern coal fields of West Virginia? Coal accounts for the majority of freight carried by rail ~\citep{RITAtransStats08}. The narrow, steep valleys of southern West Virginia present a challenge for maintaining continuous GNSS and data coverage. Further study could identify the major factors impacting the use of RTK GNSS in similar challenged areas.
+
+% Track Occupancy
+
+\item
+Can mobile RTK GNSS, in conjunction with LiDAR derived track centerlines, be used as a basis for a wireless LDS? Class I railroads are flying LiDAR missions over track to quickly produce baseline locations of track and wayside assets in anticipation of meeting PTC regulation by 2015. Further study in looking a the combination of LiDAR derived centerlines with mobile RTK GNSS would establish if the combination is suitable for use as a wireless LDS.
+
+\item
+Can RTK enabled locomotives take advantage of the unused bandwidth of wayside repeaters to transmit train location as part of an LDS? Wayside repeaters relay digitized voice packet to rail company movement authority. Unused capacity exists for transmitting other data through existing infrastructure. Additionally, narrow banding requirements by the FCC will double and eventually quadruple the communication channels available in the AAR VHF and UHF bands. Additionally, Class 1 railroads have obtained spectrum in the 220Mhz band for use in PTC.
+
+Further study exploiting existing wayside radio assets for communicating RTK correctors to mobile units would provide knowledge as to the extent and communication demands for covering areas underserved by public wireless or cellular networks.
+
+\item
+Is the civilian-use safety-of-life signal from GPS BlockIIF sufficient to insure the use of GPS as part of a vital LDS? New GPS signals beginning with the May 2010 launch of the Block IIF series provide a method to signal users of service interruptions. Research defining the needs and performance these signals would determine the suitability of GNSS as a vital system for PTC.
+
+\item
+Can determining the track occupancy of a railcar in transit across a yard assist ``right track, right train'' consist makeup? Correctors transmitted by a rail yard communications system would enable low-cost GPS receivers with sub-meter accuracy.
+	
+\end{itemize}
+
+% Implications
+\section{Implications}
+
+\begin{enumerate}
+
+\item
+Hump yard stakeholders can consider the relative safety costs when selecting a survey method in preparation for yard-wide resurfacing or to identify grade problems.
+
+\item
+The safety aspects of a yard survey by RTK have implications for yard managers, hump yard engineers, and on-track workers. Personnel safety is improved by removing them from potentially hazardous situations. Track closures and railcar reroutes are not mandatory to determine yard grades.
+
+\item
+Increased observation density during a hump yard survey has implications in improving material take-offs estimates and the finished grade quality for yard resurfacing projects.
+
+\item
+Increased observation density, combined with a diligent attention to as-build grades during resurfacing, has implications for reducing variability during the humping process.
+
+\item
+Reducing time-to-completion for a yard survey is of importance to planners and hump yard engineers in estimating yard survey costs.
+
+\item
+The use of a yard trim locomotive is of importance to yard managers in estimating the demand on yard resources in supporting a profile survey.
+
+\item
+The low impact on yard operations is of importance to traffic planners, managers, and hump yard engineering management in eliminated unidentifiable costs caused by track closures and car rerouting.
+
+\item
+The inability to detect anomalous track position due to multi-path signal reflections is of importance to hump yard engineers by eliminating a potential measurement error source when performing a RTK survey.
+
+\item
+Track engineering and maintenance implications in determining track alinement by RTK GNSS provides: the means to deploy commercial off-the-shelf products; an immediately accessible and proven method for monitoring track behavior monitoring. 
+
+\item
+Increased track position monitoring frequency has implications for track engineering managers and superintendents in studying the behavior of track and as a method for establishing track asset change management procedures.
+
+\item
+Wayside track references rely on established fixed locations for mile post reference positions. Establishing ``virtual mileposts'' has implications for track engineering managers and superintendents in considering how to bridge legacy track reference marks with modern absolute positioning measurement.
+
+\item
+With few exceptions, dense CORS networks are available from each  state in the contiguous US, either as a free service or from private for-profit firms. The growing availability of wireless data and the use of localized VHF/UHF or utilization of the unused bandwidth of wayside repeaters removes the usefulness of NDGPS in all but the most remote locations. The wide availability of RTK services has implications for the need for continued funding of NDGPS.
+
+\item
+Track location transmitted by rolling stock combined with accurate yard centerlines has implications for hump control systems using continuous rail car occupancy rather than timers and switches or video analytics in determining ``right track, right train'' consist makeup. 
+
+\end{enumerate}

@@ -1,0 +1,61 @@
+\select@language {USenglish}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Track Centerline Accuracy Parameters~\citep {2006AllenAssetMap}}}{10}{figure.2.1}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Research Plan}}{20}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Ad hoc Reference Station}}{23}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces GPS/UHF Antenna Setup on Locomotive}}{24}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Track Vehicle Antenna Alinement Procedure}}{25}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Horizontal Alinement}}{29}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces GNSS Antenna Mount, Hi-Rail}}{31}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Modeling the String Line Method from RTK Track Observations}}{33}{figure.3.7}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Plan View MP 508-509}}{45}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Plan View MP 521-522}}{45}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces GMRS and Hi-Rail, $D_c$ Comparison}}{50}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces GMRS and Hi-Rail, $D_c$ Comparison with Smoothing}}{51}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces GMRS ${D_c}$ Histogram, 210.4 to 209.75 tangent}}{51}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Hi-Rail ${D_c}$ Histogram, 210.4 to 209.75 tangent}}{51}{figure.4.6}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1}{\ignorespaces Hump Yard Elevation Color Map}}{72}{figure.5.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Group 3 Track Profile Thumbnails}}{74}{figure.5.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Group 4 Track Profile Thumbnails}}{75}{figure.5.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Group 5 Track Profile Thumbnails}}{76}{figure.5.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Group 6 Track Profile Thumbnails}}{77}{figure.5.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Group 7 Track Profile Thumbnails}}{78}{figure.5.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Group 8 Track Profile Thumbnails}}{79}{figure.5.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Group 9 Track Profile Thumbnails}}{80}{figure.5.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Relative Vertical Precision Color Map}}{81}{figure.5.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Relative Vertical Precision Histogram}}{82}{figure.5.10}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {11}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP494-495.pdf}{MP 494-495}}}{91}{figure.5.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP495-496.pdf}{MP 495-496}}}{91}{figure.5.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP496-497.pdf}{MP 496-497}}}{92}{figure.5.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP497-498.pdf}{MP 497-498}}}{92}{figure.5.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP498-499.pdf}{MP 498-499}}}{93}{figure.5.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP499-500.pdf}{MP 499-500}}}{93}{figure.5.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP500-501.pdf}{MP 500-501}}}{94}{figure.5.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP501-502.pdf}{MP 501-502}}}{95}{figure.5.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP502-503.pdf}{MP 502-503}}}{95}{figure.5.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP503-504.pdf}{MP 503-504}}}{96}{figure.5.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP504-505.pdf}{MP 504-505}}}{96}{figure.5.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP505-506.pdf}MP 505-506}}{97}{figure.5.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP506-507.pdf}{MP 506-507}}}{98}{figure.5.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP507-508.pdf}{MP 507-508}}}{98}{figure.5.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP508-509.pdf}{MP 508-509}}}{99}{figure.5.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP509-510.pdf}{MP 509-510}}}{99}{figure.5.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP510-511.pdf}{MP 510-511}}}{100}{figure.5.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP511-512.pdf}{MP 511-512}}}{101}{figure.5.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP512-513.pdf}{MP 512-513}}}{101}{figure.5.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP513-514.pdf}{MP 513-514}}}{102}{figure.5.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP514-515.pdf}{MP 514-515}}}{102}{figure.5.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP515-516.pdf}{MP 515-516}}}{103}{figure.5.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP516-517.pdf}{MP 516-517}}}{104}{figure.5.33}
+\contentsline {figure}{\numberline {34}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP517-518.pdf}{MP 517-518}}}{104}{figure.5.34}
+\contentsline {figure}{\numberline {35}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP518-519.pdf}{MP 518-519}}}{105}{figure.5.35}
+\contentsline {figure}{\numberline {36}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP519-520.pdf}{MP 519-520}}}{105}{figure.5.36}
+\contentsline {figure}{\numberline {37}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP520-521.pdf}{MP 520-521}}}{106}{figure.5.37}
+\contentsline {figure}{\numberline {38}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP521-522.pdf}{MP 521-522}}}{107}{figure.5.38}
+\contentsline {figure}{\numberline {39}{\ignorespaces Hi-Rail Alinement, Kanawha Sub, \href {run:data/alinement/MP522-523.pdf}{MP 522-523}}}{107}{figure.5.39}

@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: dissertation2.aux
+The style file: plainnat.bst
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: signature.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: dedication.aux
+A level-1 auxiliary file: one.aux
+A level-1 auxiliary file: two.aux
+A level-1 auxiliary file: three.aux
+A level-1 auxiliary file: four.aux
+A level-1 auxiliary file: five.aux
+A level-1 auxiliary file: AppendixA.aux
+A level-1 auxiliary file: AppendixB.aux
+Database file #1: Dissertation.bib
+You've used 42 entries,
+            2773 wiz_defined-function locations,
+            861 strings with 12376 characters,
+and the built_in function-call counts, 13818 in all, are:
+= -- 1266
+> -- 578
+< -- 39
++ -- 219
+- -- 174
+* -- 867
+:= -- 2220
+add.period$ -- 155
+call.type$ -- 42
+change.case$ -- 186
+chr.to.int$ -- 39
+cite$ -- 84
+duplicate$ -- 698
+empty$ -- 1288
+format.name$ -- 220
+if$ -- 2906
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 12
+newline$ -- 243
+num.names$ -- 168
+pop$ -- 426
+preamble$ -- 1
+purify$ -- 142
+quote$ -- 0
+skip$ -- 511
+stack$ -- 0
+substring$ -- 99
+swap$ -- 71
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 447
+warning$ -- 0
+while$ -- 127
+width$ -- 0
+write$ -- 583
