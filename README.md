@@ -5,7 +5,7 @@
 ### Abstract
 
 Transportation of freight by rail is an exceptionally fuel efficient mode. Rail’s exceptional
-efficiency comes with a high cost for inspection and maintenance of the railway to insure train
+efficiency comes with a high cost for inspection and maintenance of the railway to ensure train
 safety at design speed. The Federal Railroad Administration imposes operational safety by requiring
 compliance with regulations which rely on timely track inspection.
 Further, new standards for train movement authority, known collectively as positive train control,
